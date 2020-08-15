@@ -5,7 +5,7 @@
     max-width:40rem;
     margin:1.5rem;
   }
-  
+
   img
   {
     border-top:1px solid black;
@@ -14,11 +14,11 @@
     padding-bottom:0.75rem;
     border-bottom:1px solid black;
   }
-  
+
   h1
   {
     margin-top:4rem;
-    display: inline-block;
+    display:inline-block;
     border-bottom:1px solid black;
   }
 </style>
@@ -32,11 +32,17 @@
 
 # 0 What's new
 
-- Mentoren hebben een kleinere groep studenten maar neemt meer verantwoordelijkheid. Studenten uit de verschillende groepjes hebben vrijwel geen contact onderling.
+- De meeste assistentie wordt weer aangevraagd via het "Hands"-systeem, zelfs al doen we alles online.
+- Mentoren hebben een kleinere groep studenten maar nemen meer verantwoordelijkheid: zij zorgen dat elke student goed de cursus kan volgen.
+- Studenten uit de verschillende groepjes hebben vrijwel geen onderling contact: elke groep is in feite een eigen "klas".
 - Er is een nieuw stappenplan voor het uitwerken van opdrachten. Het verzinnen van een oplossing is losgekoppeld van het implementeren in code.
-- Er is meer expliciete samenwerking tussen studenten, namelijk bij het verzinnen van oplossingen en het reviewen van code. De implementatie blijft individueel.
+- Er is meer expliciete samenwerking tussen studenten, namelijk bij het verzinnen van oplossingen en het reviewen van code. Maar: de implementatie blijft individueel.
 - Geen toetsjes maar enerzijds korte opdrachtjes voor de werkgroepen en anderzijds random oefeningen online.
-- TODO: nieuwe opdrachten?
+- Er is nog maar één hackeropdracht per module, namelijk de "moeilijke". De relatief makkelijke hacker-opdrachten gaven de verkeerde indruk van de bedoeling.
+- Nieuwe opdrachten:
+  - Module 4 **Filter**, was vorig jaar al nieuw
+  - Module 6 ... Python-dingen? `TODO`
+- De website heeft weer nieuwe kleurtjes en is veel sneller door gebruik van [Turbolinks](https://github.com/turbolinks/turbolinks).
 
 # 1 De Minor Programmeren
 
@@ -84,7 +90,9 @@ CS50 is een cursus *Introduction to Computer Science* van Harvard[^2]. Bij de mi
 
 - Programmeren 2 behandelt de basis van **datastructuren** en **objectgeorienteerd** programmeren. Eerst datastructuren "met de hand" opbouwen in C, en dan kijken hoe Python een heleboel kant-en-klaar aanbiedt.
 
-De meeste studenten die de minor volgen hebben weinig tot geen ervaring met programmeren. Precies voor hen is CS50 ontworpen. Toch kan het niveau van studenten erg uiteen liggen, dus hier moeten we rekening mee houden. Veel studenten hebben na de minor de smaak te pakken en kiezen in hun vervolgtraject voor andere programmeervakken of zelfs een master in het vakgebied.
+- Daarnaast zijn er enkele aangepaste versies van de cursus die ingekort zijn, of waar het tweede deel vervangen is door andere Python-opdrachten (Programmeren Beta-gamma, Programmeren IK, Introductie in Programmeren).
+
+De meeste studenten die onze vakken volgen hebben weinig tot geen ervaring met programmeren. Precies voor hen is CS50 ontworpen. Toch kan het niveau van studenten erg uiteen liggen, dus hier moeten we rekening mee houden.
 
 Studenten zullen verreweg de meeste tijd besteden aan het maken van grotere **programmeeropdrachten**. Elke cursusmodule bestaat uit enkele van deze opdrachten. De werkwijze voor studenten is vastgelegd in een schema:
 
@@ -99,13 +107,13 @@ TODO: tentamen is optioneel?
 
 # 3 Taakverdeling
 
-Bij de uitvoering van de cursus zijn de verantwoordelijkheden verdeeld over de medewerkers. Als assistent heb je allereerst de verantwoordelijkheid om een aantal uur per week studenten uit de hele groep te **assisteren** met hun programmeeropdrachten, via een forum of direct met één student in een videogesprek. Daarnaast ben je voor een vaste groep studenten de **mentor**. Als mentor weet je heel precies hoe de cursus in elkaar zit en welke regeltjes van toepassing zijn, voor zover die in de studiewijzer vermeld staan. Je leert de studenten uit je groep goed kennen en houdt nauwkeurig hun voortgang bij---zij melden bijvoorbeeld ziekte allereerst bij jou. Dit is bovendien de groep studenten van wie je het werk nakijkt.
+Bij de uitvoering van de cursus zijn de verantwoordelijkheden verdeeld over de stafleden. Als assistent heb je allereerst de verantwoordelijkheid om een aantal uur per week studenten uit de hele groep te **assisteren** met hun programmeeropdrachten, via een forum (Ed) of direct in een videogesprek. Daarnaast ben je voor een vaste groep studenten de **mentor**. Als mentor ben je het eerste aanspreekpunt voor de studenten in jouw group. Het is daarom belangrijk dat je als mentor precies weet hoe de cursus in elkaar steekt en welke regels van toepassing zijn, voor zover die in de studiewijzer vermeld staan. Je leert de studenten uit je groep goed kennen en houdt nauwkeurig hun voortgang bij---zij melden bijvoorbeeld ziekte allereerst bij jou. Dit is bovendien de groep studenten van wie je het werk nakijkt.
 
 ![](rollen.png)
 
-Het **hoofd** van een cursus werkt met de mentoren om de voortgang van alle studenten bij de houden. Het hoofd heeft hierbij toegang tot de resultaten en inzendingen van alle groepen, en kan zo de verschillen goed zien en makkelijk de probleemgevallen vinden. Voor inlichtingen over de probleemgevallen zal altijd de mentor worden geraadpleegd. Het hoofd is ook degene die assistenten helpt om goed hun werk te kunnen doen en heeft wekelijks contact met ze. Tot slot verzorgt het hoofd de wekelijkse plagiaatcheck en eventuele gesprekken met studenten hierover.
+De **coördinator** van een cursus werkt met de mentoren om de voortgang van alle studenten bij te houden. Het coördinator heeft hierbij toegang tot de resultaten en inzendingen van alle groepen, en kan zo de verschillen goed zien en makkelijk de lastigere gevallen vinden. Voor inlichtingen over studenten zal altijd de mentor worden geraadpleegd. Het coördinator is ook degene die assistenten helpt om goed hun werk te kunnen doen en heeft wekelijks contact met ze, bijvoorbeeld over het nakijken. Tot slot verzorgt het coördinator de wekelijkse plagiaatcheck en eventuele gesprekken met studenten hierover.
 
-De **coördinator** heeft allereerst het totaaloverzicht over hoe de cursus in elkaar zit en heeft als verantwoordelijkheid om te zorgen dat elke student de cursus goed kan doorlopen en daarvoor uiteindelijk een passend cijfer ontvangt. Ook kan de coördinator studenten helpen die niet goed meekomen en tussentijds hun plannen willen omgooien. De coördinator dient bovendien als contactpersoon voor studieadviseurs, examencommissie e.d.
+De **examinator** heeft het totaaloverzicht over hoe de cursus in elkaar zit en heeft de verantwoordelijkheid om te zorgen dat elke student de cursus goed kan doorlopen en daarvoor uiteindelijk een passend cijfer ontvangt. Ook kan de examinator studenten helpen die niet goed meekomen en tussentijds hun plannen willen omgooien. De examinator dient bovendien als contactpersoon voor studieadviseurs, examencommissie e.d.
 
 
 # 4 Contact
@@ -114,7 +122,7 @@ Er zijn vier manieren waarop de studenten actief betrokken worden bij de cursus:
 
 ## 4.1 Videocolleges
 
-De hoorcolleges worden grotendeels gegeven door David J. Malan van CS50 en zijn per video beschikbaar[^2]. Elke week worden de colleges die bij de problem set horen beschikbaar gesteld via de website. De hoorcolleges zijn vrij self-explanatory, dus je kunt van de student verwachten dat hij/zij het in zijn/haar eigen tijd kijkt.
+De hoorcolleges worden grotendeels gegeven door David J. Malan van CS50 en zijn per video beschikbaar[^2]. Elke week worden de colleges die bij de problem set horen beschikbaar gesteld via de website. De hoorcolleges zijn vrij self-explanatory, van de studenten verwachten we dat hij/zij het in zijn/haar eigen tijd kijkt.
 
 ## 4.2 Werkgroepen
 
@@ -134,11 +142,8 @@ Elke student zou regelmatig hulp nodig moeten hebben tijdens het programmeren (m
 
 - Voor meer technische hulp (bijvoorbeeld met installatie) is het mogelijk een losse afspraak te maken. Hiervoor is een planningstool op **Calendly** beschikbaar.
 
-Als studenten **niet goed geholpen** kunnen worden dan meldt de assistent dit altijd via een to-do in Basecamp. Hoofd of coördinator kan dan zorgen dat men sowieso nog even bij de student nagaat of er al voortgang is, en zonodig extra hulp bieden.
 
-TODO: procedure to-do in Basecamp
-
-# Nieuw: The Steps
+# Nieuw: het stappenplan
 
 > Deze uitleg over probleemoplossen is een nieuwe handleiding voor studenten. Zij gaan deze vanaf module 1 direct toepassen. Mentoren helpen studenten nadrukkelijk bij het volgen van dit proces en zorgen bovendien tijdens de werkgroepen voor het matchen van partners voor de delen waar samengewerkt zal worden.
 
@@ -159,9 +164,9 @@ Most likely, your problem description already contains one or two examples of ru
 Do you have a problem getting to the right solution or finding how to make some calculation? That means that either the problem is **underspecified** or you might lack a tiny bit of **knowledge** from the problem domain. Try to figure out which one it is and ask for help if needed!
 
 > **Intermezzo: Watch the walkthrough**
-> 
+>
 > Some of our problems come with a **walkthrough** movie in which some of the core assumptions and ideas are explained. If it appears that you lack some domain knowledge, it is likely that this is explained in the walkthrough.
-> 
+>
 > Ideally, you watch the walkthrough just after you have tried solving some of the problem instances yourself. Note that the walkthroughs often also explain practical matters of getting input and formatting output. The Steps only concern the core algorithm, so be sure to get back to the walkthrough as soon as you are ready to code your solution.
 
 
@@ -232,31 +237,31 @@ TODO: Nakijken en reflectie invoegen
 
 # 5 Mentoren
 
-Mentoren krijgen een groep van 8--12 studenten voor wie zij altijd het **eerste aanspreekpunt** zijn bij de cursus.
+Mentoren krijgen een groep van 8--12 studenten voor wie zij het **eerste aanspreekpunt** zijn bij de cursus.
 
 ## 5.1 Aanspreekpunt
 
 Mentoren leren alle studenten uit hun mentorgroep goed kennen. Dat betekent dat ze na een paar weken het volgende weten over deze studenten:
 
 - Eigen hoofdopleiding
-- Programmeerervaring of zelfs vakken gedaan
+- Programmeerervaring
 - Comfort met programmeren, naar eigen gevoel
 - Thuissituatie die wel/niet handig is voor online leren programmeren
 - Werkt graag samen of niet
 - Levert tijdig in
 - Neemt goed deel aan de cursus en de werkgroepen
 
-Hoewel mentoren dus belangrijke details over hun studenten kennen, beperkt het contact met hun studenten zich wel tot zaken die van belang zijn voor het onderwijs.
+Hoewel mentoren de belangrijke details over hun studenten kennen, beperkt het contact met hun studenten zich wel tot zaken die van belang zijn voor het onderwijs.
 
-Bij meer persoonlijke problemen proberen we altijd goed gebruik te maken van de faciliteiten van de universiteit, zoals studieadviseurs en studentendecanen. De cursuscoördinator weet meer over de mogelijkheden en kan studenten verwijzen. De mentor hoeft dat niet zelf te doen, maar is vaak wel de eerste die de problemen signaleert.
+Bij meer persoonlijke problemen proberen we altijd goed gebruik te maken van de faciliteiten van de universiteit, zoals studieadviseurs en studentendecanen. De examinator weet meer over de mogelijkheden en kan studenten verwijzen. De mentor hoeft dat niet zelf te doen, maar is vaak wel de eerste die de problemen signaleert.
 
-Aan de andere kant ligt het voor de hand dat een mentor ook aanspreekpunt is voor klachten en voor grote frustraties die studenten opbouwen tijdens het programmeren. Dit kan bij naar boven komen tijdens de werkgroepen. Dat is geen probleem! Zie het niet als een persoonlijke aanval, maar als een noodzakelijke uitlaatklep.
+Aan de andere kant ligt het voor de hand dat een mentor ook aanspreekpunt is voor klachten en voor grote frustraties die studenten opbouwen tijdens het programmeren. Dit kan naar boven komen tijdens de werkgroepen. Dat is geen probleem! Zie het niet als een persoonlijke aanval, maar als een noodzakelijke uitlaatklep. Ga er vooral niet in mee, en ga ook zeker niet in de verdediging. Het belangrijkste is dat studenten het kunnen uiten.
 
 ## 5.2 Groepsvorming
 
-Bij online onderwijs is het vooral de groepsvorming die een stuk lastiger is dan bij onderwijs waar studenten continu met elkaar aan één tafel zitten. Daarom maakt elke mentor een **Slack**-account aan voor de eigen studenten. Alle studenten worden geacht daar te registreren. Slack is dan de plek waar praktische afspraken worden gemaakt en waar snelle vragen worden uitgewisseld. Contact is laagdrempelig. Maar: mentoren zullen *niet* permanent beschikbaar zijn via Slack. Dit wordt in de studiewijzer verteld en ook de mentor zelf zal dit bij de eerste werkgroep duidelijk maken.
+Bij online onderwijs is het vooral de groepsvorming die een stuk lastiger is dan bij onderwijs waar studenten continu met elkaar aan één tafel zitten. Daarom maakt elke mentor een **Slack** aan voor de eigen studenten. Alle studenten worden geacht daar te registreren. Slack is dan de plek waar praktische afspraken worden gemaakt en waar snelle vragen worden uitgewisseld. Contact is laagdrempelig. Maar: mentoren zullen *niet* permanent beschikbaar zijn via Slack. Dit wordt in de studiewijzer verteld en ook de mentor zelf zal dit bij de eerste werkgroep duidelijk maken.
 
-TODO: Whatsapp niet toegestaan om werk/prive goed te kunnen scheiden?
+Whatsapp is hiervoor geen alternatief. Sommige mensen geven hun telefoonnummer liever niet af (waaronder mentoren), dus Slack is de norm. Blijf de studenten verzoeken om alle onderwijsgerelateerde zaken via Slack ter sprake te brengen en zorg dat je zelf daar bereikbaar bent.
 
 ## 5.3 Werkgroepen
 
@@ -264,18 +269,19 @@ TODO: Verder uitwerken
 
 Gebruik van de camera is voor alle studenten vereist (laat weten als je omgeving niet geschikt is om te kunnen videobellen, dan kijken we of we een alternatieve werkplek kunnen vinden).
 
-
 ### Feedback
 
-Neem elke week tijdens het practicum je eigen studenten apart en spreek individueel de feedback van vorige opdracht door. Word bekend met je eigen studenten, zodat ze zich op hun gemak voelen. Nodig ze uit vragen te stellen over de huidige opdracht of de feedback van vorige week. Neem ook de tijd voor studenten die het goed doen; praat met hen over verbeterpunten of hackeropdrachten. Indien het minder goed gaat met een student, verwijs je dit door naar de hoofdassistent. Maak zelf geen beloftes of uitzonderingen. Laat de student tevens een mail sturen naar help@mprog.nl.
+Nodig studenten uit vragen over de feedback van vorige week. Breng zelf ook een paar interessante feedback punten van het nakijken mee om te bespreken. Indien het minder goed gaat met een student, verwijs je dit door naar de coördinator. Maak zelf geen beloftes of uitzonderingen, buiten wat er in de studiewijzer staat. Laat de student tevens een mail sturen naar help@mprog.nl.
+
+TODO: ^
 
 ### Planning
 
-Mentoren hebben een een belangrijke rol in de planning van de stappen voor studenten. Zij hebben voor een deel van het werk een partner nodig 
+Mentoren hebben een belangrijke rol in de planning van de stappen voor studenten. Zij hebben voor een deel van het werk een partner nodig
 
-- De eerste wordt optioneel samen gedaan, dus tijdens de werkgroep moeten studenten gestimuleerd worden een partner te kiezen om mee samen te werken.
+- De eerste stap (het ontwerp) wordt optioneel samen gedaan met een partner. Dit wordt tijdens de werkgroep samen met de mentor afgesproken. Stimuleer studenten om een partner te kiezen om mee samen te werken.
 
-- De partner voor code review deel jij in. Dit moet voor de hele groep wekelijks een andere partner zijn, zodat studenten kennismaken met verschillende perspectieven.
+- De partner voor code review deel jij als mentor in. Dit moet voor de hele groep wekelijks een andere partner zijn, zodat studenten kennismaken met verschillende perspectieven.
 
 ## 5.4 Doorverwijzen
 
@@ -285,38 +291,84 @@ Je hoeft je als assistent niet bezig te houden met:
 - serieuze studieproblemen
 - persoonlijke problemen
 
-Komt een van deze dingen naar voren, verwijs dit altijd door naar de hoofdassistent. Vraag de student **ook** een mail te sturen naar <help@mprog.nl>. Zorg wel altijd dat je zelf ook het hoofd op de hoogte brengt, omdat studenten het vaak moeilijk vinden om verdere hulp te vragen. Het is belangrijk dat wij vanaf de eerste vraag om hulp medeverantwoordelijkheid nemen en een student niet aan z'n lot overlaten.
+Komt een van deze dingen naar voren, verwijs dit altijd door naar de cursuscoördinator. Vraag de student **ook** om zelf een mail te sturen naar <help@mprog.nl>. Maar studenten vinden het vaak moeilijk om verdere hulp te vragen, dus de mentor moet het ook direct melden. Het is belangrijk dat wij vanaf de eerste vraag om hulp medeverantwoordelijkheid nemen en een student niet aan z'n lot overlaten.
 
 
 # 6 Assisteren
 
-Hiervoor is al kort besproken wat er van de student verwacht wordt tijdens het computerpracticum, nu volgt een korte beschrijving van wat een assistent biedt. Er zullen altijd meerdere assistenten aanwezig zijn, dus stimuleer elkaar. Probeer niet stil te zitten, maar aanwezig te zijn in de ruimte. Een rondje maken langs studenten die je nog niet gesproken hebt is dan een goede activiteit. Wees ook niet bang om hulp te vragen aan mede-assistenten, met zijn twee ̈en weet je altijd meer dan alleen.
+Zoals eerder uitgelegd kunnen studenten op drie manieren om assistentie vragen: via een forum, via het Hands-systeem, en voor de heel ingewikkelde vragen via een aparte afspraak.
 
-## 6.1 Vragen beantwoorden
+Vragen stellen via het forum heeft de allergrootste voorkeur. Veel studenten zullen echter in het begin nog moeite hebben met het formuleren van een schriftelijke vraag. We stimuleren studenten wel zoveel mogelijk om dat te doen. Simpelweg omdat zij dan het meeste werk doen, en het meeste leren.
 
-TODO: Steps integreren
+Als het **niet** lukt een student goed te helpen dan meldt de assistent dit altijd via een to-do in Basecamp ("Nazorg"). De coördinator kan dan zorgen dat men sowieso nog even bij de student nagaat of er al voortgang is, en zonodig extra hulp bieden.
 
-Tijdens het practicum helpen we studenten op vier gebieden:
+## 6.1 Regel één van assisteren is...
 
-1. probleemdecompositie
-2. procesondersteuning
+Het doel van assisteren is om studenten **verder te helpen** tijdens het leren. Dat betekent dat we altijd afwegingen moeten maken hoe we iemand helpen; een afweging gebaseerd op hoe de student ervoor staat, of de vraag goed gesteld is, of er nog genoeg tijd is tot de deadline.
+
+Maar de belangrijkste regel is: **we geven het antwoord niet weg**. In plaats van studenten rechtstreeks vertellen wat ze moeten doen, moeten we ze helpen nadenken over wat hun volgende stap is. Maar het varieert wel. Gaat de vraag (in feite) over het ontwerp van de oplossing, dan moet je iemand misschien helpen om een paar stappen terug te doen. Maar gaat de vraag over een technische issue, dan kun je ze misschien wat directer wijzen hoe ze hun probleem kunnen oplossen, bijvoorbeeld door een foutmelding in Google te plakken. Tot slot kan het zijn dat je ziet dat een heel klein deeltje van de oplossing verkeerd is gekozen.
+
+Hou deze regel altijd in gedachten en maak een **bewuste keuze**. Je mag het ook best zeggen tegen studenten: "ik moet even nadenken hoe ik je het beste kan helpen zonder het antwoord weg te geven". Maar wel vriendelijk!
+
+## 6.2 Soorten vragen
+
+Tijdens het assisteren helpen we studenten op vier gebieden:
+
+1. probleemdecompositie (fase 1 van het stappenplan)
+2. implementatie (fase 2 van het stappenplan)
+2. procesondersteuning (het stappenplan zelf)
 3. vragen formuleren
 4. debugging
 
-Studenten kunnen een hulpvraag indienen via de website. Deze hands verschijnen voor de assistenten op de website en kunnen zo overzichtelijk behandeld worden. Zodra je bij een student geweest bent en de vraag beantwoord hebt, teken je de hands af. In de lijst zullen ook studenten zijn die geen vraag gesteld hebben, maar die we een tijdje niet gesproken hebben, of nieuwe studenten. Heet de nieuwe studenten welkom, stel jezelf voor, maak een kort praatje over hoe het computerpracticum werkt en leg uit hoe de student een vraag kan stellen.
+Waarschijnlijk zijn er, zeker in het begin van de cursus, veel vragen die eigenlijk gaan over wat er in de **opdracht** bedoeld wordt. Het is niet altijd makkelijk om een goed overzicht te krijgen van de opdracht. In de walkthrough-filmpjes geeft Zamyla meestal een mooi stappenplan voor het programma. Tijdens het helpen is het nuttig om te vragen of de student dat even wil opzoeken en dit plan samen nog even door te lopen. Meestal is het handig om de student naar het algoritmische deel van de opdracht te sturen, en later pas invoer/uitvoer goed te maken.
 
-Omdat er veel zelfstandigheid van de student verwacht wordt, is het niet de bedoeling dat assistenten kant-en-klare oplossingen aandragen als een student vastzit. Dit zorgt
-er namelijk voor dat de student niet meer zelf op de oplossing kan komen en er minder van leert. Dit kan uiteindelijk zelfs voor problemen bij latere opdrachten zorgen.
+> Hoe kun je de invoer overslaan? Bij Greedy moet de gebruikersinvoer een float zijn, die vervolgens wordt omgezet naar een `int` vóórdat het algoritme ermee aan de slag gaat. Dus dat hele deel kun je vervangen door een `int input = 42;` waarin je het getal kunt aanpassen om te testen. Het geeft beginners vaak veel lucht als ze zo simpel kunnen beginnen met het moeilijkste deel.
 
-Wat werkt dan wel? Laat de student zijn/haar eigen vragen beantwoorden. Door vragen terug aan de student te stellen wordt deze uitgedaagd op een andere manier naar zijn/haar probleem te kijken. Probeer met vragen erachter te komen waar in de kennis nog een stukje mist (probleemdecompositie). Zodra het probleem concreet is, kun je de student gericht op delen van de stof wijzen die hij/zij nog door kan kijken, of geef een hint (procesondersteuning). Af en toe de student een stukje van de puzzel meegeven is dan ook geen probleem, maar houd het beperkt! Hoe meer ze zelf uitvinden, hoe beter.
+In veel gevallen is het probleem van een student terug te leiden naar de eerste fase van het stappenplan. Hier wordt een ontwerp gemaakt van het algoritme waar we naar op zoek zijn. Dit wordt gedaan met zelfverzonnen voorbeelden en een nauwkeurige studie van hoe uit een invoer de uitvoer wordt "berekend". Is er een verkeerde **aanname** gedaan, of is een formule toch niet helemaal **correct**, dan is het vaak nodig om extra voorbeelden te bedenken en uit te vogelen waar het verkeerd zit. Zorg dat je in dit geval de student vraagt om dat te doen en later nog eens af te spreken.
 
-Door de student zo veel mogelijk tools mee te geven om de opdrachten op te lossen, wordt de student steeds zelfstandiger. Wat in de toolset niet mag ontbreken is debugging. Dit varieert van goed een fout lezen in de terminal tot het bedienen van gdb. Het is aan de assistent de taak om de student deze vaardigheden aan te leren. Kijk voor een opfrisser in Think Python[^3], hoofdstuk 20: Debugging.
+Soms is het vooral **integratie** waar een student hulp bij nodig heeft. Er is aardig uitgewerkt algoritme, maar het overzicht ontbreekt nog. Hoe koppel je de invoer aan het algoritme en hoe zorg je dat het programma het juiste resultaat uitvoert? Dat kan nog best lastig zijn. Dit is onderdeel van de implementatie. Ook hier is het nuttig om het stappenplan uit het walkthrough-filmpje even terug te halen (student moet dit doen) en uit te vogelen waar het probleem zit.
 
-Lang niet altijd heeft een student een concrete vraag op het moment dat je als assistent ernaast staat. Help de student in dat geval de vraag formuleren. Dit gaat goed in combinatie met de probleemcompositie. Sommige studenten kunnen eerst nog wat meer tijd gebruiken om zelf wat langer naar hun programma te kijken; probeer zelf een juiste inschatting van de situatie te maken om vervolgens te besluiten de student direct te helpen, of later terug te komen.
+En natuurlijk zijn er veel situaties waarin er een echte **bug** in het programma zit. Het programma zelf heeft al min of meer de juiste vorm, maar er worden bijvoorbeeld variabelen hergebruikt waardoor het niet goed loopt. Dat is het moment dat je hardop gaat meedenken over debuggingtechnieken. Het is aan assistenten om de student deze vaardigheden aan te leren. Natuurlijk kijk je eerst of de student eigenlijk wel weet hoe het debuggen moet (misschien eerst maar eens checken of alle variabelen de juiste waarde hebben met behulp van `printf`?). Kijk voor een opfrisser in *Think Python*[^3], hoofdstuk 20: Debugging, en zorg dat je weet hoe de debugger in de CS50 IDE werkt.
 
-Probeer gemiddeld 10 minuten per student aan te houden tijdens het practicum.
 
-## 6.2 Gesprekstechnieken[^1]
+## 6.2 Ed
+
+Ed is een vraag- en antwoordforum waar onze studenten in een afgeschermde omgeving vragen kunnen stellen. Er zijn aparte afdelingen voor CS50, voor Scientific Programming, voor Web Development en voor Programmeertheorie. Alle studenten van de cursussen die op CS50 gebaseerd zijn zitten bijvoorbeeld wel bij elkaar.
+
+> Studenten moeten worden uitgenodigd voor Ed. Mocht iemand niet zijn uitgenodigd dan kunnen ze direct zelf de helpdesk mailen via <help@mprog.nl>. Nadat ze hun spam-folder gecontroleerd hebben natuurlijk!
+
+![](ed.png)
+
+Binnen elke cursus op Ed zijn er **categorieën** voor opdrachten, zoals bijvoorbeeld "Mario". Zo zijn de opdrachten per vraag te filteren. 
+
+Helemaal onderaan de pagina van een vraag kan een student, of een assistent, een **antwoord** plaatsen. Is dat het definitieve antwoord, dan is dat zichtbaar met een groen vinkje. Tijdens het plaatsen van een antwoord kun je kiezen voor "Mark as answered", maar je kunt later ook op het vinkje klikken om dit om te zetten.
+
+Een vraag schriftelijk stellen is best moeilijk, dus we moeten studenten helpen om dat op een goede manier te doen. Daarvoor is de makkelijkste manier om een follow-upvraag te stellen via het knopje "**Comment**" (of zoals hierboven "Reply").
+
+Let dus op dat er een verschil is tussen Comments en Answers. Je kunt de één ook naar de andere omzetten. Het is dan ook de taak van de assistenten om de vragen goed te **modereren**. Comments en Answers omzetten, opvolgvragen stellen, een vraag als "Answered" markeren. Als dat allemaal goed gebeurd is het makkelijk om de vragen snel te beantwoorden en bijvoorbeeld de nog niet beantwoorde vragen te vinden.
+
+## 6.3 Video-assistentie
+
+Studenten kunnen een hulpvraag indienen via de website. Deze "hands" verschijnen voor de assistenten in een lijst op de website. Je kiest de bovenste student om deze te "claimen", waarna de student een popup ontvangt met een link naar jouw videokanaal. Zodra je bij een student geweest bent en de vraag beantwoord hebt, teken je het verzoek af. Je komt dan weer in de lijst en kunt een nieuwe student uitkiezen om te helpen.
+
+![](hands.png)
+
+Juist bij de video-assistentie is er een kans dat een student nog geen concrete vraag heeft. Help de student in dat geval de vraag formuleren zoals hierboven uitgelegd (6.2). Sommige studenten kunnen ook nog wat meer tijd gebruiken om **zelf** wat langer naar hun programma te kijken; probeer zelf een juiste inschatting van de situatie te maken om vervolgens te besluiten de student direct te helpen, of een duwtje in de goede richting te geven en later nog even terug te komen.
+
+Ziet de code er **slecht** uit? Is de indentatie totaal niet op orde? Vraag de student dan altijd eerst om deze netjes te maken. Niet alleen omdat het "hoort" maar omdat verkeerde indentatie het probleem heel moeilijk vindbaar kan maken. Met een beetje mazzel is het daarna zo gevonden (studenten in de fase hebben overigens vaak ook nog een probleem met de formulering hun oplossing, dus kijk daar ook naar).
+
+Het is mogelijk om een student **terug in de lijst** te plaatsen. Dit kan om twee redenen:
+
+- Het kan zijn dat je deze student zelf korte tijd later nog even wil spreken. Vertel dit duidelijk tegen de student. Deze kan namelijk in de tussentijd ook geen andere vraag indienen! Vergeet het zelf ook niet.
+- Of misschien kom je er niet uit met de vraagstelling en wil je heel graag dat een andere assistent de vraag overneemt. Dit kan alleen als er een andere assistent beschikbaar is; check dit persoonlijk via Basecamp.
+
+Probeer gemiddeld 10 minuten per student aan te houden. Een absoluut maximum is 20 minuten. Duurt het langer, neem dan contact op met de coördinator om te kijken wat de beste aanpak is.
+
+## 6.4 Technische helpdesk
+
+Studenten die vastzitten met hun computer, misschien zelfs hardwareproblemen hebben, of die een zeer concrete technische (debug?)vraag hebben, kunnen een afspraak inplannen via Calendly. Er zijn enkele momenten per week beschikbaar. De assistenten die gewend zijn om voor dit soort problemen een snelle diagnose te stellen kunnen hierbij helpen. Het doel is om studenten zo snel mogelijk weer op weg te krijgen en niet te lang te laten hangen bij problemen waar ze weinig van kunnen leren.
+
+## 6.5 Algemene gesprekstechnieken[^1]
 
 - Complimenteer de student op een duidelijke manier. Kies voor 'heel goed antwoord!', 'zeker weten' of 'precies', etc. Probeer een droog 'ok', 'hmm', 'uhu' te vermijden. Ook als de student een langdradig antwoord geeft, probeer iets te vinden waar je positieve feedback op kunt geven.
 
@@ -328,15 +380,38 @@ Probeer gemiddeld 10 minuten per student aan te houden tijdens het practicum.
 
 - Probeer 'ja, maar...' te vermijden. Dit is een logische reactie op een (deels) fout antwoord, maar kan heel erg demotiverend werken. Probeer duidelijk te scheiden wat goed was en wat fout was en beloon daar ook naar. Je kunt ook de vraag stellen 'hoe ben je daarop gekomen?'; dit is tevens een vraag die je kunt stellen als het antwoord wel goed is!
 
-- Maak geen aannames over wat studenten al weten. Een student kan soms met zelfs het makkelijkste probleem in de knel zitten en dan is het erg frustrerend als er wordt gezegd 'probeer eens wat harder na te denken'. Toets wat de student wel weet en bouw daarop voort. Stel open vragen en laat de student zelf het probleem oplossen, probeer niets voor te zeggen!
+- Doe geen aannames over wat studenten al weten. Een student kan soms met zelfs het makkelijkste probleem in de knel zitten en dan is het erg frustrerend als er wordt gezegd 'probeer eens wat harder na te denken'. Toets wat de student wel weet en bouw daarop voort. Stel open vragen en laat de student zelf het probleem oplossen, probeer niets voor te zeggen!
 
 
 # 7 Nakijken
 
 Het eindcijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de modules. De puntenscore leidt tot een cijfer tussen 1 en 10. De Scratch-module word "afgetekend" en telt niet mee in het eindcijfer.
 
+## 7.1 Deadlines
 
-## 7.1 Becijfering
+Studenten hebben voor de CS50-opdrachten **twee** deadlines:
+
+- De deadline voor de **implementatie**, waarbij studenten de weekopdrachten "af" moeten hebben. De uitwerkingen hoeven expliciet niet netjes te zijn! Ook hacker-versies moeten bij deze deadline ingeleverd worden.
+
+- De deadline voor de **verbeterde uitwerking**, waarbij alle weekopdrachten netjes verbeterd moeten inleveren. Dit geldt niet voor de hacker-versies, omdat deze niet inhoudelijk nagekeken worden.
+
+Voordat studenten hun verbeterde versies inleveren moeten ze een code review doen met een andere student. Ook nemen ze natuurlijk de feedback van eerdere weken mee in hun verbeteringen.
+
+De **nakijkdeadline** (voor jou!) is steeds op maandagavond om 23:59, tenzij anders afgesproken. Daarna wordt het nakijkwerk nog nagelopen door de coördinator en vervolgens gepubliceerd.
+
+TODO: dubbelcheck nakijkdeadline
+
+## 7.2 Uitzonderingen
+
+> Nieuw: de strafpunten voor te laat inleveren zijn vervallen. Toch is het niet de bedoeling dat studenten regelmatig te laat inleveren.
+
+Als mentor heb je de mogelijkheid om studenten de ruimte te geven de eerste deadline (implementatie) met één of twee dagen **uit te stellen**. Dit is een pittige verantwoordelijkheid, omdat sommige studenten het signaal verkeerd kunnen interpreteren en hierdoor geen druk meer ervaren. Als je vermoed dat het misgaat, laat het dan *direct* aan de cursuscoördinator weten via een to-do in Basecamp.
+
+De bedoeling is dat studenten jou op de hoogte stellen als ze de deadline niet halen en dat jij daar snel op reageert. Geef meteen aan dat ze nog een dagje kunnen nemen (maximum is dus 48 uur na de deadline). Natuurlijk is het niet de bedoeling dat dit meerdere keren achter elkaar gebeurt, en dat moet je meteen duidelijk maken in het eerste contact hierover.
+
+Het kan ook zijn dat een student een keer niks inlevert en ook niks meldt. Daarom is het belangrijk dat je vlak na de deadline even in je overzicht kijkt of er nog iets ontbreekt. Neem dan **proactief** contact op met je studenten om te zorgen dat dit snel gecorrigeerd wordt---en ga er in eerste instantie vanuit dat het een foutje is.
+
+## 7.2 Becijfering
 
 Modules 1 t/m 4 kunnen elk 0--6 punten opleveren. Voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald.
 De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De schaal is als volgt:
@@ -350,108 +425,82 @@ De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De sc
 0. niet genoeg code om te beoordelen
 {: start="6" reversed=""}
 
+Let goed op het volgende:
 
-## 7.2 Deadlines
+- 1--4 punten gaat over de *genoemde* aspecten, dus de aspecten die deze week expliciet aan de opdracht gekoppeld zijn
+- 5--6 punten gaat over goede kwaliteit, zonder de aspecten te noemen; dus daar heb je veel meer vrijheid om te vragen dat méér dan alleen de aspecten op orde zijn---studenten die hoog willen scoren moeten dus ook zelf aan de bak met uitzoeken hoe je goede code schrijft
+- 6 punten heeft het ook over *ontwerp*, dus daar is ruimte om efficiëntie mee te nemen, maar het kan bijv. ook niet super-efficiënt zijn maar wel heel mooi in functies met hele goede namen opgedeeld
+- bij 3 punten zie je dat iemand wel de aspecten heeft "afgewerkt" maar niet heel consequent; er is dus wel bewijs dat de student het kán, maar deze doet het niet overal
+- bij 3--4 punten (en hoger) wordt gevraagd dat naar álle aspecten is gekeken; het is dus niet zo dat studenten de aspecten onderling kunnen compenseren; zijn er hele goede namen maar staat er 0 commentaar, dan is het meteen 2 punten
 
-De nakijkdeadline is maandagavond 23:59. Dit betekent dat alle studenten op dinsdag hun cijfer kunnen bekijken.
-Als een student vraagt of hij/zij de opdracht later kan inleveren, is het antwoord altijd nee. Adviseer de student altijd iets in te leveren, ook als de opdracht niet helemaal af is.
+Het is absoluut niet de bedoeling dat studenten **meerdere keren** minder dan 3 punten halen. Daarom heeft tijdige feedback de absolute prioriteit. We gebruiken eventueel het invoeren van 0 punten om dit te signaleren, maar de mentor zou op dat moment, samen met de coördinator, al actie moeten hebben ondernomen (student achterna zitten en hulp bieden). Als de opdrachten namelijk niet af zijn, dan kan er in feite nog niet nagekeken worden en zal er ook geen eindcijfer komen.
 
-1. Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`.
-
-2. Daarna volgt een deadline waarvoor je je werkende programma's verbetert en nogmaals inlevert.
-
-Als mentor kun jij toestaan dat een student de opdracht één of twee dagen later inlevert. Dat 
-
-In het geval van planningsproblemen of een dag ziek zijn kun je in overleg met je mentor de deadline één of twee dagen opschuiven. Je opdracht wordt dan gewoon nagekeken. Breng altijd direct je mentor op de hoogte en vraag om advies over het halen van verdere deadlines. Systematisch achterlopen is niet mogelijk.
-
-Voor module 0 is geen uitstel mogelijk. Je moet op tijd gestart zijn met het vak om mee te mogen doen.
-
-
+Er wordt een extra punt toegekend als een student **alle hackeropdrachten** van de module werkend heeft ingeleverd (in principe is er nog maar één hackeropdracht per module).
 
 ## 7.3 Plagiaat
 
-Het zal voorkomen dat tijdens het nakijken blijkt dat een opdracht verdacht veel op de opdracht van een andere student lijkt, of oplossingen bevat die ook op het internet te vinden zijn. Indien je serieus plagiaat vermoedt, meld dit altijd bij de hoofdassistent.
+In het stappenplan voor de opdrachten is duidelijk gedefiniëerd waar wordt samengewerkt (ontwerp) en waar niet (implementatie). Bovendien is het helemaal prima als studenten elkaar helpen. Het allerbelangrijkste is dat de student die geholpen wordt nooit voorbeeldcode te zien krijgt of zodanig wordt geïnstrueerd dat de code gedeeltelijk door een ander bedacht is.
 
+Het kan gebeuren dat tijdens het nakijken blijkt dat een opdracht verdacht veel op de opdracht van een andere student lijkt, of oplossingen bevat die ook op het internet te vinden zijn. Indien je serieus plagiaat vermoedt, meld dit altijd bij de coördinator. Ter aanvulling wordt na elke inleverronde een plagiaatcheck gedaan.
 
-Alle opdrachten worden wekelijks onderling en met eerdere inzendingen vergeleken met behulp van een detectieprogramma. De uitslag noemen we de **plagiaatschaal**. Scoor je hoog op de schaal dan spreek je op korte termijn met één van de docenten die je zal voorlichten en helpen met de beste aanpak voor dit vak. De ervaring leert dat je niet hoog scoort op de plagiaatschaal als je niet naar andermans uitwerkingen kijkt bij het maken van je eigen uitwerking. Maak je er dus geen zorgen over; ons doel is je te helpen dit te voorkomen.
+Scoort iemand hoog wat betreft plagiaat dan neemt de coördinator contact op met deze student. Het gesprek bestaat uit voorlichting en een aanbod om te helpen met de beste aanpak om het vak te halen. Van belang is dat studenten zich niet teveel zorgen maken hierover. Aantoonbaar plagiaat moet natuurlijk naar de examencommissie, maar ons doel is vooral om te zorgen dat studenten de cursus alsnog zelfstandig halen.
 
-
-
-Nu we met De Stappen werken is het nog duidelijker geworden waar je wél en waar je niet samenwerkt. De onderdelen waar samengewerkt kan worden zijn duidelijk gedefiniëerd en verlopen volgens een vaste procedure. Daarnaast is het wel mogelijk dat een student een andere student helpt. Het allerbelangrijkste is dat de student die geholpen wordt nooit voorbeeldcode te zien krijgt of zodanig wordt geïnstrueerd dat de code maar gedeeltelijk zelf bedacht wordt.
-
-**Vragen** over plagiaat moeten studenten zelf stellen aan een docent, via <help@mprog.nl>. Als ze willen volgt er een persoonlijk gesprek.
-
+> **Vragen** over plagiaat moeten studenten zelf stellen aan de coördinator, via <help@mprog.nl>. Een persoonlijk gesprek is altijd mogelijk.
 
 ## 7.4 Feedback
 
-Probeer bij het becijferen het niveau van de individuele student mee te nemen. Vergelijk de student met zichzelf: in hoeverre heeft de student de feedback van voorgaande weken toegepast en is hij of zij vooruitgegaan? Vergeet niet ook positieve feedback te geven! Dit wordt vaak vergeten omdat er eerder punten afgetrokken worden voor fouten dan punten gegeven voor correcte code. Feedback wordt veel prettiger verwerkt als ook de positieve punten worden aangestipt.
-Geef feedback op het proces, niet op de student. Dit is ook al kort aangestipt bij gesprekstechnieken voor het computerpracticum. Directe feedback op de persoon is veel minder effectief dan feedback op het proces [^5]. Geef daarom in de feedback goed aan waarom iets goed of minder goed is. Bied daarbij tips aan, zodat de student de volgende keer de knelpunten beter kan aanpakken. Tijdens de wekelijkse bespreking van de feedback kun je de feedback wat meer toelichten.
+Probeer bij het becijferen het niveau van de individuele student mee te nemen. Vergelijk de student met zichzelf: in hoeverre heeft de student de feedback van voorgaande weken toegepast en is hij of zij vooruitgegaan?
 
-## 7.5 Hacker editions
+Vergeet niet ook positieve feedback te geven! Dit wordt vaak vergeten omdat er eerder punten afgetrokken worden voor fouten dan punten gegeven voor correcte code. Feedback wordt veel prettiger verwerkt als ook de positieve punten worden aangestipt.
 
-Heeft een student de hacker edition van de opdracht ingeleverd? Kijk deze dan op dezelfde manier na als dat je bij de reguliere opdracht zou doen. Dit komt omdat je van een goede student ook meer mag verwachten. Aan het einde van het vak wordt dit meegenomen.
+Geef altijd feedback op het product, of het proces, maar niet op de student. Dit is ook al kort aangestipt bij gesprekstechnieken voor het computerpracticum. Directe feedback op de persoon is veel minder effectief dan feedback op het proces[^5]. Geef daarom in de feedback goed aan waarom iets goed of minder goed is. Bied daarbij tips aan, zodat de student de volgende keer de knelpunten beter kan aanpakken. Tijdens de wekelijkse bespreking van de feedback kun je de feedback wat meer toelichten.
 
+## 7.5 Algemeen
 
-Voor veel opdrachten bieden we ook een zogenaamde "hackerversie" aan. Deze is bedoeld voor studenten die zich wat comfortabeler voelen met programmeren en extra uitdaging zoeken. Wil je die inleveren, zorg dan dat je éérst de normale versie van de opdracht maakt en inlevert. Dat is namelijk de versie die beoordeeld zal worden en waarmee je een review doet.
+Het is handig om na het nakijken nog even terug te gaan naar de eerste paar psets die je hebt nagekeken, omdat je dan misschien weer nieuwe dingen gezien hebt. Het is daarnaast handig om steeds dezelfde opdracht in een rijtje na te kijken (bijvoorbeeld eerst alle `recover.c`). Kijk ook steeds in een andere volgorde na, omdat je meestal de laatste iets strenger beoordeelt.
 
-Toch kan het leuk zijn om de hackerversies te doen, omdat het uitdagende puzzels zijn waar je veel van leert. Je krijgt 1 punt extra als je voor een module **alle** hackerversies hebt ingeleverd, omdat ze moeilijker zijn en je vaak ook meer code schrijft. Let daarbij dus op dat je zowel de normale versies als de hackerversies van de opdrachten inlevert.
+In het begin zal het nakijken wat moeizaam gaan, maar probeer maximaal 10--15 minuten per student te spenderen.  Nadat je wat ervaring hebt opgebouwd zul je zien dat het nakijken sneller gaat. Probeer in je geschreven feedback niet in herhaling te vallen, maar verwijs kort naar je eerdere feedback. Daarbij telt ook mee dat sommige van de studenten de feedback nauwelijks lezen terwijl andere studenten juist veel uit je commentaar halen. Kies op basis daarvan dus ook je prioriteiten en verspil niet al te veel tijd aan ongelezen feedback.
 
-Het is niet mogelijk om via video-assistentie hulp te krijgen voor de hackeropdrachten. Wel kun je er vragen over stellen via Ed.
+Dat gezegd hebbende, als je merkt dat een student de feedback negeert, spreek hem of haar hier dan op aan (bijvoorbeeld een kort gesprekje via Slack). Grote kans dat ze het vergeten zijn of niet doorhebben hoe veel ze eraan kunnen hebben.
 
-
-
-## 7.6 Algemeen
-
-Het is handig om na het nakijken nog even terug te gaan naar de eerste paar psets die je hebt nagekeken, omdat je dan misschien weer nieuwe dingen gezien hebt. Het is daarnaast handig om eerst een soort opdracht na te kijken (bijvoorbeeld eerst alle recover.c). Probeer niet altijd in dezelfde volgorde na te kijken.
-
-In het begin zal het nakijken wat moeizaam gaan, maar probeer 10-15 minuten per student te spenderen. Probeer niet in herhaling te vallen, want dat kost tijd. Verwijs bij herhaaldelijke fouten naar je eerdere feedback. Daarbij telt ook mee dat sommige van de studenten de feedback nauwelijks lezen waarnaast andere studenten juist veel halen uit je commentaar. Kies op basis daarvan ook je prioriteiten uit en verspil niet al te veel tijd aan ongelezen feedback. Dat gezegd hebbende, als je merkt dat een student de feedback negeert, spreek hem of haar hier dan op aan tijdens het practicum. Grote kans dat ze het vergeten zijn of niet doorhebben hoe veel ze eraan kunnen hebben.
+TODO: Hebben we hiervoor niet al een betere nakijkhandleiding?
 
 
-# 8 Communicatiemiddelen
+# 8 Interne communicatie
 
-We gebruiken diverse platforms voor contact onderling en met de studenten.
+## Basecamp
 
-## Intern: Basecamp
+Voor bijna al het onderling contact is er [Basecamp](https://www.basecamp.com/). Je ontvangt een uitnodiging zodra je bij een vak aan de slag gaat. Let op dat je account weer verwijderd wordt zodra je een paar weken niet meer assisteert. Dit is om de privacyrichtlijnen goed aan te houden.
 
-Voor bijna al het onderling contact is er [Basecamp](https://www.basecamp.com/). Je ontvangt een uitnodiging zodra je bij een vak aan de slag gaat.
+Je krijgt toegang tot een aantal kanalen:
 
-- Je krijgt toegang tot een "project" waarin de voortgang van een groep studenten wordt bijgehouden.
-- Als je een vraag hebt die absoluut niet gedeeld kan worden met andere medewerkers, dan kun je een privébericht (message) sturen naar één of meer heads/docenten.
-- Handleiding basecamp?
+- *Programming Lab HQ* is het team waar alle medewerkers aan deelnemen. Je kunt hier onderwijsgerelateerde linkjes delen via de chat (Campfire) of een bericht schrijven. Dit kanaal is low-traffic. Gaat het over de cursus zelf, dan moet je hier niet zijn.
+- *CS50x Herfst '20* is het algemene team voor iedereen die aan een CS50-gerelateerde cursus werkt. Topics gaan over de **inhoud** van de cursus, bijvoorbeeld als je toelichting nodig hebt bij een bepaalde opdracht.
+- En dan zijn er vakspecifieke projecten waarvoor je uitgenodigd wordt: *Fulltime Herfst '20*, *Parttime Herfst '20*, *Programmeren IK '20*, *Programmeren KI '20*. Hier kun je alles kwijt over specifieke studenten en je kunt afstemmen met mede-assistenten en docenten.
 
-## Mentorgroep: Slack
+Het kan zijn dat je post wordt verplaatst als je deze beter op een andere plek had kunnen plaatsen (kwestie van oefenen!).
 
-Voor het contact met de studenten in jouw mentorgroep maak je een Slack aan. 
+Er zijn ook een paar basisregels voor Basecamp:
 
-- Hoe aanmaken.
-- In de studiewijzer staat al dat je zeker niet 24/7 beschikbaar kan zijn. Benadruk dit ook in de eerste bijeenkomst en als het later nog nodig blijkt.
+- Als je bericht niet geheim is, maak dan een "**Message**" aan. Eventueel kun je het aantal mensen dat een notification krijgt beperken. Door berichten zoveel mogelijk publiek te zetten, zorgen we dat iedereen kan profiteren van de kennis die daarin gedeeld wordt, zonder dat dit gecopy-paste hoeft te worden.
+- Als je bericht een zeer urgent verzoek is aan "iemand in de groep", gebruik dan de "**Campfire**". Iedereen krijgt een notification (als deze aanstaan op dat moment). Voel je vrij dit te gebruiken als je in panic mode zit 👍
+- Als je bericht een zeer urgent verzoek is aan een specifiek persoon, gebruik dan een "**Ping**". Let op dat veel dingen door meerdere mensen behandeld kunnen worden, dus dit is een last resort. Is het niet echt urgent, plaats dan gewoon een Message.
+- Als je graag wilt dat iemand iets doet, maak dan een "**To-do**" aan. Vergeet niet de juiste persoon te assignen. In de notes kun je een toelichting zetten. Een to-do maken is efficiënter dan een message sturen.
 
-## Programmeervragen: Ed
+Berichten over specifieke studenten zijn **niet geheim**, mits geplaatst in het project van het vak dat zij volgen. Andere assistenten en docenten gaan hier natuurlijk discreet mee om, en kunnen bovendien aanvullen met hun eigen kennis over de student. Eventuele details over ziektes en omstandigheden e.d. kun je weglaten.
 
-Voor vragen over de stof, hulp met programmeren, technische ondersteuning, komen studenten naar [Ed](https://us.edstem.org/courses/365). 
+## Intern: Meetups
 
-- Studenten moeten elkaars vragen beantwoorden
-- ...
-- Meetellen vragen beantwoorden?
+TODO: Casual meetup-tool assistenten?
 
-## Moeilijke programmeervragen: Whereby
-
-Als je niet weet hoe je een vraag moet stellen of je weet niet waar je moet beginnen met het implementeren van je opdracht, dan is er video-assistentie. De assistentie is beschikbaar van maandag t/m vrijdag tussen 13 en 17 uur, en aanvragen doe je via deze website <svg class="bi" width="16" height="16" fill="currentColor"><use xlink:href="/icons/bootstrap-icons.svg#question-circle-fill"/></svg>. Let op dat het rondom deadlines vaak erg druk is en dat de wachttijd kan oplopen!
-
-## Officiële mededelingen: mail
-
-Voor het maken van persoonlijke planningsafspraken en het op de hoogte houden van de docenten over later inleveren stuur je een officiële mail naar <help@mprog.nl>.
 
 # 9 Checklist opstarten
 
 Je moet diverse accounts aanmaken om goed te kunnen assisteren. Volg de stappen hieronder en zorg vooral dat je alle diensten goed **uittest**, om latere stress te voorkomen! (Bijvoorbeeld als het delen van een Zoom-linkje niet blijkt te werken.)
 
-- Voor **Basecamp** krijg je een uitnodiging via het bekende e-mailadres (je kunt dit dus niet zelf starten). Maak direct dit account aan. Je krijgt toegang tot een aantal kanalen:
+- Voor **Basecamp** krijg je een uitnodiging via het bekende e-mailadres (je kunt dit dus niet zelf starten). Maak direct dit account aan.
 
-  - **Programming Lab HQ** is het team waar alle medewerkers aan deelnemen. Je kunt hier onderwijsgerelateerde linkjes delen via de chat (Campfire) of een bericht. Gaat het over de cursus zelf, dan moet je hier niet zijn.
-  - **CS50x Herfst '20** is het algemene team voor iedereen die aan een CS50-gerelateerde cursus werkt. Topics gaan over de **inhoud** van de cursus, bijvoorbeeld als je toelichting nodig hebt bij een bepaalde opdracht.
-  - **Fulltime Herfst '20** is het project voor assistenten van fulltime. Hier gaat alles over de afstemming over de organisatie van de cursus en ook over specifieke studenten.
-  - **Parttime Herfst '20** is het project voor assistenten van fulltime. Hier gaat alles over de afstemming over de organisatie van de cursus en ook over specifieke studenten.
+- Ook voor **Ed** wordt je uitgenodigd. Heb je geen uitnodiging terwijl de cursus gestart is? Post dan een to-do op basecamp voor je coördinator met een verzoek om een nieuwe uitnodiging.
 
 - Maak een account voor **Programmeren 1** via <https://prog1.mprog.nl/>. Kies fulltime of parttime afhankelijk van waar je assisteert. Na enige tijd krijg je extra rechten, zodat je de gegevens van je studenten kunt inzien en hun werk kunt nakijken.
 
@@ -459,12 +508,9 @@ Je moet diverse accounts aanmaken om goed te kunnen assisteren. Volg de stappen 
 
 - Maak een nieuwe **Slack** aan via <https://slack.com/get-started#/create>. Deze gebruik je voor informeel contact met je mentorgroep. Ken je Slack nog niet? Kijk dan bij [Slack 101](https://slack.com/intl/en-nl/resources/slack-101/set-up-slack) voor de basis.
 
-- Maak een account voor **Whereby** via <https://whereby.com/user/signup>. Dit is een videodienst die volledig in de browser werkt. Deze dienst gebruik je voornamelijk voor het assisteren. Je krijgt een persoonlijke "kamer" met een linkje. Deze link geef je door aan het cursushoofd.
+- Maak een account voor **Whereby** via <https://whereby.com/user/signup>. Dit is een videodienst die volledig in de browser werkt. Deze dienst gebruik je voornamelijk voor het assisteren. Je krijgt een persoonlijke "kamer" met een linkje. Deze link geef je door aan de cursuscoördinator, die zorgt dat deze aan jouw profiel op de cursuswebsite gekoppeld wordt.
 
 - Maak een account voor **Zoom** via <https://zoom.us/signup>. Dit is een videodienst die het beste werkt met een eigen applicatie. Deze gebruik je voor je werkgroepen. Je kunt een link naar je persoonlijke "kamer" delen met je studenten via Slack.
-
-
-
 
 
 # 10 Algemene tips
@@ -472,7 +518,8 @@ Je moet diverse accounts aanmaken om goed te kunnen assisteren. Volg de stappen 
 - Praat met andere assistenten als je vragen hebt.
 - Kijk de opdracht en bijbehorende slides altijd van te voren door.
 - Doe geen beloftes.
-- Stimuleer de studenten om naar de werkcolleges en practica te komen.
+- Stimuleer de studenten om naar de werkcolleges te komen.
+
 
 # Noten
 
