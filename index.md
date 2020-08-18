@@ -41,8 +41,8 @@
 - Er is nog maar één hackeropdracht per module, namelijk de "moeilijke". De relatief makkelijke hacker-opdrachten gaven de verkeerde indruk van de bedoeling.
 - Nieuwe opdrachten:
   - Module 4 **Filter**, was vorig jaar al nieuw
-  - Module 6 ... Python-dingen? `TODO`
-- De website heeft weer nieuwe kleurtjes en is veel sneller door gebruik van [Turbolinks](https://github.com/turbolinks/turbolinks).
+  - Module 6 ... hier worden misschien een paar andere opdrachtjes gebruikt
+- De website is veel sneller door gebruik van [Turbolinks](https://github.com/turbolinks/turbolinks).
 
 # 1 De Minor Programmeren
 
@@ -100,9 +100,9 @@ Studenten zullen verreweg de meeste tijd besteden aan het maken van grotere **pr
 
 De werkwijze bij andere vakken in de Minor Programmeren is steeds aangepast op de verschillende soorten opdrachten die daar gegeven worden. Bovenstaande werkwijze wordt later in deze handleiding verder toegelicht.
 
-Naast de opdrachten worden studenten geacht diverse **oefeningen** te maken, en zij moeten een **tentamen** doen voor afronding van de cursus. Het doel van de oefeningen en het tentamen is om studenten nadrukkelijk kennis te laten nemen van de basisconcepten van het programmeren. Deze concepten krijgen bij het maken van alleen grote opdrachten vaak minder aandacht.
+Naast de opdrachten worden studenten geacht diverse **oefeningen** te maken. Het doel van de oefeningen is om studenten nadrukkelijk kennis te laten nemen van de basisconcepten van het programmeren. Deze concepten krijgen bij het maken van alleen grote opdrachten vaak minder aandacht.
 
-TODO: tentamen is optioneel?
+Er is geen tentamen, maar wel systematische plagiaatcontrole, voorlichting naar studenten en de eis om zichtbaar te maken dat men bezig is met de stof, bijvoorbeeld de oefeningen en deelname aan de werkgroepen.
 
 
 # 3 Taakverdeling
@@ -232,7 +232,11 @@ Then, your partner takes your programs and browses through those. Again, your pa
 
 After you have reviewed each other's code, you can each take to actually improving your own code. Always keep in mind that your partner's opinions don't matter as much as how they struggle to read or understand your code. This is not the time to do a complete overhaul of your algorithm to make it more efficient, but instead, to make note of small things that you can improve to make the code itself better.
 
-TODO: Nakijken en reflectie invoegen
+## Phase 4: Feedback and reflection
+
+After everything has been handed in, your work will be assessed by your mentor. This results in a couple of feedback points; these you could try to take into account for the next problems that you are going to submit.
+
+As a final step, after reading and comparing your feedback with your own ideas, you will answer a few questions that are designed to help you incorporate the feedback into your own ideas. Your mentor will also check out the answers to your questions before assessing the next module.
 
 
 # 5 Mentoren
@@ -265,23 +269,15 @@ Whatsapp is hiervoor geen alternatief. Sommige mensen geven hun telefoonnummer l
 
 ## 5.3 Werkgroepen
 
-TODO: Verder uitwerken
+De werkgroepen zijn een plek om kennis te maken met je studenten, maar vooral om de studenten elkaar te laten kennen. In het volgende hoofdstuk staan de onderwerpen per werkgroep.
 
-Gebruik van de camera is voor alle studenten vereist (laat weten als je omgeving niet geschikt is om te kunnen videobellen, dan kijken we of we een alternatieve werkplek kunnen vinden).
+- Gebruik van de **camera** is voor de mentor en alle studenten vereist (ze laten weten als hun omgeving niet geschikt is om te kunnen videobellen, dan kijken we of we een alternatieve werkplek kunnen vinden).
 
-### Feedback
+- Indien het **minder goed gaat** met een student, zorg je voor een melding in Basecamp. Doe zelf geen beloftes en maak niet zomaar uitzonderingen, buiten wat er standaard in de studiewijzer staat. Laat de student zelf ook een mail sturen naar help@mprog.nl.
 
-Nodig studenten uit vragen over de feedback van vorige week. Breng zelf ook een paar interessante feedback punten van het nakijken mee om te bespreken. Indien het minder goed gaat met een student, verwijs je dit door naar de coördinator. Maak zelf geen beloftes of uitzonderingen, buiten wat er in de studiewijzer staat. Laat de student tevens een mail sturen naar help@mprog.nl.
+- Je hebt een belangrijke rol bij de **planning** van het samenwerken. Voor de ontwerpfase van de opdrachten hebben ze (bij voorkeur) een partner nodig. Voor de code reviews zorg jij voor een roulerend schema.
 
-TODO: ^
-
-### Planning
-
-Mentoren hebben een belangrijke rol in de planning van de stappen voor studenten. Zij hebben voor een deel van het werk een partner nodig
-
-- De eerste stap (het ontwerp) wordt optioneel samen gedaan met een partner. Dit wordt tijdens de werkgroep samen met de mentor afgesproken. Stimuleer studenten om een partner te kiezen om mee samen te werken.
-
-- De partner voor code review deel jij als mentor in. Dit moet voor de hele groep wekelijks een andere partner zijn, zodat studenten kennismaken met verschillende perspectieven.
+- De werkgroep is de plek waar de **feedback** en de **oefeningen** belangrijk worden gemaakt. Jij zorgt dat studenten van elkaars feedback kunnen leren door een aantal belangrijke patronen aan te stippen. En je bespreekt enkele van de gedane oefeningen (die bovendien vooraf zijn ingeleverd).
 
 ## 5.4 Doorverwijzen
 
@@ -292,6 +288,75 @@ Je hoeft je als assistent niet bezig te houden met:
 - persoonlijke problemen
 
 Komt een van deze dingen naar voren, verwijs dit altijd door naar de cursuscoördinator. Vraag de student **ook** om zelf een mail te sturen naar <help@mprog.nl>. Maar studenten vinden het vaak moeilijk om verdere hulp te vragen, dus de mentor moet het ook direct melden. Het is belangrijk dat wij vanaf de eerste vraag om hulp medeverantwoordelijkheid nemen en een student niet aan z'n lot overlaten.
+
+# 6 Werkgroepen
+
+## Werkgroep 0 (voor deadline Scratch)
+
+Deze werkgroep moet vóór de eerste deadline plaatsvinden zodat de samenwerking voor de tweede opdracht gepland kan worden.
+
+*   Kennismaking
+    *   Jij laat elke student om de beurt even vertellen:
+        *   hoe ze heten,
+        *   of ze programmeerervaring hebben,
+        *   wat ze verder voor studie doen, en
+        *   of ze een goede werkplek hebben.
+    *   Zorg dat je iedereen stimuleert alle vragen te beantwoorden, ook als ze iets vergeten.
+*   Mentor
+    *   Leg uit dat jij voor de studenten hun eerste aanspreekpunt bent.
+        *   Dit betekent dat jij (zeker als oud-student) kan vertellen hoe je het vak kunt aanpakken.
+        *   Je kunt ook algemene opmerkingen overbrengen naar de docenten.
+    *   Vertel dat ze een uitnodiging voor Slack kunnen verwachten om elkaar en jou te bereiken (maar lang niet altijd)
+    *   Je kunt met elke student een keer een verlate deadline afspreken (1 of 2 dagen).
+    *   En als studenten ziek zijn melden ze zich om te beginnen bij jou.
+    *   En je kijkt het werk na en geeft feedback.
+*   Stappenplan
+    *   Het stappenplan helpt om programmeeropdrachten goed op te lossen.
+    *   Belangrijkste is dat je een deel van de stappen samen doet, en een deel individueel.
+    *   Samenwerken bij het ontwerpen en de code review.
+    *   Implementeren doe je “zelf”. Maar dat is niet helemaal alleen. Er is altijd hulp.
+*   Deadline
+    *   Nu eerst Scratch afmaken (zoek deadline op in studiewijzer)
+    *   Dan module 1, die bestaat uit meerdere opdrachten (deadline in studiewijzer)
+    *   Daarna doe je samen code review, verbeter je je eigen opdrachten en lever je nogmaals in (deadline!)
+*   Planning samenwerking voor module 1
+    *   Wie werkt met wie voor de ontwerpfase?
+    *   Mentor bepaalt wie met wie werkt voor de code review, willekeurige koppels, volgende week andere.
+
+Checklist voorbereiding:
+
+*   Lijstje namen
+*   Plek om zorgvuldig notities te kunnen maken per persoon
+*   Deadlines eerste modules opzoeken
+*   Lijstje wie samen code reviews doet
+
+## Werkgroep 1 (na deadline Scratch)
+
+*   Terugblik (klagen mag)
+    *   Laat iedereen maar eens even vertellen hoe het ging, waar het knelde en of het gelukt is
+    *   Maak nauwkeurig notities voor studenten met onopgeloste/grotere problemen -> **Basecamp**
+    *   Maak nauwkeurig notities voor dingen die mis leken te gaan voor meer studenten -> **Basecamp**
+*   Oefeningen
+    *   Studenten hebben oefeningen gedaan. Geef hier aandacht aan, zodat men begrijpt dat het niet voor niks is
+
+*   Studiewijzer
+    *   Vertel dat de studiewijzer een heel groot deel van de regeltjes van het vak bevat.
+    *   Vertel ook dat er soms uitzonderingen mogelijk zijn. Als het gaat om andere dingen dan deadlines en ziekte dan kunnen ze het beste even een mail sturen naar help@mprog.nl
+*   Code review
+    *   Hoe werkt de code review?
+*   Planningsrondje
+
+## Werkgroep 2 (na deadline C)
+
+*   Terugblik (klagen mag)
+    *   Laat iedereen maar eens even vertellen hoe het ging, waar het knelde en of het gelukt is
+    *   Maak nauwkeurig notities voor studenten met onopgeloste/grotere problemen -> **Basecamp**
+    *   Maak nauwkeurig notities voor dingen die mis leken te gaan voor meer studenten -> **Basecamp**
+*   Oefeningen
+    *   Studenten hebben oefeningen gedaan. Geef hier aandacht aan, zodat men begrijpt dat het niet voor niks is
+
+*   Planningsrondje
+*   Bij informatiekunde: bespreken hoe te plannen met tentamen van andere vak
 
 
 # 6 Assisteren
@@ -397,9 +462,7 @@ Studenten hebben voor de CS50-opdrachten **twee** deadlines:
 
 Voordat studenten hun verbeterde versies inleveren moeten ze een code review doen met een andere student. Ook nemen ze natuurlijk de feedback van eerdere weken mee in hun verbeteringen.
 
-De **nakijkdeadline** (voor jou!) is steeds op maandagavond om 23:59, tenzij anders afgesproken. Daarna wordt het nakijkwerk nog nagelopen door de coördinator en vervolgens gepubliceerd.
-
-TODO: dubbelcheck nakijkdeadline
+De **nakijkdeadline** (voor jou!) is afhankelijk van de deadlines voor studenten, en valt op een vaste dag, tenzij anders afgesproken. Zodra jij klaar bent wordt het nakijkwerk nog nagelopen door de coördinator en vervolgens gepubliceerd.
 
 ## 7.2 Uitzonderingen
 
@@ -462,8 +525,6 @@ Het is handig om na het nakijken nog even terug te gaan naar de eerste paar pset
 In het begin zal het nakijken wat moeizaam gaan, maar probeer maximaal 10--15 minuten per student te spenderen.  Nadat je wat ervaring hebt opgebouwd zul je zien dat het nakijken sneller gaat. Probeer in je geschreven feedback niet in herhaling te vallen, maar verwijs kort naar je eerdere feedback. Daarbij telt ook mee dat sommige van de studenten de feedback nauwelijks lezen terwijl andere studenten juist veel uit je commentaar halen. Kies op basis daarvan dus ook je prioriteiten en verspil niet al te veel tijd aan ongelezen feedback.
 
 Dat gezegd hebbende, als je merkt dat een student de feedback negeert, spreek hem of haar hier dan op aan (bijvoorbeeld een kort gesprekje via Slack). Grote kans dat ze het vergeten zijn of niet doorhebben hoe veel ze eraan kunnen hebben.
-
-TODO: Hebben we hiervoor niet al een betere nakijkhandleiding?
 
 
 # 8 Interne communicatie
