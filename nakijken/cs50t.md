@@ -1,0 +1,1 @@
+    - Hier kijk je of de antwoorden *redelijk* zijn ingevuld, niks overgeslagen, geen dingen die echt niet relevant zijn (verkeerd de opdracht begrepen). Inhoudelijk ga je er met de studenten naar kijken bij de werkgroep van volgende week.

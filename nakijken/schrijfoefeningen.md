@@ -1,0 +1,1 @@
+    - Dit zijn schrijfoefeningen. Check of ze serieus gedaan zijn. Je hoeft niet te checken of het 100% werkt of anderszins. De inhoud wordt besproken bij de werkgroep van volgende week.
