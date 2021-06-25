@@ -44,7 +44,7 @@ Vragen stellen via het forum heeft de allergrootste voorkeur. Veel studenten zul
 
 Als het **niet** lukt een student goed te helpen dan meldt de assistent dit altijd via een to-do in Basecamp ("Nazorg"). De coördinator kan dan zorgen dat men sowieso nog even bij de student nagaat of er al voortgang is, en zonodig extra hulp bieden.
 
-![](nazorg.png){:width="50%"}
+![](images/nazorg.png){:width="50%"}
 
 ## 1.1 Regel één van assisteren is...
 
@@ -85,7 +85,7 @@ Ed is een vraag- en antwoordforum waar onze studenten in een afgeschermde omgevi
 
 > Studenten moeten worden uitgenodigd voor Ed. Mocht iemand niet zijn uitgenodigd dan kunnen ze direct zelf de helpdesk mailen via <help@mprog.nl>. Nadat ze hun spam-folder gecontroleerd hebben natuurlijk!
 
-![](ed.png)
+![](images/ed.png)
 
 Binnen elke cursus op Ed zijn er **categorieën** voor opdrachten, zoals bijvoorbeeld "Mario". Zo zijn de opdrachten per vraag te filteren. 
 
@@ -99,7 +99,7 @@ Let dus op dat er een verschil is tussen Comments en Answers. Je kunt de één o
 
 Studenten kunnen een hulpvraag indienen via de website. Deze "hands" verschijnen voor de assistenten in een lijst op de website. Je kiest de bovenste student om deze te "claimen", waarna de student een popup ontvangt met een link naar jouw videokanaal. Zodra je bij een student geweest bent en de vraag beantwoord hebt, teken je het verzoek af. Je komt dan weer in de lijst en kunt een nieuwe student uitkiezen om te helpen.
 
-![](hands.png)
+![](images/hands.png)
 
 Juist bij de video-assistentie is er een kans dat een student nog geen concrete vraag heeft. Help de student in dat geval de vraag formuleren zoals hierboven uitgelegd (6.2). Sommige studenten kunnen ook nog wat meer tijd gebruiken om **zelf** wat langer naar hun programma te kijken; probeer zelf een juiste inschatting van de situatie te maken om vervolgens te besluiten de student direct te helpen, of een duwtje in de goede richting te geven en later nog even terug te komen.
 
@@ -246,7 +246,7 @@ Met name het aanmaken van **Todo**'s voor iemand anders is misschien even wennen
 
 Berichten over **specifieke studenten** plaats je ook als Todo in het project van jouw vak. Het is belangrijk dat we deze informatie delen met het team. Andere assistenten en docenten gaan hier natuurlijk discreet mee om, en kunnen bovendien aanvullen met hun eigen kennis over de student. Eventuele details over ziektes en omstandigheden e.d. kun je weglaten.
 
-![](studenten.png){: width="50%"}
+![](images/studenten.png){: width="50%"}
 
 ## Afsluiting
 
