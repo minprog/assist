@@ -1,1 +1,3 @@
-    - Hier kijk je of de antwoorden *redelijk* zijn ingevuld, niks overgeslagen, geen dingen die echt niet relevant zijn (verkeerd de opdracht begrepen). Inhoudelijk ga je er met de studenten naar kijken bij de werkgroep van volgende week.
+    - Hier kijk je of de antwoorden *redelijk* zijn ingevuld, niks overgeslagen, geen dingen die echt niet relevant zijn (verkeerd de opdracht begrepen).
+    - Als het voor een deel niet redelijk gedaan is, dan gaat het als een onvoldoende terug, en neem je proactief contact op met je student om uit te leggen dat het helemaal moet, omdat je het anders niet kan aftekenen.
+    - Inhoudelijk ga je er met de studenten naar kijken bij de werkgroep van volgende week.

@@ -9,7 +9,7 @@
                 <tr><td></td></tr>
             </tbody>
         </table>
-    -   Nog dingen die mis lijken te gaan voor meerdere studenten? Noteer ze en deel ze later ook met het team.
+    -   Nog dingen die mis lijken te gaan voor meerdere studenten? Noteer ze en deel ze na de werkgroep meteen met het team via Basecamp.
         <table>
             <tbody>
                 <tr><td></td></tr>

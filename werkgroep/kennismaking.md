@@ -1,4 +1,6 @@
-1.  Kennismaking (formulier staat een paar pagina's terug)
+1.  Kennismaking (formulier staat een paar pagina's terug) (15 minuten)
+
+    Doel: je studenten goed leren kennen maar ook zorgen dat zij wat van elkaar afweten!
 
     -   Jij laat elke student om de beurt even vertellen:
         - hoe ze heten,

@@ -12,6 +12,5 @@
                     <tr><td></td><td></td><td></td><td></td></tr>
                 </tbody>
             </table>
-    -   Intro aspecten
-    -   Nu meteen even oefenen: één duo laat hun uitwerking van population zien, alle werkgroepleden geven kritiek op basis van de aspecten Formatting en Comments.
+    -   Intro van de bovenstaande aspecten, geef een opsomming van de deelaspecten die op de uitlegpagina's genoemd staan.
     -   Iedereen voert de code review uit, mentor loopt langs en bemoeit zich er soms mee (kritisch luisteren).

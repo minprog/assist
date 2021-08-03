@@ -6,12 +6,11 @@ layout: default
 
 # Assistentenhandboek Minor Programmeren
 
-# <small>Werkgroepen en nakijken  IK/KI<br>Herfst 2021</small>
+## <small>Deel B: Werkgroepen en nakijken<br>IK/KI Herfst 2021</small>
 
 Deze versie is gemaakt in 2020--2021 door Martijn Stegeman. Gebaseerd op versie 2016 door Hella Haanstra en de instructies uit 2018 van Wouter Vrielink.
 
 </header>
-
 
 {% include_relative werkgroep/overzicht.md %}
 
@@ -27,26 +26,40 @@ De resterende dagen zijn een mix van **oefenopdrachten en een samenwerkopdracht*
 Bij de **werkgroep** ga je vooral kennis maken met je studenten. Neem er rustig de tijd voor. Zorg dat je vooraf alle onderstaande punten goed doorneemt, want de uitleg is te lang om ter plekke al improviserend te lezen.
 
 ## Scratch-dagen
+{:.break}
 
-Maandag
+Maandag 6 september
 
 - 09:00--11:00 introductiecollege: Robin + Harvard
     - 10:30 teams maken + onderwerpen ontvangen
-- 11:00--13:00 4 werkgroepen
-    - 11:00--12:30 ideevorming en ontwerp
-    - 12:15--12:45 pitches
-    - 13:00--15:00 implementatie
-- 13:00--15:00 4 werkgroepen
-    - Werkgroepen 
+- 11:00--13:00 eerste 4 werkgroepen
+    - 11:00--12:15 ideevorming en ontwerp
+    - 12:15--12:45 pitches (aan elkaar en assistenten/docenten)
+    - 13:00--15:00 implementatie, geen speciaal lokaal, samen een plek zoeken
+- 13:00--15:00 tweede 4 werkgroepen
+    - 13:00--14:15 ideevorming en ontwerp
+    - 14:15--14:45 pitches
+    - <u>Dinsdag</u> 2 uur implementatie, zie rooster "zelfstudie", zelf locatie afspreken
 
-Dinsdag
+Dinsdag 7 september
 
-- Werkgroepen verdeeld over de dag
-- 09:00--09:30 peer review
-- 09:30--10:15 implementatie
-- 10:15--10:45 demo's 
+- Verbeteren en afronding
+- De colleges zijn verdeeld over de dag, elke groep heeft ergens 2 uur practicum (zie rooster)
+- Indeling:
+    - Finishing touches
+    - 5/6 demo's met openbare review
+    - Studenten laten uitgebreid zien hoe het project werkt
+    - Assistent neemt lead, groep draagt bij:
+        - Werkt het logisch?
+        - Ontbreekt er iets?
+        - Zijn er glitches?
+        - Spel: is het te winnen?
+        - Spel: zijn de regels duidelijk?
+        - Hoe is de code opgedeeld?
+        - Zit er veel herhaling in de code?
 
-## Werkgroep week 1
+## Werkgroep week 1 (50 min)
+{:.break}
 
 De werkgroep staat in het teken van kennismaking!
 
@@ -61,13 +74,17 @@ De werkgroep staat in het teken van kennismaking!
 {% include_relative werkgroep/naderhand.md %}
 
 ## Aftekenen week 1
+{:.break}
 
 Deze week is het alleen maar aftekenen van één opdracht. Zorg dat het uiterlijk a.s. maandag vroeg klaar staat voor je studenten.
+
+Ga naar <https://progik.mprog.nl/grading> om meteen aan de slag te gaan. Studenten worden wel pas ingedeeld na de Scratch-opdracht, dus vanaf woensdag heb je toegang.
 
 1. Boek: Variabelen
 
 {% include_relative nakijken/boek.md %}
 
+{% include_relative nakijken/final.md %}
 
 
 # Week 2
@@ -76,28 +93,40 @@ Deze week start met twee individuele opdrachten: **Mario** en **Cash**. Naar ver
 
 De **werkgroep** is vrij overzichtelijk omdat de studenten nog niet veel opdrachten hebben gedaan. De schrijfopdrachten uit het basisboek worden nabesproken.
 
-## Werkgroep week 2
+Er is ook een **extra opdracht**, Credit. Deze is leuk en uitdagend, maar geeft een flinke kans dat je vast komt te zitten omdat het niet 100% correct werkt. Deze opdracht moet dus alleen gedaan worden door studenten die ruim vóór vrijdag ermee kunnen beginnen.
 
-De werkgroep zal deze week misschien niet superlang zijn! Code reviews zijn pas volgende week.
+## Werkgroep week 2 (50 min)
 
-1. Terugblik
+De werkgroep zal deze week misschien niet superlang zijn! Code reviews zijn pas volgende week. Je gaat wel voor het eerst een opdracht nabespreken.
+
+1. Terugblik (10 minuten)
 
 {% include_relative werkgroep/terugblik.md %}
 
-2. Nabespreken boek, oefeningen en toetsje Variables
+2. Nabespreken boek, oefeningen en toetsje Variables (20 minuten)
 
-    Loop alle oefeningen langs en verdeel de "beurt" over al je studenten. Het idee is dat jij niet de "juiste" antwoorden gaat geven maar dat je de studenten aanstuurt om hun antwoorden met elkaar te bespreken.
+    Loop de volgende schrijfoefeningen langs en verdeel de "beurt" over al je studenten. Het idee is dat jij niet de "juiste" antwoorden gaat geven maar dat je de studenten aanstuurt om hun antwoorden met elkaar te bespreken.
 
     - Oefeningen 2.3 (schrijf expressies)
     - Oefeningen 3.2 (schrijf code voor verwisseling)
-    
-    ... vooraf wie welke som doet?
 
-4. Grote vragen
+    Noteer eventuele opvallende zaken. Nog studenten met duidelijke problemen, niet gedaan?
+    <table>
+        <tbody>
+            <tr><td></td></tr>
+            <tr><td></td></tr>
+            <tr><td></td></tr>
+        </tbody>
+    </table>
+
+4. Grote vragen (20 minuten)
 
 {% include_relative werkgroep/grote-vragen-2.md %}
 
 ## Aftekenen week 2
+{:.break}
+
+Teken gedurende de week de opdrachten zoveel mogelijk af.
 
 1.  Eventueel nog aftekenen van vorige week:
 
@@ -117,19 +146,29 @@ In de **werkgroep** ga je voor het eerst een **code review** doen, dus daar ga j
 
 Tot slot ga je voor het eerst **nakijken**, zodra studenten hun definitieve versie van Cash en Mario hebben ingeleverd. Instructies vind je hieronder.
 
-## Werkgroep week 3
+## Werkgroep week 3 (75 min)
 
-1. Korte terugblik
+1. Korte terugblik (10 minuten)
 
 {% include_relative werkgroep/terugblik.md %}
 
-2. Nabespreking boek: Control Flow
+2. Nabespreking boek: Control Flow (15 minuten)
 
     Loop alle oefeningen langs en verdeel de "beurt" over al je studenten. Het idee is dat jij niet de "juiste" antwoorden gaat geven maar dat je de studenten aanstuurt om hun antwoorden met elkaar te bespreken.
 
     - Oefeningen 6.4 (herschrijven for-while)
 
-3. Code review **Mario** & **Cash**
+    En dan nu de grote vraag voor je studenten:
+
+    - Wanneer gebruik je nou een for-loop en wanneer een while-loop?
+
+3. Code review **Mario** & **Cash** (40 minuten)
+
+    Eerste keer code review!
+    
+    Zorg dat je ook een **oefening** doet: na je uitleg over de aspecten   wijs je één duo aan dat hun uitwerking van "Population" laat zien (de samenwerkopdracht). Alle werkgroepleden geven kritiek op basis van de aspecten Formatting en Comments. Zorg dat dit zeker 10 minuten duurt voordat iedereen echt aan de slag gaat.
+    
+    Leg het reviewen verder zo goed mogelijk uit en zorg dat je studenten corrigeert als ze het verkeerd aanpakken.
 
     Aspecten:
 
@@ -140,7 +179,7 @@ Tot slot ga je voor het eerst **nakijken**, zodra studenten hun definitieve vers
 
 {% include_relative werkgroep/code-review.md %}
 
-6. Grote vragen
+6. Grote vragen (10 minuten)
 
 {% include_relative werkgroep/grote-vragen-2.md %}
 
@@ -168,21 +207,24 @@ Mario & Cash (kan na de werkgroep, zodra verbeterde versie is ingeleverd).
 
 Deze week start met **Caesar** en daarna volgen enkele oefeningen. Het zware werk zit dus aan het begin van de week.
 
-Je hebt vorige week **feedback** gegeven, daarover zul je wel wat vragen krijgen. Als studenten hun eigen specifieke feedback willen bespreken kan dit het best even buiten de groep om! ("Kunnen we dat na de werkgroep even bespreken?")
+Je hebt vorige week **feedback** gegeven, daarover zul je wel wat vragen krijgen. Als studenten hun eigen specifieke feedback willen bespreken kan dit het best even buiten de groep om! ("Kunnen we dat na de werkgroep even bespreken?").
 
-## Werkgroep week 4
+Noem ook nog even de **extra opdracht** Crack, die heel pittig is, maar wel een leuke uitdaging voor studenten die echt heel snel gaan met de stof en hun begrip. Probeer zo'n opdracht eens individueel aan te raden aan 1 of 2 studenten!
 
-1. Korte terugblik
+
+## Werkgroep week 4 (60 min)
+
+1. Korte terugblik (10 minuten)
 
 {% include_relative werkgroep/terugblik.md %}
 
-2. Nabespreking Strings (schrijfopdracht)
+2. Nabespreking Strings (schrijfopdracht) (15 minuten)
 
-    - strings, een moeilijke laten zien (taboo?)
+    - Laat **twee** studenten elk hun uitwerking van één van de opdrachten bespreken.
+    - Zijn er nog dingen die je studenten opvallen bij het werken met strings?
+    - Merk bijvoorbeeld op dat al deze opdrachten met strings werken, maar dat elk algoritme vooral naar de losse **characters** kijkt.
 
-3. Wil iemand nog één of twee sommen bespreken uit het basisboek over Strings en Arrays?
-
-4. Code review **Readability**
+4. Code review **Readability** (30 minuten)
 
     Nieuwe aspecten:
 
@@ -193,7 +235,7 @@ Je hebt vorige week **feedback** gegeven, daarover zul je wel wat vragen krijgen
 
 {% include_relative werkgroep/code-review.md %}
 
-5. Grote vragen
+5. Grote vragen (5 minuten)
 
 {% include_relative werkgroep/grote-vragen-2.md %}
 
@@ -217,23 +259,23 @@ Readability (kan na de werkgroep, zodra verbeterde versie is ingeleverd).
 
 # Week 5
 
-De hele week wordt min of meer besteed aan één opdracht: **Speller**! Het is dus iets lastiger voor studenten om te plannen, maar goed om ze mee te geven dat als ze "load" implementeren met hulp van een datastructuur, dat een heel belangrijk deel gedaan is en de rest iets minder zal zijn. Toch kan Valgrind uiteindelijk ook nog wel wat hoofdbrekens kosten!
+De focus van deze week ligt helemaal op **algoritmen**. Veel praktisch werk, met linear search, binary search en de sorteeralgoritmen. Maar ook theoretisch, goed begrijpen wat maakt dat een algoritme "snel" of "langzaam" is.
 
-Er is geen extra opdracht bij Speller, dat is handig om te weten voor iedereen.
+Wijs (enkele) studenten nog even op de **extra opdracht** die eind deze week ingeleverd kan worden! Het is weer een pittige, waar niet alleen een game geïmplementeerd moet worden maar ook nog een AI-solver. Echt voor mensen die ver voor lopen.
 
-## Werkgroep week 5
+## Werkgroep week 5 (60 minuten)
 
-1. Korte terugblik
+1. Korte terugblik (10 minuten)
 
 {% include_relative werkgroep/terugblik.md %}
 
-2. Nabespreking Strings (schrijfopdracht)
+2. Nabespreking Strings (schrijfopdracht) (10 minuten)
 
-    - strings, een moeilijke laten zien (taboo?)
+    - Laat **twee** studenten elk hun uitwerking van één van de opdrachten bespreken.
+    - Zijn er nog dingen die je studenten opvallen bij het werken met strings?
+    - Merk bijvoorbeeld op dat al deze opdrachten met strings werken, maar dat elk algoritme vooral naar de losse **characters** kijkt.
 
-3. Wil iemand nog één of twee sommen bespreken uit het basisboek over Strings en Arrays?
-
-5. Code review **Caesar**
+5. Code review **Caesar** (30 minuten)
 
     Aspecten:
 
@@ -244,7 +286,7 @@ Er is geen extra opdracht bij Speller, dat is handig om te weten voor iedereen.
 
 {% include_relative werkgroep/code-review.md %}
 
-6. Grote vragen
+6. Grote vragen (5 minuten)
 
 {% include_relative werkgroep/grote-vragen-2.md %}
 
@@ -273,25 +315,28 @@ Caesar (kan na de werkgroep, zodra verbeterde versie is ingeleverd).
 
 # Week 6
 
-Deze week is de transitie naar **Python**. Veel nieuws dus voor studenten. En dat terwijl ze nog uitrusten van de grote opdracht van vorige week.
+Deze week is de transitie naar **Python**. Veel nieuws dus voor studenten. De week heeft heel veel opdrachten, die langzaam opbouwen. Focus is echt op kleine algoritmes ontwikkelen, dus studenten moeten tijd maken voor denkwerk.
 
-## Werkgroep week 6
+De opdracht **DNA** is algoritmisch wel wat ingewikkeld, maar vooral de uitleg over het principe erachter is echt moeilijk om te begrijpen. De kans dat studenten verkeerde aannames doen is best wel groot. Raad studenten aan om met elkaar in discussie te gaan over *hoe ze de opdracht begrijpen*!
 
-1. Korte terugblik
+
+## Werkgroep week 6 (60 min)
+
+1. Korte terugblik (10 minuten)
 
 {% include_relative werkgroep/terugblik.md %}
 
-2. Nabespreking Algorithms/Sort
+2. Nabespreking Algorithms/Sort (10 minuten)
 
     -   Voor Algorithms moesten studenten een algoritme traceren en per regel de wijzigingen vermelden. Het makkelijkst is als iedereen even de gelegenheid krijgt om hun antwoorden te vergelijken. Als mensen afwijkende antwoorden hebben kunnen ze nog een keer beredeneren welke oplossing nu klopt.
         -   Het kan zijn dat de vraag rijst welke manier van invullen correct is. Geef dan de hint dat ze heel precies moeten kijken waar de **print** staat. Deze bepaalt het moment dat een hele regel in de tabel wordt ingevuld.
-    -   Sort is nagekeken met check50, maar hier kunnen vragen over zijn. Speel de vragen rond in de groep: "wie weet wat het juiste antwoord is?", "waarom is dit het juiste antwoord?"
+    -   Sort is nagekeken met `check50`, maar hier kunnen vragen over zijn. Speel de vragen rond in de groep: "wie weet wat het juiste antwoord is?", "waarom is dit het juiste antwoord?"
 
-3. Nabespreking Big-O
+3. Nabespreking Big-O (waarschijnlijk kort)
 
-    -   Big-O is nagekeken met check50, maar hier kunnen vragen over zijn. Speel de vragen rond in de groep: "wie weet wat het juiste antwoord is?", "waarom is dit het juiste antwoord?"
+    -   Big-O is nagekeken met `check50`, maar hier kunnen vragen over zijn. Speel de vragen rond in de groep: "wie weet wat het juiste antwoord is?", "waarom is dit het juiste antwoord?"
 
-4. Code review **Find**
+4. Code review **Find** (30 minuten)
 
     Nieuw aspect:
 
@@ -301,7 +346,7 @@ Deze week is de transitie naar **Python**. Veel nieuws dus voor studenten. En da
 
 {% include_relative werkgroep/code-review.md %}
 
-5. Grote vragen
+5. Grote vragen (10 minuten)
 
 {% include_relative werkgroep/grote-vragen-2.md %}
 
@@ -315,15 +360,15 @@ Find (kan na de werkgroep, zodra verbeterde versie is ingeleverd).
 
 # Week 7
 
-Studenten gaan aan de slag met Climate, een opdracht die wat veranderd is ten opzichte van vorige jaren.
+Studenten gaan aan de slag met **Climate**, een opdracht die wat veranderd is ten opzichte van vorige jaren. In feite staat er de hele week voor, dus studenten krijgen meer verantwoordelijkheid voor wat betreft de weekindeling. Wel belangrijk dus dat ze gewoon bij alle practica aanwezig zijn!
 
-## Werkgroep week 7
+## Werkgroep week 7 (60 min)
 
-1. Korte terugblik
+1. Korte terugblik (10 minuten)
 
 {% include_relative werkgroep/terugblik.md %}
 
-2. Code review **DNA**
+2. Code review **DNA** (30 minuten)
 
     Geen nieuwe aspecten!
 
@@ -331,13 +376,15 @@ Studenten gaan aan de slag met Climate, een opdracht die wat veranderd is ten op
 
 {% include_relative werkgroep/code-review.md %}
 
-3. Grote vragen
+3. Vooruitblik tentamen? (15 minuten)
+
+3. Grote vragen (5 minuten)
 
 {% include_relative werkgroep/grote-vragen-2.md %}
 
-## Aftekenen week 7
+## Dubbelcheck: alles afgetekend?
 
-Check of je alles tot nu toe hebt afgetekend dat afgetekend moet worden! Dit zodat de eindcijfers straks zonder gezeur gemaakt kunnen worden.
+Check of je **alles tot nu toe** hebt afgetekend dat afgetekend moet worden! Dit zodat de eindcijfers straks zonder gezeur gemaakt kunnen worden. Mocht je nog (oude) problemen signaleren bespreek dit dan snel met de docent.
 
 ## Nakijken week 7
 
@@ -349,7 +396,9 @@ DNA (kan na de werkgroep, zodra verbeterde versie is ingeleverd).
 
 # Week 8
 
-(Afmaken Climate en/of tentamen: nog niet duidelijk)
+Deze week is het tentamen op maandag 25 oktober 2021. Studenten vinden de datum en locatie in het rooster op datanose. Zorg dat je niet toch nog de verkeerde gegevens vooraf gaat verspreiden, maar help studenten juist zelf de up-to-date gegevens in het rooster te vinden!
+
+Het tentamen zal bestaan uit een mix van programmeeropdrachten die live worden gedaan en meer theoretische vragen. Verdere informatie wordt via de website verspreid onder de studenten.
 
 ## Nakijken week 8
 

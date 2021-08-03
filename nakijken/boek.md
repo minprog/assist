@@ -1,2 +1,2 @@
-    - Deze moet 100% correct zijn, dan mag je aftekenen met "gehaald". Alle vragen goed dus.
+    - Deze moet 100% correct zijn, dan mag je aftekenen met "gehaald". <u>Alle</u> vragen goed dus.
     - Is het niet goed, dan "gehaald" niet aanvinken maar wel opslaan, en in de feedbackbox even aangeven dat het alsnog 100% correct moet.
