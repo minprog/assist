@@ -350,90 +350,88 @@ Als assistent zoek je meteen even de gegevens van deze student op, in de juiste 
 
 Na het helpen schrijf je op de website een korte samenvatting van het uiteindelijke probleem en hoe je geholpen hebt. Noteer het ook als je de student hebt gevraagd iets te doen en later terug te komen. De volgende assistent kan deze informatie ook lezen en daar op inspelen. Zie hieronder voor een voorbeeld:
 
-![](images/opmerkingen.png){: width="60%" style="margin: 0 auto; display: block;"}
+![](images/opmerkingen.png){: width="60%"}
 
 
 ## 6.7 Technische helpdesk
 
 Studenten die vastzitten met hun computer, misschien zelfs hardwareproblemen hebben, of die een zeer concrete technische (debug?)vraag hebben, kunnen ook een afspraak inplannen via de balie. Als ze voor de technische helpdesk kiezen dan kunnen ze terecht op een moment dat een assistent werkt die veel ervaring heeft met installatie, configuratie en bediening. Het doel is om studenten zo snel mogelijk weer op weg te krijgen en niet te lang te laten hangen bij problemen waar ze weinig van kunnen leren.
 
+# 7 Deadlines en ziekmelding
 
-# 7 Nakijken
+Bij onze cursussen gebruiken we zowel deadlines als een dagschema om te zorgen dat studenten de cursus op tijd af krijgen en wij regelmatig ons nakijkwerk kunnen doen.
+
+## 7.1 Dagschema
+
+Voor alle studenten geldt dat de verwachting is dat ze het tempo van het dagschema bijhouden. Hier een voorbeeld van een dagschema voor parttime:
+
+![](images/schema.png){: width="40%"}
+
+Bij fulltime moeten ze dat schema ook echt dagelijks volgen, bij parttime en IK/KI kunnen ze natuurlijk binnen de week iets schuiven, bijvoorbeeld in verband met deadlines van een ander vak.
+
+## 7.2 Deadlines
+
+Naast het dagschema zijn er ook gewoon deadlines:
+
+- De **implementatie** of uitwerking van alle opdrachten moet steeds aan het eind van de week zijn ingeleverd. De opdrachten moeten dan af zijn, en `check50` moet de uitwerking hebben goedgekeurd waar mogelijk.
+
+- De **verbeterde** versie moet kort na de werkgroep worden ingeleverd. Tijdens de werkgroep is de code review, waarna studenten hun eigen werk binnen korte tijd moeten kunnen verbeteren en opnieuw inleveren op de speciale review-pagina.
+
+Het doel van de deadlines is om te zorgen dat er ook duidelijkheid is in het geval studenten het schema net niet bijhouden. Ze moeten dan binnen de week nog inhalen om de deadline te kunnen halen.
+
+## 7.3 Ziekmelding
+
+Bij ziekte loopt de planning al gauw in de soep. Als een student meerdere dagen niet aan de opdrachten kan werken, dan ligt het voor de hand dat het niet vóór het weekend af is. Daarom willen wij dat studenten zich ziekmelden. Die melding gaat naar de mentor.
+
+Als je zo'n melding krijgt dan ga je zo te werk:
+
+- Je wenst je student beterschap en vraagt meteen om even te laten weten als ze weer aan de slag gaan.
+- Je voert deze melding in op de website bij de student.
+
+## 7.4 Te-laatmelding
+
+🆕 Als de planning dan niet gehaald wordt en de deadline dreigt te worden overschreden, dan verwachten wij ook weer een melding van de studenten. Het maakt daarbij niet uit of het een grote opdracht of een kleine oefening is, studenten moeten actief hun achterstand melden.
+
+Als je zo'n melding krijgt dan ga je zo te werk:
+
+- Je neemt deze melding gewoon aan als feit.
+- Je voert een opmerking in via de website.
+- Na het weekend controleer je of je student inmiddels alles af heeft.
+- Als het niet gelukt is maak je een Todo op Basecamp voor je coördinator.
+
+In dat laatste geval krijgt de coördinator dus de verantwoordelijkheid om het contact over te nemen en te kijken of deze student nog op de rails te krijgen is.
+
+Als je de vraag krijgt of het nog zin heeft om een opdracht te maken is het antwoord altijd "ja", want om het vak te halen moeten alle opdrachten gedaan zijn. Tegelijk meld je dat ze dit echt met de docent moeten bespreken. Ze gaan dus z.s.m. naar het spreekuur.
+
+⚠️ Zoals je hierboven kunt afleiden geef jij als mentor in feite geen uitzonderingen of uitstel. In plaats daarvan zorg je voor goede communicatie en doorverwijzing.
+
+## 7.5 Uitzondering verbeterde versie
+
+Mocht een student ziek zijn tijdens de werkgroep dan zorg jij er voor dat de review zo spoedig mogelijk wordt gedaan (ter plaatse of online). De deadline voor de verbeterde versie kan dan uitgesteld worden, maar je maakt hier wel een harde afspraak over. Deze afspraak vermeld je bij de student op de website.
+
+- Zoek contact via Slack, check of code review snel gedaan kan worden.
+- Stem ook af met de code review-partner: online review of ter plekke?
+- Spreek een duidelijke deadline af (paar dagen later).
+- Voer afspraak in op de website bij beide studenten, met reden.
+
+## 7.6 Studenten die niks melden
+
+Het kan ook zijn dat een student een keer niks inlevert en ook niks meldt. Daarom is het belangrijk dat je vlak na de deadline even in je overzicht kijkt of er nog iets ontbreekt. Neem dan **proactief** contact op met je studenten om te zorgen dat dit snel gecorrigeerd wordt---en ga er in eerste instantie vanuit dat het een foutje is. Is er meer aan de hand dan maak je een Todo op Basecamp.
+
+
+This page intentionally left devoid of information.
+{:.break}
+
+
+# 8 Nakijken
 
 Het eindcijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de modules. De puntenscore leidt tot een cijfer tussen 1 en 10. De Scratch-module word "afgetekend" en telt niet mee in het eindcijfer. Bovendien zijn er met name bij Programmeren 1/IK/KI extra opdrachten die nog een punt kunnen opleveren. In de studiewijzer staan alle componenten van het eindcijfer opgesomd.
 
-## 7.1 Deadlines
+## 8.1 Nakijkdeadline
 
-Voor alle studenten geldt dat de verwachting is dat ze het tempo van het schema bijhouden. Bij fulltime moeten ze dat ook echt dagelijks volgen, bij parttime en IK/KI kunnen ze natuurlijk binnen de week iets schuiven, bijvoorbeeld in verband met deadlines van een ander vak.
+De nakijkdeadline is afhankelijk van de deadlines voor studenten, en valt op een vaste dag, tenzij anders afgesproken. Zodra jij klaar bent wordt het nakijkwerk nog nagelopen door de coördinator, jij doet op verzoek eventuele aanpassingen, en vervolgens wordt alles gepubliceerd.
 
-Maar studenten hebben daarnaast, voor de individuele programmeeropdrachten, twee harde deadlines:
-
-- De deadline voor de **implementatie**, waarbij studenten de opdrachten "af" moeten hebben, ofwel `check50` moet tevreden zijn. De uitwerkingen hoeven expliciet niet netjes te zijn!
-
-- De deadline voor de **verbeterde uitwerking**, waarbij studenten de opdrachten netjes verbeterd moeten inleveren.
-
-De deadlines staan in de studiewijzer en zijn doorgaans aan het eind van de week.
-
-Voordat studenten hun verbeterde versies inleveren moeten ze een code review doen met een andere student. Dit gebeurt tijdens de werkgroep. Ook nemen ze natuurlijk de feedback van eerdere weken mee in hun verbeteringen.
-
-De **nakijkdeadline** (voor jou!) is afhankelijk van de deadlines voor studenten, en valt op een vaste dag, tenzij anders afgesproken. Zodra jij klaar bent wordt het nakijkwerk nog nagelopen door de coördinator, jij doet op verzoek eventuele aanpassingen, en vervolgens wordt alles gepubliceerd.
-
-## 7.2 Uitzonderingen
-
-🆕 Als mentor kun je <u>geen</u> verder uitstel geven op de deadlines. Deze deadlines zijn namelijk ruim gepland; zo is de wekelijkse deadline altijd iets ná de grote opdracht van de week, en de code reviews na het weekend.
-
-Maar: mocht een student ziek zijn tijdens de werkgroep dan zorg jij er wel voor dat de review zo spoedig mogelijk wordt gedaan (ter plaatse of online). De deadline voor de verbeterde versie kan dan uitgesteld worden, maar je maakt hier wel een harde afspraak over. Deze afspraak vermeld je bij de student op de website.
-
-> **Procedure uitzondering code review:**
-> 
-> 1. Zoek contact, check of code review snel gedaan kan worden
-> 2. Stem ook af met de code review-partner: online review of ter plekke?
-> 3. Spreek een duidelijke deadline af (paar dagen later)
-> 4. Voer afspraak in op de website bij beide studenten, met reden
-
-Het kan ook zijn dat een student een keer niks inlevert en ook niks meldt. Daarom is het belangrijk dat je vlak na de deadline even in je overzicht kijkt of er nog iets ontbreekt. Neem dan **proactief** contact op met je studenten om te zorgen dat dit snel gecorrigeerd wordt---en ga er in eerste instantie vanuit dat het een foutje is.
-
-## 7.3 Becijfering
-
-Alle modules kunnen 1--6 punten opleveren. Voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De aspecten gaan over codekwaliteit, en specifiek over **leesbaarheid** en **begrijpelijkheid**. De schaal is als volgt:
-
-6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
-5. zeer goede kwaliteit, beperkt ruimte voor verbetering
-4. degelijke kwaliteit op de genoemde aspecten, met ruimte voor verbetering
-3. net voldoende aandacht voor de genoemde aspecten, erg veel ruimte voor verbetering
-2. enige zichtbare aandacht voor een beperkt aantal aspecten
-1. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
-{: start="6" reversed=""}
-
-In deze schaal zitten een aantal patronen verborgen die het---met enige ervaring---makkelijker moeten maken om een inzending te beoordelen. Het is moeilijk om deze patronen tijdens de cursus al helemaal aan de studenten over te brengen, maar zorg dat jij ze helemaal begrijpt en toepast.
-
-- 1--4 punten gaat specifiek over de *genoemde* aspecten, dus de aspecten die deze week expliciet aan de opdracht gekoppeld zijn. Bij 4 punten is de student redelijkerwijs waar we iedereen willen hebben. Onze aandacht bij het nakijken gaat dus vooral naar deze studenten uit! Zij moeten snel beter worden.
-
-- Bij 3 punten zie je dat iemand wel de aspecten heeft "afgewerkt" maar niet heel consequent. Er is dus wel bewijs dat de student het kán, maar deze doet het niet overal. Het wordt 4 punten als de aspecten wel grotendeels consequent ("degelijk") zijn toegepast.
-
-- Bij 3--4 punten (en hoger) wordt gevraagd dat naar álle aspecten is gekeken. Het is dus niet zo dat studenten de aspecten onderling kunnen compenseren! Zijn er hele goede namen maar staat er geen commentaar, dan is het meteen 2 punten.
-
-- 5--6 punten gaat over goede kwaliteit, zonder de aspecten te noemen. Studenten die hoog willen scoren moeten dus namelijk zelf aan de bak met uitzoeken hoe je goede code schrijft---alleen de regels volgen voldoet dan niet meer. Dit is om te voorkomen dat eigenwijze studenten hacker-achtige code schrijven en hoge cijfers opeisen omdat het formeel aan de aspecten voldoet.
-
-- 6 punten heeft het ook over *ontwerp*, waarvoor duidelijk moet blijken dat een student een heel eigen idee voor de code heeft bedacht en dit mooi leesbaar heeft uitgewerkt; maar pas op, iets als "extra functies gebruiken" kan heel mooi worden, maar dan moeten ze goed gekozen zijn en de namen ook goed zijn, dus veel ideeën zijn niet zomaar goed!
-
-Het is absoluut niet de bedoeling dat studenten **meerdere keren** minder dan 3 punten halen. Daarom heeft tijdige feedback de hoogste prioriteit, en specifiek feedback die de student helpt volgende keer direct 3 of 4 punten te halen. We nemen hier als docenten en assistenten dus medeverantwoordelijkheid!
-
-Als de opdrachten **niet af** zijn (volgens `check50`), dan kan er in feite nog niet nagekeken worden en zal er uiteindelijk ook geen eindcijfer komen. We gebruiken eventueel het invoeren van 0 punten om dit te signaleren, maar de mentor zou op dat moment, samen met de coördinator, al actie moeten hebben ondernomen (student achterna zitten en hulp bieden).
-
-Er wordt een extra punt toegekend als een student de **extra opdracht** van de module werkend heeft ingeleverd. Dit punt wordt in principe automatisch toegekend op basis van een automatische `check50`. Je geeft dus ook geen formele feedback op deze opdracht, maar zorg dat je er wel iets van aandacht aan besteed bij de student die het goed doet!
-
-## 7.4 Plagiaat
-
-Bovenaan de opdrachten staat duidelijk bij welke wordt samengewerkt en bij welke niet. Bovendien is het helemaal prima als studenten elkaar helpen. Het allerbelangrijkste is dat de student die geholpen wordt nooit voorbeeldcode te zien krijgt of zodanig wordt geïnstrueerd dat de code gedeeltelijk door een ander bedacht is.
-
-Het kan gebeuren dat tijdens het nakijken blijkt dat een opdracht verdacht veel op de opdracht van een andere student lijkt, of oplossingen bevat die ook op het internet te vinden zijn. Indien je serieus plagiaat vermoedt, meld dit altijd bij de coördinator. Ter aanvulling wordt na elke inleverronde een plagiaatcheck gedaan.
-
-Scoort iemand hoog wat betreft plagiaat dan neemt de coördinator contact op met deze student. Het gesprek bestaat uit voorlichting en een aanbod om te helpen met de beste aanpak om het vak te halen. Van belang is dat studenten zich niet teveel zorgen maken hierover. Aantoonbaar plagiaat moet natuurlijk naar de examencommissie, maar ons doel is vooral om te zorgen dat studenten de cursus alsnog zelfstandig halen.
-
-> **Vragen** over plagiaat moeten studenten zelf stellen aan de coördinator, via <help@mprog.nl>. Een persoonlijk gesprek is altijd mogelijk.
-
-## 7.5 Feedback
+## 8.2 Feedback
 
 Voor elke student schrijf je feedback naar aanleiding van het ingeleverde werk. Je inhoudelijke feedback is redelijk kort, to the point en bevat goede suggesties voor acties om te ondernemen. De feedback bevat geen spelfouten en is geschreven in (korte) volzinnen. Heb je hulp nodig bij het formuleren van prettige feedback? Bespreek het met je coördinator!
 
@@ -498,9 +496,41 @@ De feedback moet lichtjes opgemaakt worden met behulp van Markdown. Hier een voo
 
 Bovenstaande zal omgezet worden naar HTML en netjes leesbaar zijn voor studenten. Let op dat er geen Markdown-kopjes gebruikt worden (deze worden veel te groot) en dat er witregels boven de lijstjes staan.
 
-## 7.6 Algemeen
+## 8.3 Becijfering
 
-Het is handig om na het nakijken nog even terug te gaan naar de eerste paar inzendingen die je hebt nagekeken, omdat je dan misschien weer nieuwe dingen gezien hebt. Het is daarnaast handig om steeds dezelfde opdracht in een rijtje na te kijken. Kijk wel steeds in een andere volgorde na, omdat je meestal de laatste iets strenger beoordeelt.
+Alle modules kunnen 1--6 punten opleveren. Voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De aspecten gaan over codekwaliteit, en specifiek over **leesbaarheid** en **begrijpelijkheid**. De schaal is als volgt:
+
+6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
+5. zeer goede kwaliteit, beperkt ruimte voor verbetering
+4. degelijke kwaliteit op de genoemde aspecten, met ruimte voor verbetering
+3. net voldoende aandacht voor de genoemde aspecten, erg veel ruimte voor verbetering
+2. enige zichtbare aandacht voor een beperkt aantal aspecten
+1. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
+{: start="6" reversed=""}
+
+In deze schaal zitten een aantal patronen verborgen die het---met enige ervaring---makkelijker moeten maken om een inzending te beoordelen. Het is moeilijk om deze patronen tijdens de cursus al helemaal aan de studenten over te brengen, maar zorg dat jij ze helemaal begrijpt en toepast.
+
+- 1--4 punten gaat specifiek over de *genoemde* aspecten, dus de aspecten die deze week expliciet aan de opdracht gekoppeld zijn. Bij 4 punten is de student redelijkerwijs waar we iedereen willen hebben. Onze aandacht bij het nakijken gaat dus vooral naar deze studenten uit! Zij moeten snel beter worden.
+
+- Bij 3 punten zie je dat iemand wel de aspecten heeft "afgewerkt" maar niet heel consequent. Er is dus wel bewijs dat de student het kán, maar deze doet het niet overal. Het wordt 4 punten als de aspecten wel grotendeels consequent ("degelijk") zijn toegepast.
+
+- Bij 3--4 punten (en hoger) wordt gevraagd dat naar álle aspecten is gekeken. Het is dus niet zo dat studenten de aspecten onderling kunnen compenseren! Zijn er hele goede namen maar staat er geen commentaar, dan is het meteen 2 punten.
+
+- 5--6 punten gaat over goede kwaliteit, zonder de aspecten te noemen. Studenten die hoog willen scoren moeten dus namelijk zelf aan de bak met uitzoeken hoe je goede code schrijft---alleen de regels volgen voldoet dan niet meer. Dit is om te voorkomen dat eigenwijze studenten hacker-achtige code schrijven en hoge cijfers opeisen omdat het formeel aan de aspecten voldoet.
+
+- 6 punten heeft het ook over *ontwerp*, waarvoor duidelijk moet blijken dat een student een heel eigen idee voor de code heeft bedacht en dit mooi leesbaar heeft uitgewerkt; maar pas op, iets als "extra functies gebruiken" kan heel mooi worden, maar dan moeten ze goed gekozen zijn en de namen ook goed zijn, dus veel ideeën zijn niet zomaar goed!
+
+Het is absoluut niet de bedoeling dat studenten **meerdere keren** minder dan 3 punten halen. Daarom heeft tijdige feedback de hoogste prioriteit, en specifiek feedback die de student helpt volgende keer direct 3 of 4 punten te halen. We nemen hier als docenten en assistenten dus medeverantwoordelijkheid!
+
+Als de opdrachten **niet af** zijn (volgens `check50`), dan kan er in feite nog niet nagekeken worden en zal er uiteindelijk ook geen eindcijfer komen. We gebruiken eventueel het invoeren van 0 punten om dit te signaleren, maar de mentor zou op dat moment, samen met de coördinator, al actie moeten hebben ondernomen (student achterna zitten en hulp bieden).
+
+## 8.4 Extra opdrachten
+
+Er wordt een extra punt toegekend als een student de **extra opdracht** van de module werkend heeft ingeleverd. 🆕 Dit punt wordt in principe automatisch toegekend op basis van een automatische `check50`. Je geeft dus ook geen formele feedback op deze opdracht, maar zorg dat je er wel iets van aandacht aan besteedt bij de student die het goed doet!
+
+## 8.5 Algemeen
+
+Het is handig om na het nakijken nog even terug te gaan naar de eerste paar inzendingen die je hebt nagekeken, omdat je vaak in de loop van het nakijken op andere dingen gaat letten. Het is daarnaast handig om steeds dezelfde opdracht in een rijtje na te kijken. Kijk wel steeds in een andere volgorde na, omdat je meestal de laatste iets strenger beoordeelt.
 
 In het begin zal het nakijken wat moeizaam gaan, maar probeer maximaal 10--15 minuten per student te spenderen.  Nadat je wat ervaring hebt opgebouwd zul je zien dat het nakijken sneller gaat (vraag anders om hulp!). Probeer in je geschreven feedback niet in herhaling te vallen, maar verwijs kort naar je eerdere feedback. Daarbij telt ook mee dat sommige van de studenten de feedback nauwelijks lezen terwijl andere studenten juist veel uit je commentaar halen. Pas je feedback dus ook aan op basis van wat studenten ermee doen en de vragen die je er over krijgt.
 
@@ -508,49 +538,61 @@ Dat gezegd hebbende, als je merkt dat een student de feedback negeert, spreek he
 
 Tot slot: je schrijft uiteindelijk op je eigen manier. Daarom is het zinvol om tijdens de werkgroepen af en toe expliciet jouw manier van feedback geven wat meer toe te lichten. Dan kun je ook noemen dat studenten altijd mogen vragen als ze iets niet begrijpen of niet weten hoe ze het beter kunnen maken.
 
+## 8.6 Plagiaat
 
-# 8 Interne communicatie
+Bovenaan de opdrachten staat duidelijk bij welke wordt samengewerkt en bij welke niet. Bovendien is het helemaal prima als studenten elkaar helpen. Het allerbelangrijkste is dat de student die geholpen wordt nooit voorbeeldcode te zien krijgt of zodanig wordt geïnstrueerd dat de code gedeeltelijk door een ander bedacht is.
 
-Voor bijna al het contact tussen docenten en assistenten is er [Basecamp](https://www.basecamp.com/).
+Het kan gebeuren dat tijdens het nakijken blijkt dat een opdracht verdacht veel op de opdracht van een andere student lijkt, of oplossingen bevat die ook op het internet te vinden zijn. Indien je serieus plagiaat vermoedt, meld dit altijd bij de coördinator. Ter aanvulling wordt na elke inleverronde een plagiaatcheck gedaan.
+
+Scoort iemand hoog wat betreft plagiaat dan neemt de coördinator contact op met deze student. Het gesprek bestaat uit voorlichting en een aanbod om te helpen met de beste aanpak om het vak te halen. Van belang is dat studenten zich niet teveel zorgen maken hierover. Aantoonbaar plagiaat moet natuurlijk naar de examencommissie, maar ons doel is vooral om te zorgen dat studenten de cursus alsnog zelfstandig halen.
+
+> **Vragen** over plagiaat moeten studenten zelf stellen aan de coördinator, via <help@mprog.nl>. Een persoonlijk gesprek is altijd mogelijk.
+
+
+# 9 Interne communicatie
+
+Voor bijna al het contact tussen docenten en assistenten is er [Basecamp](https://www.basecamp.com/). De verwachting is dat je zeker niet altijd, maar wel regelmatig kijkt wat er te doen is.
 
 - Zorg dat je tijdens het je ingeroosterde assistentie-uren eventuele Basecamp-berichten direct ontvangt met een notification.
 - Zorg dat je regelmatig Basecamp-berichten naleest, zeker rondom (nakijk-)deadlines. Dit zodat onduidelijke situaties snel verhelderd kunnen worden.
 
-Je moet Basecamp als volgt configureren:
+Je kunt Basecamp als volgt configureren, zodat je alleen notifications krijgt als het bericht specifiek voor jou bedoeld is.
 
-- Stel je notifications in op "Only notify me when someone pings or @mentions me".
-- Als je de Basecamp app niet op je telefoon hebt, zet dan "Send me e-mail notifications" aan.
-- Meer info: <https://3.basecamp-help.com/article/86-how-notifications-work>
+![](images/basecamp-notif.png){: width="50%"}
+
+Als je geen notifications op je mobiel wil hebben, zorg dan dat je wél "Send me e-mail notifications" aan zet. Het mag namelijk niet zo zijn dat je dagenlang niet bereikbaar bent via Basecamp: dit is echt de enige tool voor onze communicatie.
+
+Als je teveel irrelevante notifications krijgt, dan kun je de notifications voor een project uitzetten. In het "Programming Lab"-kanaal worden nooit berichten over de vakken zelf gepost, dus die zou je gerust kunnen unfollowen:
+
+![](images/basecamp-follow.png){: width="50%"}
+
+En je kunt je zelfs per bericht nog uitschrijven voor notifications.
+
+## Kanalen
 
 Je ontvangt een uitnodiging zodra je bij een vak aan de slag gaat. Je krijgt dan toegang tot een aantal kanalen:
 
 - *Programming Lab HQ* is het team waar alle medewerkers aan deelnemen. Je kunt hier onderwijsgerelateerde linkjes delen via de chat (Campfire) of een bericht schrijven. Dit kanaal is low-traffic. Gaat het over de cursus zelf, dan moet je hier niet zijn.
 - *CS50x Herfst 2021* is het algemene team voor iedereen die aan een CS50-gerelateerde cursus werkt. Topics gaan over de **inhoud** van de cursus, bijvoorbeeld als je toelichting nodig hebt bij een bepaalde opdracht.
-- En dan zijn er vakspecifieke projecten waarvoor je uitgenodigd wordt: *Fulltime Herfst 2021*, *Parttime Herfst 2021*, *ProgIK 2021*, *ProgKI 2021*. Hier kun je alles kwijt over specifieke studenten en je kunt afstemmen met mede-assistenten en docenten.
+- En dan zijn er vakspecifieke projecten waarvoor je uitgenodigd wordt: *Fulltime Herfst 2021*, *Parttime Herfst 2021*, *ProgIK 2021*, *ProgKI 2021*. Hier kun je alles kwijt over specifieke studenten, over de regels van het vak, en je kunt afstemmen met mede-assistenten en docenten.
 
 Het kan zijn dat je post wordt verplaatst als je deze beter op een andere plek had kunnen plaatsen (kwestie van oefenen!).
 
-## Asynchroon
+## Tools
 
-De gedachte achter Basecamp is om zoveel mogelijk **asynchrone** communicatie te stimuleren terwijl snelle heen-en-weer communicatie wel mogelijk blijft. Hier is hoe zij dat intern beschrijven[^6]:
+Belangrijkste is dat je Basecamp niet gebruikt alsof het Whatsapp is: je stuurt bijna nooit een persoonlijk bericht naar een collega. De reden is dat bijna elke vraag of opmerking relevant of leerzaam kan zijn voor je mede-assistenten.
 
-> *It's far better for everyone's concentration and sanity if you collaborate as though most things will get an answer eventually, but not necessarily right this second. Your first choice of action should be to post a message, a todo, or a document about what you need to explain or need to know. Then others can read it on their schedule, when the natural lulls of the day allow it, rather than being interrupted right in their peak flow time.*
->
-> *Don't take that as gospel, though. Some times you really DO need to tightly collaborate with someone for an extended period of time, and that's fine. We have pings, hangouts, screensharing, or even in-person collaboration for when nothing else will do. (But most of the time something else will).*
-
-Hoe gebruik je de verschillende tools?
-
-- Heb je een Grote Vraag of een kleine vraag, wil je iets ter discussie stellen, heb je een mooi voorstel: schrijf dan een **Message** in één van de Basecamp-projecten.
+- Heb je dus een vraag, wil je iets ter discussie stellen, heb je een mooi voorstel: schrijf een **Message** in één van de Basecamp-projecten.
 - Heb je informatie over een student, een concreet verzoek om iets gedaan te krijgen, dan moet iemand anders iets voor jou doen. Schroom dan niet en maak direct een **Todo** aan.
-- Heb je een urgent en concreet probleem, bijvoorbeeld tijdens het assisteren, dan kan iedereen je potentieel helpen en schrijf je dus een bericht in de **Campfire** van jouw cursus.
-- Heb je zelf persoonlijke problemen die je liever niet aan de grote klok hangt? **Ping** dan je coördinator of Martijn en spreek even af.
-- Heb je gewoon zin om wat te delen met de rest van het team (bijvoorbeeld een meme) dan kun je dat ook doen in de **Campfire** van jouw cursus.
+- Heb je zelf persoonlijke problemen die je liever niet aan de grote klok hangt? **Ping** dan je coördinator of Martijn en spreek even af. Maar "domme" vragen toch graag via een Message naar iedereen hoor!
 
-Met name het aanmaken van **Todo**'s voor iemand anders is misschien even wennen. Maar maak geen Todo aan zonder deze te assignen! Het is juist de manier om te zorgen dat studenten niet vergeten worden maar tegelijk iedereen de dingen op een zelfgekozen moment kan afhandelen. Zit er een deadline aan, stel deze dan ook in!
+<!-- - Heb je een urgent en concreet probleem, bijvoorbeeld tijdens het assisteren, dan kan iedereen je potentieel helpen en schrijf je dus een bericht in de **Campfire** van jouw cursus. Weet je wie aan het werk is? Doe dan ook een @mention. - Heb je gewoon zin om wat te delen met de rest van het team (bijvoorbeeld een meme) dan kun je dat ook doen in de **Campfire** van jouw cursus. -->
+
+Met name het aanmaken van **Todo**'s voor iemand anders is misschien even wennen. Maar het is helemaal OK! We hebben nu eenmaal elk onze eigen verantwoordelijkheden. Maak dus geen Todo aan zonder deze te assignen, meestal aan je coördinator. Het is juist de manier om te zorgen dat studenten niet vergeten worden maar tegelijk iedereen de dingen op een zelfgekozen moment kan afhandelen. En zit er een deadline aan, stel deze dan ook gerust in!
 
 Berichten over **specifieke studenten** plaats je ook als Todo in het project van jouw vak. Het is belangrijk dat we deze informatie delen met het team. Andere assistenten en docenten gaan hier natuurlijk discreet mee om, en kunnen bovendien aanvullen met hun eigen kennis over de student. Eventuele details over ziektes en omstandigheden e.d. kun je weglaten als dat een beter idee is.
 
-![](images/studenten.png){: width="60%" style="margin: 0 auto; display: block;"}
+![](images/studenten.png){: width="60%"}
 
 <!-- ## Zoom instellen
 
@@ -585,7 +627,7 @@ Voor de werkgroepen kan je het beste zelf een meeting aanmaken. Dat doe je hier:
 Hou er rekening mee dat je account weer verwijderd wordt zodra je een paar weken niet meer assisteert. Dit is om de privacyrichtlijnen goed aan te houden.
 
 
-# 9 Checklist opstarten
+# 10 Checklist opstarten
 
 Je moet diverse accounts aanmaken om goed te kunnen assisteren. Volg de stappen hieronder en zorg vooral dat je alle diensten goed **uittest**, om latere stress te voorkomen! (Bijvoorbeeld als het delen van een Zoom-linkje niet blijkt te werken.)
 
