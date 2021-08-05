@@ -419,8 +419,8 @@ Mocht een student ziek zijn tijdens de werkgroep dan zorg jij er voor dat de rev
 Het kan ook zijn dat een student een keer niks inlevert en ook niks meldt. Daarom is het belangrijk dat je vlak na de deadline even in je overzicht kijkt of er nog iets ontbreekt. Neem dan **proactief** contact op met je studenten om te zorgen dat dit snel gecorrigeerd wordt---en ga er in eerste instantie vanuit dat het een foutje is. Is er meer aan de hand dan maak je een Todo op Basecamp.
 
 
-This page intentionally left devoid of information.
-{:.break}
+(╯°□°）╯ﾐ ┻━┻
+{:.break style="text-align: center; padding:10rem 0;"}
 
 
 # 8 Nakijken
