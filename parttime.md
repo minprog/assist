@@ -139,11 +139,7 @@ Tot slot ga je zelf voor het eerst **nakijken**, zodra studenten hun definitieve
 
 3. Code review **Mario** (40 minuten)
 
-    Eerste keer code review!
-    
-    Zorg dat je ook een **oefening** doet: na je uitleg over de aspecten   wijs je één duo aan dat hun uitwerking van "Population" laat zien (de samenwerkopdracht). Alle werkgroepleden geven kritiek op basis van de aspecten Formatting en Comments. Zorg dat dit zeker 10 minuten duurt voordat iedereen echt aan de slag gaat.
-    
-    Leg het reviewen verder zo goed mogelijk uit en zorg dat je studenten corrigeert als ze het verkeerd aanpakken.
+{% include_relative werkgroep/code-review-eerste.md %}
 
     Aspecten:
 
@@ -372,6 +368,9 @@ Check of je <u>alles tot nu toe</u> hebt afgetekend dat afgetekend moet worden! 
 2. Functies
 
 {% include_relative nakijken/boek.md %}
+
+{% include_relative nakijken/complexity-puzzle.md %}
+
 
 ## Nakijken week 7
 
