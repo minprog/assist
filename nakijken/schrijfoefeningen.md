@@ -1,1 +1,3 @@
-    - Dit zijn schrijfoefeningen. Check of ze serieus gedaan zijn. Je hoeft niet te checken of het 100% werkt of anderszins. De inhoud wordt besproken bij de werkgroep van volgende week.
+0. Schrijfoefening: {{ include.opdracht }}
+
+    - Check of alles <u>serieus</u> gedaan is. Je hoeft niet te checken of het 100% werkt of anderszins. De inhoud wordt besproken bij de werkgroep van volgende week.

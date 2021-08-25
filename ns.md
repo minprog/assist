@@ -1,3 +1,6 @@
+---
+---
+
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
 <style>
   body
@@ -26,25 +29,47 @@
 
 # Assistentenhandboek Programmeren NS
 
-## Martijn Stegeman<br>versie augustus 2020
+## Martijn Stegeman<br>versie Herfst 2021
 
 <small>Gebaseerd op versie 2016 door Hella Haanstra en de instructies uit 2018 van Wouter Vrielink.</small>
 
 
-# 0 Voordat je begint
+# Voordat je begint
 
 Lees allereerst even goed de [Studiewijzer](https://progns.mprog.nl/syllabus) die een groot deel van de regels van het vak vastlegt.
 
 
+# Uitgangspunten Corona
+
+Zaalgebruik:
+
+- Studenten gaan alleen naar hun *eigen* laptopcolleges, en jij als assistent bent zoveel mogelijk steeds bij dezelfde groep. Studenten haken dus niet aan bij andere groepen. Zo houden we enigszins vast aan het idee van "bubbles".
+
+- Alle zalen worden, indien mogelijk, opgedeeld in 2 delen met behulp van de schuifwanden. Zo zijn er twee kleinere groepen in plaats van één grote. In zaal G4.15 is dit niet mogelijk. De groepen gaan ook daar <u>niet</u> door elkaar zitten.
+
+- Assistenten kiezen een vaste plek en studenten komen naar hen toe. De volgorde van helpen wordt bijgehouden via de website. Studenten gaan niet in de rij staan bij jouw bureau.
+
+- Studenten mogen na de laptopcolleges niet in de zaal blijven. Assistenten moeten de zalen afsluiten als er geen andere docent komt.
+
+- Assistenten mogen geen groepjes studenten helpen "op de gang" of op andere locaties. Als je de behoefte hebt een individuele student nog even bij te praten dan kan dat, maar zorg dat andere studenten er niet bij blijven hangen.
+
+Andere regels:
+
+- Er is een mondkapjesplicht in alle UvA-gebouwen. Tijdens het laptopcollege mogen studenten ze af doen als ze blijven <u>zitten</u> of als ze naar de assistent toelopen. Assistenten mogen ze ook af doen tijdens het helpen.
+
+- Er is een aanwezigheidsplicht in die zin dat wij voor het overgrote deel alleen kunnen helpen als studenten op locatie zijn. Alleen als studenten langer afwezig zijn en dit goed afstemmen kunnen we hulp-op-afstand geven.
+
+- Het tentamen kan zoals normaal doorgaan in de (kleine) lokalen die hiervoor gereserveerd zijn. Tenzij rond die tijd weer nieuwe regels gelden.
+
+En tot slot:
+
+- Als het voor jou te oncomfortabel wordt om op locatie te assisteren dan moet je dit direct aangeven. We kunnen naar een oplossing voor jou kijken maar we kunnen ook overleggen of we de manier van assisteren moeten aanpassen voor de hele groep.
+
+
+
 # 1 Assisteren
 
-Zoals uitgelegd in de studiewijzer kunnen studenten op drie manieren om assistentie vragen: via een forum, via het Hands-systeem, en voor de heel ingewikkelde vragen via een aparte afspraak.
-
-Vragen stellen via het forum heeft de allergrootste voorkeur. Veel studenten zullen echter in het begin nog moeite hebben met het formuleren van een schriftelijke vraag. We stimuleren studenten wel zoveel mogelijk om dat te doen. Simpelweg omdat zij dan het meeste werk doen, en het meeste leren.
-
-Als het **niet** lukt een student goed te helpen dan meldt de assistent dit altijd via een to-do in Basecamp ("Nazorg"). De coördinator kan dan zorgen dat men sowieso nog even bij de student nagaat of er al voortgang is, en zonodig extra hulp bieden.
-
-![](images/nazorg.png){:width="50%"}
+Zoals uitgelegd in de studiewijzer kunnen studenten om assistentie vragen via het <u>Hands</u>-systeem. We gaan er daarbij vanuit dat jij en de studenten aanwezig zijn in hetzelfde lokaal.
 
 ## 1.1 Regel één van assisteren is...
 
@@ -78,51 +103,37 @@ En natuurlijk zijn er veel situaties waarin er een echte **bug** in het programm
 
 > - Kijk voor een opfrisser in *Think Python*[^3], hoofdstuk 20: Debugging.
 
+## 1.3 Assistentie
 
-## 1.2 Ed
-
-Ed is een vraag- en antwoordforum waar onze studenten in een afgeschermde omgeving vragen kunnen stellen. Er zijn aparte afdelingen voor CS50, voor Scientific Programming, voor Web Development en voor Programmeertheorie. Alle studenten van de cursussen die op CS50 gebaseerd zijn zitten bijvoorbeeld wel bij elkaar.
-
-> Studenten moeten worden uitgenodigd voor Ed. Mocht iemand niet zijn uitgenodigd dan kunnen ze direct zelf de helpdesk mailen via <help@mprog.nl>. Nadat ze hun spam-folder gecontroleerd hebben natuurlijk!
-
-![](images/ed.png)
-
-Binnen elke cursus op Ed zijn er **categorieën** voor opdrachten, zoals bijvoorbeeld "Mario". Zo zijn de opdrachten per vraag te filteren. 
-
-Helemaal onderaan de pagina van een vraag kan een student, of een assistent, een **antwoord** plaatsen. Is dat het definitieve antwoord, dan is dat zichtbaar met een groen vinkje. Tijdens het plaatsen van een antwoord kun je kiezen voor "Mark as answered", maar je kunt later ook op het vinkje klikken om dit om te zetten.
-
-Een vraag schriftelijk stellen is best moeilijk, dus we moeten studenten helpen om dat op een goede manier te doen. Daarvoor is de makkelijkste manier om een follow-upvraag te stellen via het knopje "**Comment**" (of zoals hierboven "Reply").
-
-Let dus op dat er een verschil is tussen Comments en Answers. Je kunt de één ook naar de andere omzetten. Het is dan ook de taak van de assistenten om de vragen goed te **modereren**. Comments en Answers omzetten, opvolgvragen stellen, een vraag als "Answered" markeren. Als dat allemaal goed gebeurt is het makkelijk om de vragen snel te beantwoorden en bijvoorbeeld de nog niet beantwoorde vragen te vinden.
-
-## 1.3 Video-assistentie
-
-Studenten kunnen een hulpvraag indienen via de website. Deze "hands" verschijnen voor de assistenten in een lijst op de website. Je kiest de bovenste student om deze te "claimen", waarna de student een popup ontvangt met een link naar jouw videokanaal. Zodra je bij een student geweest bent en de vraag beantwoord hebt, teken je het verzoek af. Je komt dan weer in de lijst en kunt een nieuwe student uitkiezen om te helpen.
+Studenten kunnen een hulpvraag indienen via de website. Deze "hands" verschijnen voor de assistenten in een lijst op de website. Je kiest de bovenste student om deze te "claimen", waarna de student een popup ontvangt. **Op dat moment "roep" je de naam van de student zodat deze bij jou kan komen.** Zodra je bij een student geweest bent en de vraag beantwoord hebt, teken je het verzoek af. Je komt dan weer in de lijst en kunt een nieuwe student uitkiezen om te helpen.
 
 ![](images/hands.png)
 
-Juist bij de video-assistentie is er een kans dat een student nog geen concrete vraag heeft. Help de student in dat geval de vraag formuleren zoals hierboven uitgelegd (6.2). Sommige studenten kunnen ook nog wat meer tijd gebruiken om **zelf** wat langer naar hun programma te kijken; probeer zelf een juiste inschatting van de situatie te maken om vervolgens te besluiten de student direct te helpen, of een duwtje in de goede richting te geven en later nog even terug te komen.
+Er is een kans dat een student nog geen concrete vraag heeft. Help de student in dat geval de vraag formuleren zoals hierboven uitgelegd (1.2). Sommige studenten kunnen ook nog wat meer tijd gebruiken om **zelf** wat langer naar hun programma te kijken; probeer zelf een juiste inschatting van de situatie te maken om vervolgens te besluiten de student direct te helpen, of een duwtje in de goede richting te geven en later nog even terug te komen.
 
 Ziet de code er **slecht** uit? Is de indentatie totaal niet op orde? Vraag de student dan altijd eerst om deze netjes te maken. Niet alleen omdat het "hoort" maar omdat verkeerde indentatie het probleem heel moeilijk vindbaar kan maken. Met een beetje mazzel is het daarna zo gevonden (studenten in deze fase hebben overigens vaak ook nog een probleem met de formulering hun oplossing, dus kijk daar ook naar).
 
-Het is mogelijk om een student **terug in de lijst** te plaatsen. Dit kan om twee redenen:
+Het is mogelijk om een student **terug in de lijst** te plaatsen. Het kan namelijk zijn dat je deze student zelf korte tijd later nog even wil spreken. Vertel dit duidelijk tegen de student. Deze kan namelijk in de tussentijd ook geen andere vraag indienen! Vergeet het zelf ook niet.
 
-- Het kan zijn dat je deze student zelf korte tijd later nog even wil spreken. Vertel dit duidelijk tegen de student. Deze kan namelijk in de tussentijd ook geen andere vraag indienen! Vergeet het zelf ook niet.
-- Of misschien kom je er niet uit met de vraagstelling en wil je heel graag dat een andere assistent de vraag overneemt. Dit kan alleen als er een andere assistent beschikbaar is; check dit persoonlijk via Basecamp.
-
-Probeer gemiddeld 10 minuten per student aan te houden. Een absoluut maximum is 20 minuten. Duurt het langer, neem dan contact op met de coördinator om te kijken wat de beste aanpak is.
-
-Komt de assistentie voort uit een vraag op Ed? Vraag dan de student om de manier van oplossen te delen door een antwoord te schrijven bij hun eigen vraag en deze als "beantwoord" te markeren. Is het een vraag die niet op Ed stond maar daar eigenlijk wel had gekund? Laat de student dit dan weten.
+Probeer gemiddeld 5--10 minuten per student aan te houden. Een absoluut maximum is 15 minuten. Duurt het langer, neem dan contact op met de coördinator om te kijken wat de beste aanpak is.
 
 ## 1.4 Laptophelpdesk
 
-Studenten die vastzitten met hun computer, misschien zelfs hardwareproblemen hebben, kunnen contact opnemen met de laptophelpdesk. De  Er zijn enkele momenten per week beschikbaar. De assistenten die gewend zijn om voor dit soort problemen een snelle diagnose te stellen kunnen hierbij helpen. Het doel is om studenten zo snel mogelijk weer op weg te krijgen en niet te lang te laten hangen bij problemen waar ze weinig van kunnen leren.
+Studenten die vastzitten met hun computer, misschien zelfs hardwareproblemen hebben, kunnen contact opnemen met de laptophelpdesk. Er zijn enkele momenten per week beschikbaar. De assistenten die gewend zijn om voor dit soort problemen een snelle diagnose te stellen kunnen hierbij helpen. Het doel is om studenten zo snel mogelijk weer op weg te krijgen en niet te lang te laten hangen bij problemen waar ze weinig van kunnen leren.
 
-## 1.5 Algemene gesprekstechnieken[^1]
+Locatie laptophelpdesk: B1.19A (op eerste verdieping, dicht bij de centrale hal). Beschikbaar in de eerste weken tussen 10 en 16 uur.
+
+## 1.5 Nazorg
+
+Als het niet lukt een student goed te helpen en je hebt het idee dat deze student in de problemen gaat komen of blijven, dan meld je dit door het aanmaken van een Todo in Basecamp. De coördinator kan dan kijken of er extra hulp geboden moet worden, of bijvoorbeeld een verwijzing naar de studieadviseur. Geef voldoende informatie om het probleem te begrijpen.
+
+![](images/nazorg.png){:width="50%"}
+
+## 1.6 Algemene gesprekstechnieken[^1]
 
 - Complimenteer de student op een duidelijke manier. Kies voor 'heel goed antwoord!', 'zeker weten' of 'precies', etc. Probeer een droog 'ok', 'hmm', 'uhu' te vermijden. Ook als de student een langdradig antwoord geeft, probeer iets te vinden waar je positieve feedback op kunt geven.
 
-- Laat je feedback betrekken op het specifieke antwoord van de student. Als de student bijvoorbeeld een for-loop voorstelt bij `mario.c`, antwoord iets in de trant van: 'heel goed, je ziet dat er een vorm van herhaling nodig is'.
+- Laat je feedback betrekken op het specifieke antwoord van de student. Als de student bijvoorbeeld een for-loop voorstelt bij `mario.c`, antwoord iets in de trant van: 'inderdaad, er is een vorm van herhaling nodig'.
 
 - Probeer voort te bouwen op het antwoord van de student. Als het antwoord dat de student geeft niet helemaal naar wens is, probeer het dan mee te nemen in je volgende vraag. Iets als 'je hebt goed gezien dat je de String moet opdelen, wat is de volgende stap?' werkt motiverend.
 
@@ -219,10 +230,9 @@ In het begin zal het nakijken wat moeizaam gaan, maar probeer maximaal 10--15 mi
 
 Dat gezegd hebbende, als je merkt dat een student de feedback negeert, spreek hem of haar hier dan op aan (bijvoorbeeld een kort gesprekje via Slack). Grote kans dat ze het vergeten zijn of niet doorhebben hoe veel ze eraan kunnen hebben.
 
-
 # 3 Interne communicatie
 
-Voor bijna al het onderling contact is er [Basecamp](https://www.basecamp.com/). Je ontvangt een uitnodiging zodra je bij een vak aan de slag gaat. Je krijgt dan toegang tot het kanaal **ProgNS 2020**.
+Voor bijna al het onderling contact is er [Basecamp](https://www.basecamp.com/). Je ontvangt een uitnodiging zodra je bij een vak aan de slag gaat. Je krijgt dan toegang tot het kanaal **ProgNS 2021**.
 
 Lees het volgende even goed door zodra je de uitnodiging hebt gekregen, zodat je weet wat waar staat en moet staan.
 
@@ -237,14 +247,11 @@ De gedachte achter Basecamp is om zoveel mogelijk **asynchrone** communicatie te
 Hoe gebruik je de verschillende tools?
 
 - Heb je een Grote Vraag of een kleine vraag, wil je iets ter discussie stellen, heb je een mooi voorstel: schrijf dan een **Message** in één van de Basecamp-projecten.
-- Heb je informatie over een student, een concreet verzoek om iets gedaan te krijgen, dan moet iemand anders iets voor jou doen. Schroom dan niet en maak direct een **Todo** aan.
+- Heb je informatie over een student, maak dan direct een **Todo** aan of vul een bestaande Todo aan met nieuwe informatie.
 - Heb je een urgent en concreet probleem, bijvoorbeeld tijdens het assisteren, dan kan iedereen je potentieel helpen en schrijf je dus een bericht in de **Campfire** van jouw cursus.
-- Heb je zelf persoonlijke problemen die je liever niet aan de grote klok hangt? **Ping** dan je coördinator of Martijn en maak een afspraak voor een videogesprekje.
-- Heb je gewoon zin om wat te delen met de rest van het team (bijvoorbeeld een slechte meme) dan kun je dat ook doen in de **Campfire** van jouw cursus.
+- Heb je zelf persoonlijke problemen die je liever niet aan de grote klok hangt? **Mail** dan naar Ivo en Martijn.
 
-Met name het aanmaken van **Todo**'s voor iemand anders is misschien even wennen. Het is wel de manier om te zorgen dat je niet direct de aandacht opeist voor iets dat niet direct hoeft te gebeuren. Vergeet niet om de Todo aan één of meer mensen toe te kennen (assignen) zodat zij een notification krijgen en eventuele reminders. Zit er een deadline aan, stel deze dan ook in!
-
-Berichten over **specifieke studenten** plaats je ook als Todo in het project van jouw vak. Het is belangrijk dat we deze informatie delen met het team. Andere assistenten en docenten gaan hier natuurlijk discreet mee om, en kunnen bovendien aanvullen met hun eigen kennis over de student. Eventuele details over ziektes en omstandigheden e.d. kun je weglaten.
+Berichten over **specifieke studenten** plaats je dus als Todo in het project van jouw vak. Het is belangrijk dat we deze informatie delen met het team. Andere assistenten en docenten gaan hier natuurlijk discreet mee om, en kunnen bovendien aanvullen met hun eigen kennis over de student. Eventuele details over ziektes en omstandigheden e.d. kun je weglaten.
 
 ![](images/studenten.png){: width="50%"}
 
@@ -252,21 +259,15 @@ Berichten over **specifieke studenten** plaats je ook als Todo in het project va
 
 Let op dat je account weer verwijderd wordt zodra je een paar weken niet meer assisteert. Dit is om de privacyrichtlijnen goed aan te houden.
 
-
 # 4 Checklist opstarten
 
 Je moet diverse accounts aanmaken om goed te kunnen assisteren. Volg de stappen hieronder en zorg vooral dat je alle diensten goed **uittest**, om latere stress te voorkomen! (Bijvoorbeeld als het delen van een Zoom-linkje niet blijkt te werken.)
 
 - Voor **Basecamp** krijg je een uitnodiging via het bekende e-mailadres (je kunt dit dus niet zelf starten). Maak direct dit account aan.
 
-- Ook voor **Ed** wordt je uitgenodigd. Heb je geen uitnodiging terwijl de cursus gestart is? Post dan een to-do op Basecamp voor je coördinator met een verzoek om een nieuwe uitnodiging.
-
 - Maak een account voor **Programmeren NS** via <https://progns.mprog.nl/>. Na enige tijd krijg je extra rechten, zodat je de gegevens van je studenten kunt inzien en hun werk kunt nakijken.
 
 - Lees de **studiewijzer** van je vak heel nauwkeurig door zodat je deze niet tegenspreekt. Mis je iets in de studiewijzer of heb je een vraag? Post dan meteen een vraag in Basecamp.
-
-- Maak een account voor **Zoom** via <https://zoom.us/signup>. Dit is een videodienst die het beste werkt met een eigen applicatie. Deze gebruik je voor assisteren en overleg.
-
 
 # Noten
 

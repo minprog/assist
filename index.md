@@ -187,7 +187,7 @@ Mentoren krijgen een groep van 10--17 studenten (afhankelijk van de snelheid van
 
 ## 6.1 Aanspreekpunt
 
-Mentoren leren alle studenten uit hun mentorgroep goed kennen. Dat betekent dat ze na een paar weken het volgende weten over deze studenten:
+Als mentor leer je alle studenten uit je mentorgroep goed kennen. Dat betekent dat je na een paar weken het volgende weet over je studenten:
 
 - Eigen hoofdopleiding
 - Programmeerervaring
@@ -197,7 +197,7 @@ Mentoren leren alle studenten uit hun mentorgroep goed kennen. Dat betekent dat 
 - Levert tijdig in
 - Neemt goed deel aan de cursus en de werkgroepen
 
-Hoewel mentoren de belangrijke details over hun studenten kennen, beperkt het contact met hun studenten zich wel tot zaken die van belang zijn voor het onderwijs.
+Hoewel je als mentor de belangrijke details over je studenten kent, beperkt het contact met je studenten zich wel tot zaken die van belang zijn voor het onderwijs.
 
 Dat je je studenten goed kent maakt je ook het juiste aanspreekpunt voor de cursus. Dat betekent dat studenten zich al gauw bij jou zullen melden als ze een organisatorische vraag hebben waarvoor ze het antwoord niet kunnen vinden. Maar ook bij persoonlijke problemen zullen ze ongetwijfeld naar jou toe komen.
 
@@ -236,7 +236,6 @@ De werkgroepen zijn een plek om kennis te maken met je studenten, maar vooral om
 In deel B van de handleiding vind je de onderwerpen per werkgroep.
 
 ## 6.6 Communicatietools
-{:.break}
 
 Omdat we nog niet zeker weten dat onze studenten altijd 100% aanwezig kunnen zijn, gebruiken de mentoren **Slack** om hun studenten te informeren, om ziekmeldingen te ontvangen en om ze met elkaar te kunnen laten communiceren buiten de groep om.
 
@@ -348,7 +347,6 @@ Prive maken berichten:
 ![](images/ed-make-private.png) -->
 
 ## 7.4 Algemene gesprekstechnieken[^1]
-{:.break}
 
 Begrijp dat veel studenten niet gewend zijn om een probleem op te lossen waar meer dan één antwoord voor is. Het proces om dit te leren kan zeer frustrerend voor ze zijn. Neem dus hun frustraties gewoon aan en probeer ze naar een concrete vraag te leiden. 'Waar ben je met de opdracht? Wat heb je al gedaan?'
 
@@ -373,7 +371,6 @@ Vanaf dit jaar komen studenten altijd naar de programmeerbalie in A1.24 als ze h
 Studenten kunnen een hulpvraag indienen via de website. Ze hebben deze keuze uit een beperkt aantal opties: sommige zijn "zo snel mogelijk," hopelijk binnen 2 uur. Andere opties zijn juist morgen. Het is niet mogelijk om ver vooraf een afspraak te maken.
 
 ### Ontvangst
-{:.break}
 
 Op de afgesproken tijd komen studenten naar lokaal A1.24. De docent of assistent die "greeter" is zal ze daar ontvangen en zonodig even in de wacht houden. Deze persoon kan kleinere problemen ook zelf afhandelen, maar alléén als dat niet teveel afleidt van het organiseren van de korte wachtrij.
 
@@ -406,7 +403,7 @@ Bij onze cursussen gebruiken we zowel deadlines als een dagschema om te zorgen d
 
 Voor alle studenten geldt dat de verwachting is dat ze het tempo van het dagschema bijhouden. Hier een voorbeeld van een dagschema voor parttime:
 
-![](images/schema.png){: width="40%"}
+![](images/schema.png){: style="max-width:40%; margin: 0 auto; display: block;"}
 
 Bij fulltime moeten ze dat schema ook echt dagelijks volgen, bij parttime en IK/KI kunnen ze natuurlijk binnen de week iets schuiven, bijvoorbeeld in verband met deadlines van een ander vak.
 
@@ -459,10 +456,10 @@ Mocht een student ziek zijn tijdens de werkgroep dan zorg jij er voor dat de rev
 
 Het kan ook zijn dat een student een keer niks inlevert en ook niks meldt. Daarom is het belangrijk dat je vlak na de deadline even in je overzicht kijkt of er nog iets ontbreekt. Neem dan **proactief** contact op met je studenten om te zorgen dat dit snel gecorrigeerd wordt---en ga er in eerste instantie vanuit dat het een foutje is. Is er meer aan de hand dan maak je een Todo op Basecamp.
 
-
+<!--
 (╯°□°）╯ﾐ ┻━┻
 {: style="text-align: center; padding:10rem 0;"}
-
+-->
 
 # 9 Nakijken
 
@@ -490,12 +487,11 @@ Bekijk eens deze feedback waarin vijf feedbackpunten zijn verwerkt. Dit is een v
 > in feite heel eenvoudig is, erg ingewikkeld om te lezen. Kijk volgende
 > keer maar eens of je de gulden middenweg kunt vinden. ⓸
 > - De verdere aspecten zijn mooi gedaan, net als bij greedy. ⓹
-{: style="background-color: #eee; padding: 0.5rem 1rem;"}
+{: style="background-color: #eee; padding: 0.5rem 1rem; margin-left: 0"}
 
 Hieronder vind je een aantal aanwijzingen over het schrijven van feedback. Op enkele plekken verwijzen we weer naar de feedbackpunten uit het voorbeeld.
 
 ### Toon
-{: .break}
 
 Vergeet niet ook positieve feedback te geven! Feedback wordt veel prettiger verwerkt als ook de positieve punten worden aangestipt. De makkelijkste manier om dit te doen is om vóór het nakijken even de uitlegpagina's over de aspecten van de week door te nemen en daar niet alleen de negatieve maar ook de positieve voorbeelden uit te halen. Zie als voorbeeld de eerste zin van ⓵, en ook ⓷ en ⓹. En ondanks deze grote hoeveelheid positieve opmerkingen staan er toch ook twee zeer concrete verbeterpunten in de feedback.
 
@@ -531,14 +527,15 @@ De feedback moet lichtjes opgemaakt worden met behulp van Markdown. Hier een voo
       ⏎
       **mario**⏎
       ⏎
-      - Oef, erg veel functies! Zo wordt het programma, dat
-        in feite heel eenvoudig is, erg ingewikkeld om te lezen. Kijk volgende
+      - Oef, erg veel functies! Zo wordt het programma, dat⏎
+        in feite heel eenvoudig is, erg ingewikkeld om te lezen. Kijk volgende⏎
         keer maar eens of je de gulden middenweg kunt vinden.⏎
       - De verdere aspecten zijn mooi gedaan, zoals bij greedy.⏎
 
 Bovenstaande zal omgezet worden naar HTML en netjes leesbaar zijn voor studenten. Let op dat er geen Markdown-kopjes gebruikt worden (deze worden veel te groot) en dat er witregels boven de lijstjes staan.
 
 ## 9.3 Becijfering
+{:.break}
 
 Alle modules kunnen 1--6 punten opleveren. Voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De aspecten gaan over codekwaliteit, en specifiek over **leesbaarheid** en **begrijpelijkheid**. De schaal is als volgt:
 
@@ -600,13 +597,13 @@ Voor bijna al het contact tussen docenten en assistenten is er [Basecamp](https:
 
 Je kunt Basecamp als volgt configureren, zodat je alleen notifications krijgt als het bericht specifiek voor jou bedoeld is.
 
-![](images/basecamp-notif.png){: width="50%"}
+![](images/basecamp-notif.png){: style="max-width:50%; margin: 0 auto; display: block;"}
 
 Als je geen notifications op je mobiel wil hebben, zorg dan dat je wél "Send me e-mail notifications" aan zet. Het mag namelijk niet zo zijn dat je dagenlang niet bereikbaar bent via Basecamp: dit is echt de enige tool voor onze communicatie.
 
 Als je teveel irrelevante notifications krijgt, dan kun je de notifications voor een project uitzetten. In het "Programming Lab"-kanaal worden nooit berichten over de vakken zelf gepost, dus die zou je gerust kunnen unfollowen:
 
-![](images/basecamp-follow.png){: width="50%"}
+![](images/basecamp-follow.png){: style="max-width:50%; margin: 0 auto; display: block;"}
 
 En je kunt je zelfs per bericht nog uitschrijven voor notifications.
 

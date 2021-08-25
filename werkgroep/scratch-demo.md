@@ -1,4 +1,4 @@
-3.  Scratch demo's (5 minuten per student)
+0. Scratch-demo's (5 minuten per student)
 
     Doel: inhoudelijk aandacht geven aan alle studenten, laten merken wat jouw rol is.
 
@@ -9,3 +9,5 @@
                 <tr><td></td><td></td><td></td></tr>
             </tbody>
         </table>
+    ⚠️ De projecten hoeven niet helemaal "af" te zijn maar er moet evident substantieel werk in zitten.
+    ⚠️ Noteer wie een demo heeft gedaan!

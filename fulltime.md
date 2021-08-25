@@ -8,15 +8,9 @@ layout: default
 
 ## <small>Deel B: Werkgroepen en nakijken <br>Fulltime Herfst 2021</small>
 
-Deze versie is gemaakt in 2020--2021 door Martijn Stegeman. Gebaseerd op versie 2016 door Hella Haanstra en de instructies uit 2018 van Wouter Vrielink.
+<small>Deze versie is gemaakt in 2020--2021 door Martijn Stegeman.</small>
 
 </header>
-
-**TODO**
-
-- Aspecten per week nalopen
-- Antwoorden van Complexity Puzzle?
-- Nakijkaanwijzingen specifiek per opdracht (zie Basecamp vorig jaar)
 
 {% include_relative werkgroep/overzicht.md %}
 
@@ -41,23 +35,28 @@ De werkgroep staat in het teken van kennismaking! De demo's van de Scratch-proje
 
 {% include_relative werkgroep/scratch-demo.md %}
 
+{% include_relative werkgroep/boek.md %}
+
 {% include_relative werkgroep/checkups.md %}
 
 {% include_relative werkgroep/samenwerken.md %}
 
 {% include_relative werkgroep/grote-vragen-1.md %}
 
+## Administratie
+
 {% include_relative werkgroep/naderhand.md %}
 
 ## Aftekenen week 1
+{:.break}
 
-Deze week bestaat het nakijken alleen maar uit aftekenen. Je kunt dit gedurende de week doen, nadat de groepen zijn ingedeeld, of op een vast moment (vrijdag laat zou vrijwel alles compleet moeten zijn). Zorg dat het uiterlijk zondag laat klaar staat voor je studenten.
+Deze week ga je een aantal opdrachten aftekenen. Je kunt dit gedurende de week doen, nadat de groepen zijn ingedeeld, of op een vast moment (vrijdag laat zou vrijwel alles compleet moeten zijn).
+
+{% include_relative nakijken/zondag.md %}
 
 {% include_relative nakijken/scratch.md %}
 
-2. Boek: Variables & Control Flow (twee opdrachten)
-
-{% include_relative nakijken/boek.md %}
+{% include_relative nakijken/boek.md opdracht="Variables & Control Flow (twee toetsjes)" %}
 
 {% include_relative nakijken/cs50t-hardware.md %}
 
@@ -74,56 +73,35 @@ Tot slot ga je voor het eerst **nakijken**, zodra studenten hun definitieve vers
 
 ## Werkgroep week 2
 
-1. Terugblik (15--20 minuten)
-
 {% include_relative werkgroep/terugblik.md %}
 
-2. Nabespreking Hardware (20 minuten)
+{% include_relative werkgroep/nabespreking-cs50t.md opdracht="Hardware" %}
 
-{% include_relative werkgroep/nabespreking-cs50t.md %}
-
-3. Code review **Mario** & **Cash** (30 minuten)
+{% include_relative werkgroep/nabespreking-control-flow.md %}
 
 {% include_relative werkgroep/code-review-eerste.md %}
+
+3. Code review Mario & Cash (30 minuten)
 
     Aspecten:
 
     - Formatting
     - Comments
 
-    Procedure:
-
 {% include_relative werkgroep/code-review.md %}
-
-4. Grote vragen (10--20 minuten)
 
 {% include_relative werkgroep/grote-vragen-2.md %}
 
-## Aftekenen week 2
+## Aftekenen en nakijken week 2
+{:.break}
 
-1.  Eventueel nog aftekenen van vorige week:
+{% include_relative nakijken/schrijfoefeningen.md opdracht="Strings en Functions (twee opdrachten)" %}
 
-    - Scratch
-    - Boek: Variabelen & Control Flow (twee losse opdrachten)
-    - Hardware
-
-2.  Strings, Functions
-
-{% include_relative nakijken/schrijfoefeningen.md %}
-
-2. Boek: Strings
-
-{% include_relative nakijken/boek.md %}
+{% include_relative nakijken/boek.md opdracht="Strings" %}
 
 {% include_relative nakijken/cs50t-internet.md %}
 
-## Nakijken week 2
-
-Eerste keer nakijken!
-
-**Mario & Cash** (kan na de werkgroep, zodra verbeterde versie is ingeleverd).
-
-{% include_relative nakijken/cijfers.md %}
+{% include_relative nakijken/cijfers.md opdracht="Mario & Cash" %}
 
 
 
@@ -137,56 +115,43 @@ En je hebt vorige week **feedback** gegeven, daarover zul je wel wat vragen krij
 
 ## Werkgroep week 3
 
-1. Korte terugblik (15--20 minuten)
-
 {% include_relative werkgroep/terugblik.md %}
 
-2. Nabespreking schrijfopdracht Strings (10 minuten)
+{% include_relative werkgroep/nabespreking-schrijfoefening.md opdracht="Strings" %}
+    - Merk bijvoorbeeld op dat al deze opdrachten met strings werken, maar dat elk algoritme vooral naar de losse **characters** kijkt.
 
-    - strings, een moeilijke laten zien (taboo?)
+{% include_relative werkgroep/nabespreking-schrijfoefening.md opdracht="Functies" %}
 
-3. Nabespreking Functie-oefeningen (10 minuten)
+{% include_relative werkgroep/nabespreking-cs50t.md opdracht="Internet" %}
 
-    - enkele functie-oefeningen doornemen (studenten laten om beurten uitwerking zien)
-
-4. Nabespreking Internet (20 minuten)
-
-{% include_relative werkgroep/nabespreking-cs50t.md %}
-
-5. Code review **Readability** & **Caesar** (30 minuten)
+0. Code review Readability & Caesar (30 minuten)
 
     Aspecten:
 
-    - Naming
-    - Cleanup
-
-    Procedure:
+    - Formatting
+    - Comments
+    - Naming 🆕
+    - Cleanup 🆕 
 
 {% include_relative werkgroep/code-review.md %}
 
-6. Grote vragen (10 minuten)
-
 {% include_relative werkgroep/grote-vragen-2.md %}
 
-## Aftekenen week 3
+## Aftekenen en nakijken week 3
 
-Deze opdrachten kun je gedurende de week al aftekenen (en problemen signaleren). In het weekend moet alles sowieso ingeleverd zijn, dus als je het in bulk doet: graag uiterlijk zondagmiddag.
+{% include_relative nakijken/retrospective.md opdracht="Mario & Cash" %}
+
+{% include_relative nakijken/linear.md %}
 
 {% include_relative nakijken/algorithms.md %}
 
 {% include_relative nakijken/complexity-puzzle.md %}
 
-2. Boek: Functies
-
-{% include_relative nakijken/boek.md %}
+{% include_relative nakijken/boek.md opdracht="Functies" %}
 
 {% include_relative nakijken/cs50t-security.md %}
 
-## Nakijken week 3
-
-**Readability** & **Caesar** (kan na de werkgroep, zodra verbeterde versie is ingeleverd).
-
-{% include_relative nakijken/cijfers.md %}
+{% include_relative nakijken/cijfers.md opdracht="Readability & Caesar" %}
 
 
 
@@ -202,87 +167,53 @@ Misschien een goede reminder trouwens. Sommige studenten zullen het best zwaar h
 
 ## Werkgroep week 4
 
-1. Korte terugblik
-
 {% include_relative werkgroep/terugblik.md %}
 
-2. Nabespreking Algorithms/Sort
+{% include_relative werkgroep/nabespreking-algorithms.md %}
 
-    -   Voor Algorithms moesten studenten een algoritme traceren en per regel de wijzigingen vermelden. Het makkelijkst is als iedereen even de gelegenheid krijgt om hun antwoorden te vergelijken. Als mensen afwijkende antwoorden hebben kunnen ze nog een keer beredeneren welke oplossing nu klopt.
-        -   Het kan zijn dat de vraag rijst welke manier van invullen correct is. Geef dan de hint dat ze heel precies moeten kijken waar de **print** staat. Deze bepaalt het moment dat een hele regel in de tabel wordt ingevuld.
-    -   Sort is nagekeken met `check50`, maar hier kunnen vragen over zijn. Speel de vragen rond in de groep: "wie weet wat het juiste antwoord is?", "waarom is dit het juiste antwoord?"
+{% include_relative werkgroep/nabespreking-cs50t.md opdracht="Security" %}
 
-3. Nabespreking Big-O/Complexity Puzzle
-
-    -   Big-O is nagekeken met `check50`, maar hier kunnen vragen over zijn. Speel de vragen rond in de groep: "wie weet wat het juiste antwoord is?", "waarom is dit het juiste antwoord?"
-    -   Complexity puzzle kan diepgaand besproken worden maar in het kader van de tijd is het beter te vragen dit na de werkgroep te doen.
-
-4. Nabespreking Security
-
-{% include_relative werkgroep/nabespreking-cs50t.md %}
-
-5. Code review **Find**
+0. Code review Find
 
     Aspecten:
 
-    - Nesting
-    - Loops
-
-    Procedure:
+    - Formatting
+    - Comments
+    - Naming
+    - Cleanup
+    - Nesting 🆕
+    - Loops 🆕
+    - Scope 🆕
 
 {% include_relative werkgroep/code-review.md %}
-
-6. Grote vragen
 
 {% include_relative werkgroep/grote-vragen-2.md %}
 
 ## Dubbelcheck: aftekenen Programmeren 1
 
-Check of je voor al je studenten **alles** tot nu toe hebt afgetekend! Als je dit niet hebt gedaan gaat dit tot onnodige e-mails en dergelijke leiden. Mocht er nog iets missen check dan bij de student de reden.
+{% include_relative nakijken/dubbelcheck.md %}
 
-Noteer hier de probleemgevallen en redenen:
+## Aftekenen en nakijken week 4
 
-<table>
-    <tbody>
-        <tr><td></td></tr>
-        <tr><td></td></tr>
-        <tr><td></td></tr>
-        <tr><td></td></tr>
-        <tr><td></td></tr>
-    </tbody>
-</table>
+{% include_relative nakijken/retrospective.md opdracht="Readability & Caesar" %}
 
-Maak daarna meteen een TODO over elke student (met daarbij alle relevante informatie incl. wat de student zegt).
+{% include_relative nakijken/whodunit.md %}
 
-## Aftekenen week 4
+{% include_relative nakijken/beatles.md %}
 
-1. Whodunit
-
-    - Bij deze opdracht check je of er zinvolle aanpassingen aan het bestand worden gedaan. Het ligt voor de hand dat er een `if`-conditie wordt gebruikt en een aanpassing aan één of meer kleuren.
-
-1. Beatles (vrijdag)
-
-    - Bij deze opdracht staan 3 vragen die redelijkerwijs goed beantwoord moeten worden. Keur de opdracht af als de antwoorden echt niet goed zijn. Die student moet dan nog even aan de slag met een assistent om de stof beter te begrijpen.
-
-## Nakijken week 4
-
-**Find** (kan na de werkgroep, zodra verbeterde versie is ingeleverd).
-
-{% include_relative nakijken/cijfers.md %}
+{% include_relative nakijken/cijfers.md opdracht="Find" %}
 
 
 
 # Week 5
 
-De hele week wordt min of meer besteed aan één opdracht: **Speller**! Het is dus iets lastiger voor studenten om te plannen, maar goed om ze mee te geven dat als ze "load" implementeren met hulp van een datastructuur, dat een heel belangrijk deel gedaan is en de rest iets minder zal zijn. Toch kan Valgrind uiteindelijk ook nog wel wat hoofdbrekens kosten!
+De hele week wordt min of meer besteed aan één opdracht: **Speller**! Het is dus iets lastiger voor studenten om te plannen, maar goed om ze mee te geven dat als ze "load" implementeren met hulp van een datastructuur, dat een heel belangrijk deel gedaan is en de rest daar op voort gaat bouwen. Toch kan Valgrind uiteindelijk ook nog wel wat hoofdbrekens kosten!
 
 Er is geen extra opdracht bij Speller, dat is handig om te weten voor iedereen.
 
 ## Werkgroep week 5
 
-1. Korte terugblik (20 minuten)
-
-    Inclusief terugblik op het **tentamen**!
+Deze week ook terugblik op het **tentamen**!
 
 {% include_relative werkgroep/terugblik.md %}
 
@@ -295,32 +226,33 @@ Er is geen extra opdracht bij Speller, dat is handig om te weten voor iedereen.
 
     - Deze opdracht was een soort voorbereiding voor Speller. Afhankelijk van de timing kan het goed zijn om deze al even na te bespreken. 
 
-5. Code review **Whodunit** & **Anonymize** (30 minuten)
+5. Code review Whodunit & Anonymize (30 minuten)
 
     Aspecten:
 
-    - ...
-    - ...
-
-    Procedure:
+    - Formatting
+    - Comments
+    - Naming
+    - Cleanup
+    - Nesting
+    - Loops
+    - Scope
 
 {% include_relative werkgroep/code-review.md %}
 
-6. Grote vragen (10 minuten)
-
 {% include_relative werkgroep/grote-vragen-2.md %}
 
-## Aftekenen week 5
+## Aftekenen en nakijken week 5
+
+⚠️ Let op: deze retrospective moet worden ingevuld op de site van Programmeren 1!
+
+{% include_relative nakijken/retrospective.md opdracht="Find" %}
 
 1. Linked list
 
     - Check zo snel mogelijk deze opdracht om te zien of er niet per ongeluk arrays worden gebruikt. Soms gebeurt zoiets, dan is het belangrijk om die fout meteen aan de student te melden. De bedoeling is dat met structs een linked list opgebouwd wordt.
 
-## Nakijken week 5
-
-Whodunit & Anonymize (kan na de werkgroep, zodra verbeterde versie is ingeleverd).
-
-{% include_relative nakijken/cijfers.md %}
+{% include_relative nakijken/cijfers.md opdracht="Whodunit & Anonymize" %}
 
 
 
@@ -336,36 +268,33 @@ Let op dat er deze week 2 lectures zijn!
 
 ## Werkgroep week 6
 
-1. Korte terugblik (15--20 minuten)
-
 {% include_relative werkgroep/terugblik.md %}
 
-5. Code review **Speller** (30 minuten)
+5. Code review Speller (30 minuten)
 
     Aspecten:
 
-    - ...
-    - ...
-
-    Procedure:
+    - Formatting
+    - Comments
+    - Naming
+    - Cleanup
+    - Nesting
+    - Loops
+    - Scope
 
 {% include_relative werkgroep/code-review.md %}
 
-6. Grote vragen (10--20 minuten)
-
 {% include_relative werkgroep/grote-vragen-2.md %}
 
-## Aftekenen week 6
+## Aftekenen en nakijken week 6
+
+{% include_relative nakijken/retrospective.md opdracht="Whodunit & Anonymize" %}
 
 1. Stack
 
     - Graag zo vroeg mogelijk nalopen om eventuele problemen te signaleren.
 
-## Nakijken week 6
-
-Speller (kan na de werkgroep, zodra verbeterde versie is ingeleverd).
-
-{% include_relative nakijken/cijfers.md %}
+{% include_relative nakijken/cijfers.md opdracht="Speller" %}
 
 
 
@@ -381,42 +310,46 @@ Assertions geven traditioneel wat problemen hier. Check even of deze nog zoals v
 
 ## Werkgroep week 7
 
-1. Korte terugblik (15--20 minuten)
-
 {% include_relative werkgroep/terugblik.md %}
 
 2. Nabespreking Queue en Game of Cards (10 minuten)
 
     - Zijn er nog verschillen in de manier waarop studenten deze hebben gemaakt?
 
-5. Code review **DNA** (30 minuten)
+5. Code review DNA (30 minuten)
 
-    Procedure:
+    Aspecten:
+
+    - Formatting
+    - Comments
+    - Naming
+    - Cleanup
+    - Nesting
+    - Loops
+    - Scope
 
 {% include_relative werkgroep/code-review.md %}
 
-6. Grote vragen (10 minuten)
-
 {% include_relative werkgroep/grote-vragen-2.md %}
 
-## Aftekenen week 7
+## Aftekenen en nakijken week 7
 
 Check of je alles hebt afgetekend dat afgetekend moet worden! Dit zodat de eindcijfers na volgende week zonder gezeur gemaakt kunnen worden.
 
-## Nakijken week 7
+{% include_relative nakijken/retrospective.md opdracht="Speller" %}
 
-DNA (kan na de werkgroep, zodra verbeterde versie is ingeleverd).
-
-{% include_relative nakijken/cijfers.md %}
+{% include_relative nakijken/cijfers.md opdracht="DNA" %}
 
 
 
 # Week 8
 
-Deze week is helemaal vrij voor studenten. Je moet nog wel Adventure nakijken, zodat vóór het eind van de week duidelijk is of studenten het vak (nog) niet gehaald hebben.
+Deze week is collegevrij voor studenten. Ze moeten nog wel Adventure verbeteren en inleveren, en jij moet dat nakijken, zodat vóór het eind van de week duidelijk is of studenten het vak (nog) niet gehaald hebben.
 
-## Nakijken week 8
+Studenten moeten op enig moment ook de retrospective voor DNA invullen. Dit is noodzakelijk voor het berekenen van het eindcijfer voor Programmeren 2.
 
-Adventure (kan na de werkgroep, zodra verbeterde versie is ingeleverd).
+## Aftekenen en nakijken week 8
 
-{% include_relative nakijken/cijfers.md %}
+{% include_relative nakijken/retrospective.md opdracht="DNA" %}
+
+{% include_relative nakijken/cijfers.md opdracht="Adventure" %}
