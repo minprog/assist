@@ -291,7 +291,7 @@ Mentoren zijn bij uitstek het aanspreekpunt voor klachten en voor grote frustrat
 
 ## 5.4 Groepsvorming
 
-De belangrijkste elementen voor groepsvorming zitten in de structuur van de cursus: studenten worden geacht samen te werken voor bepaalde opdrachten én de code reviews moeten steeds binnen de mentorgroep gedaan worden. Als mentor kun je bovendien bijdragen door te zorgen dat elke student tijdens de werkgroep aan de beurt komt en zich zo een klein beetje presenteert aan de rest (sommige studenten vermijden dit een beetje!).
+De belangrijkste elementen voor groepsvorming zitten in de structuur van de cursus: studenten worden geacht samen te werken voor bepaalde opdrachten én de code reviews moeten steeds binnen de mentorgroep gedaan worden. Als mentor kun je bovendien bijdragen door te zorgen dat elke student tijdens de werkgroep aan de beurt komt en zich zo een klein beetje presenteert aan de rest (sommige studenten vermijden dit net iets te veel!).
 
 ## 5.5 Werkgroepen organiseren
 
@@ -303,11 +303,30 @@ De werkgroepen zijn een plek om kennis te maken met je studenten, maar vooral om
 
 In deel B van de handleiding vind je de onderwerpen per werkgroep.
 
-## 5.6 Communicatie met studenten
+## 5.6 Communicatie met studenten 🆕
 
-Dit jaar is er **geen Slack** voor de mentoren en studenten. Al het contact vindt plaats tijdens het practicum en de werkgroepen. Studenten die niet aanwezig kunnen zijn moeten direct in contact komen met de vakcoördinator.
+Vanaf dit jaar is er **geen Slack** voor de mentoren en studenten. Al het contact vindt zoveel mogelijk plaats tijdens het practicum en de werkgroepen. Daarnaast kunnen studenten jou mailen op je **studentenmail** of je **medewerkersmail**.
 
-Het is ook absoluut niet de bedoeling om zelf een Slack aan te maken of een Whatsapp-groep te starten met je studenten. Dit is niet jouw verantwoordelijkheid: jij bent er voor hen tijdens de college-uren maar daarbuiten moeten studenten mailen met de vakcoördinator.
+Het mailen is beperkt tot bijvoorbeeld dit soort dingen:
+
+- Afmelden voor een werkgroep (met goede reden)
+- Vraag wanneer jij aanwezig bent op het practicum, zodat student kan langskomen
+- Ideeën voor de volgende werkgroep
+
+Andere dingen doen we juist niet:
+
+- Programmeerhulp geven we helemaal niet per mail, "morgen langskomen bij het practicum"
+- Uitzonderingen gaan alleen via <mailto:help@mprog.nl>
+- Vragen over de cursus via <mailto:help@mprog.nl>
+- Voorlichting en planning kun je waarschijnlijk het best ook doorsturen naar <mailto:help@mprog.nl>
+
+Dat betekent dus in het algemeen dat je <u>niet continu bereikbaar bent via mail</u>. Het is echt alleen bedoeld voor kort afstemmen en studenten mogen niet verwachten dat je hun mail dagelijks bekijkt, maar bijvoorbeeld alleen op de dag van de werkgroep. Het meeste contact moet gewoon mondeling gebeuren, tijdens de werkgroep.
+
+Het is ook absoluut niet de bedoeling om zelf een Slack aan te maken of een Whatsapp-groep te starten met je studenten. Dit is niet jouw verantwoordelijkheid: jij bent er voor hen tijdens de college-uren en niet daarbuiten. Hebben ze een vraag dan kunnen ze altijd naar de vakcoördinator mailen.
+
+Je kunt zelf een mededeling sturen naar je werkgroep via Datanose. Vóórdat je dat doet kun je in Datanose kiezen of je afzender-adres je studentenmail of je werkmail is. Dat kun je door door in te loggen en dan rechtsboven in het beeld op je eigen naam te klikken. Dan krijg je de keuze voor mailadres.
+
+⚠️ Let op dat als je per se je studentenmail wil gebruiken hiervoor, jij alle mails van en met studenten moet weggooien na afloop van de cursus. Jij bent dan verantwoordelijk voor de privacyregels. Daarom is het handiger je medewerkersmail te gebruiken (en niet door te sturen).
 
 <!-- ## 6.6 Communicatietools
 
@@ -484,37 +503,32 @@ Het doel van de deadlines is om te zorgen dat er ook duidelijkheid is in het gev
 
 ## 7.3 Ziekmelding
 
-Bij ziekte loopt de planning al gauw in de soep. Als een student meerdere dagen niet aan de opdrachten kan werken, dan ligt het voor de hand dat het niet vóór het weekend af is. Daarom willen wij dat studenten zich ziekmelden. Die melding gaat naar de mentor.
+Bij ziekte loopt de planning al gauw in de soep. Als een student meerdere dagen niet aan de opdrachten kan werken, dan ligt het voor de hand dat het niet vóór het weekend af is. Daarom willen wij dat studenten zich ziekmelden. Die melding gaat naar de mentor via e-mail.
 
 Als je zo'n melding krijgt dan ga je zo te werk:
 
 - Je wenst je student beterschap en vraagt meteen om even te laten weten als ze weer aan de slag gaan.
-- Je meldt het in het document over deze student op Basecamp (maak het document eventueel aan).
+- Je meldt het in het document over deze student op Basecamp (maak het document eventueel aan). @mention even de vakcoördinator.
 
 ## 7.4 Te-laatmelding
 
-🆕 Als de planning dan niet gehaald wordt en de deadline dreigt te worden overschreden, dan verwachten wij ook weer een melding van de studenten. Het maakt daarbij niet uit of het een grote opdracht of een kleine oefening is, studenten moeten actief hun achterstand melden.
+Als de planning dan niet gehaald wordt en de deadline dreigt te worden overschreden, dan verwachten wij ook weer een melding van de studenten. Het maakt daarbij niet uit of het een grote opdracht of een kleine oefening is, studenten moeten actief hun achterstand melden.
 
-Als je zo'n melding krijgt dan ga je zo te werk:
+In dat geval krijgt de coördinator de verantwoordelijkheid om het contact over te nemen en te kijken of deze student nog op de rails te krijgen is. Stuur de mail dus door naar <mailto:help@mprog.nl> om verder af te handelen.
 
-- Je neemt deze melding gewoon aan als feit.
-- Je voert een opmerking in via de website.
-- Na het weekend controleer je of je student inmiddels alles af heeft.
-- Als het niet gelukt is maak je een Todo op Basecamp voor je coördinator.
-
-In dat laatste geval krijgt de coördinator dus de verantwoordelijkheid om het contact over te nemen en te kijken of deze student nog op de rails te krijgen is.
-
-Als je de vraag krijgt of het nog zin heeft om een opdracht te maken is het antwoord altijd "ja", want om het vak te halen moeten alle opdrachten gedaan zijn. Tegelijk meld je dat ze dit echt met de docent moeten bespreken. Ze gaan dus z.s.m. naar het spreekuur.
+Als je de vraag krijgt of het nog zin heeft om een opdracht te maken is het antwoord altijd "ja", want om het vak te halen moeten alle opdrachten gedaan zijn. Tegelijk meld je dat ze dit echt met de docent moeten bespreken. Ze moeten dan dus direct een mail sturen.
 
 ⚠️ Zoals je hierboven kunt afleiden geef jij als mentor in feite geen uitzonderingen of uitstel. In plaats daarvan zorg je voor goede communicatie en doorverwijzing.
 
 ## 7.5 Uitstel verbeterde versie
 
-Mocht een student ziek zijn tijdens de werkgroep dan maak je een urgente To-do op Basecamp voor de vakcoördinator. Die zorgt dan dat de review zo spoedig mogelijk wordt gedaan en laat weten wat de status is via de To-do.
+De verbeterde versie van opdrachten worden gemaakt op basis van de code review die tijdens de werkgroep begint. Mocht een student ziek zijn tijdens de werkgroep dan stuurt deze jou (hopelijk) een e-mail met een afmelding. Vraag dan de student dan om zo snel mogelijk zelfstandig een review te doen en de code definitief in te sturen, en stuur een cc naar <help@mprog.nl>. Dat hoeft dan niet een review met iemand anders te zijn. Dit zou je kunnen sturen:
 
-## 7.6 Studenten die niks melden
+  > *Beterschap! Als het lukt kun je binnenkort zelf nog een keer goed je code bekijken, netjes maken en dan de definitieve versie insturen. Stuur dan nog even een berichtje dat het gedaan is, zodat ik kan nakijken. Mocht dat nou niet binnen een paar dagen lukken, laat het dan alsjeblieft even weten. De deadline voor de volgende opdracht zal namelijk blijven staan. Je moet dan zo snel mogelijk met de vakcoördinator afspraken maken over je planning.*
 
-Het kan ook zijn dat een student een keer niks inlevert en ook niks meldt. Daarom is het belangrijk dat je vlak na de deadline even in je overzicht kijkt of er nog iets ontbreekt. Neem dan **proactief** contact op met je studenten om te zorgen dat dit snel gecorrigeerd wordt---en ga er in eerste instantie vanuit dat het een foutje is. Is er meer aan de hand dan maak je een Todo op Basecamp.
+Dit is dus een uitstel dat jij als mentor geeft. Voor alle andere deadlines mag jij geen uitstel geven.
+
+Mocht iemand voor de tweede keer een werkgroep missen (of zich niet afmelden!) maak dan direct een To-do op Basecamp voor de vakcoördinator. Die neemt contact op met de studenten om harde afspraken te maken voor het vervolg.
 
 <!--
 (╯°□°）╯ﾐ ┻━┻
@@ -625,7 +639,7 @@ Als de opdrachten **niet af** zijn (volgens `check50`), dan kan er in feite nog 
 
 ## 8.4 Extra opdrachten
 
-Er wordt een extra punt toegekend als een student de **extra opdracht** van de module werkend heeft ingeleverd. 🆕 Dit punt wordt automatisch toegekend op basis van een automatische `check50` en staat niet vermeld bij het nakijkwerk. Je geeft dus ook geen formele feedback op deze opdracht, maar zorg dat je er wel iets van aandacht aan besteedt bij de student die het goed doet!
+Er wordt een extra punt toegekend als een student de **extra opdracht** van de module werkend heeft ingeleverd. Dit punt wordt automatisch toegekend op basis van een automatische `check50` en staat niet vermeld bij het nakijkwerk. Je geeft dus ook geen formele feedback op deze opdracht, maar zorg dat je er wel iets van aandacht aan besteedt bij de student die het goed doet!
 
 ## 8.5 Tips en trucs
 
