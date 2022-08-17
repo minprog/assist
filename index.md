@@ -6,7 +6,7 @@ layout: default
 
 # Assistentenhandboek Minor Programmeren
 
-## <small>Deel A: Algemeen<br>Herfst 2021</small>
+## <small>Deel A: Algemeen<br>Herfst 2022</small>
 
 <small>Deze versie is gemaakt in 2020--2022 door Martijn Stegeman. Gebaseerd op versie 2016 door Hella Haanstra en de instructies uit 2018 van Wouter Vrielink.</small>
 

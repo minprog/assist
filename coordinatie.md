@@ -8,28 +8,40 @@ layout: default
 
 0. Week 23 augustus:
 
-    - Dubbelchecks:
-        - Basisrooster bevat geen fouten, dus activiteiten die verwarrend kunnen zijn
-        - Rooster FT Programmeren 1 heeft voldoende groepen
-        - PIDAC ingeroosterd
-        - Voldoende assistenten voor aantal studenten
     - Laatste keer een mail over introductie sturen met link naar <https://welkom.mprog.nl>
-    - Eerste groepsindeling maken
-        - Focus op basis voorkennis en studierichting
-        - Diversiteit in alle opzichten
     - Coordinatoren loggen in op website en krijgen rechten
+    - Zijn alle stoelen er weer?
 
 1. Trainingsweek 30 augustus:
 
-    - Training:
+    - Dubbelchecks
+        - Basisrooster bevat geen fouten, dus activiteiten die verwarrend kunnen zijn
+        - Rooster FT Programmeren 1 heeft voldoende groepen
+        - PIDAC ingeroosterd (wordt uitgesteld ivm corona)
+        - Voldoende assistenten voor aantal studenten
+    - Eerste groepsindeling maken
+        - Focus op basis voorkennis en studierichting
+        - Diversiteit in alle opzichten
+        - Niet meer dan 2 van zelfde richting bij elkaar
+        - Lokalen, groepen:
+            - A1.16A: 32 studenten
+                - Groep A: 10 studenten
+                - Groep B: 12 studenten
+                - Groep C: 10 studenten
+            - A1.16B: 12 studenten
+                - Groep D: 12 studenten
+            - A1.24: 26 studenten
+                - Groep E: 12 studenten
+                - Groep F: 12 studenten
+    - Training
         - Assistenten loggen in op websites en krijgen assistent-rol
         - Assistenten-duo's indelen
         - Afspraak maken over gezamenlijk nakijken
         - Assistenten kiezen dag/tijd werkgroep
+        - Eerste afspraak maken coordinator met assistenten-duo's
     - Assistentierooster
         - Focus op middag, maar ook wat in de ochtend
         - Eerste maandag is uitzondering, alleen middag, helpen bij Scratch-projecten
-    - Eerste afspraak maken coordinator met assistenten-duo's
     - Werkgroepen
         - Assistenten hebben keuze dag/tijd doorgegeven tijdens training
         - Roosterverzoek indienen voor X groepen, dag/tijd erbij
@@ -38,15 +50,15 @@ layout: default
 
 2. Startweek 6 september:
 
-    - Elke dag vanaf dinsdag:
+    - Elke dag vanaf dinsdag
         - Mail rondsturen "wat gaan we vandaag doen"
         - Donderdag: studenten die heel ver zijn wijzen op extra opdracht Credit (deadline vrijdag)
-    - Maandag:
+    - Maandag
         - tijdens college instructies meegeven op papier, website, keywords Scratch, teams
         - na college mail rondsturen voor mensen die niet bij intro waren (meteen langskomen)
         - Instructie assistenten: Slack opzetten, mailadressen erbij
         - Post reminder werkgroep 1 voor assistenten, instructies in handboek
-    - Dinsdagochtend:
+    - Dinsdagochtend
         - Welke studenten ontbreken uit inschrijvingenlijst?
             - check Helpscout of er contact is,
             - anders mail sturen via HS, urgentie benadrukken, of afmelden
@@ -57,15 +69,18 @@ layout: default
 
 0. Week 23 augustus:
 
-    - Dubbelchecks:
+    - Dubbelchecks
         - Basisrooster bevat geen fouten, dus activiteiten die verwarrend kunnen zijn
         - Rooster PT Programmeren 1 heeft voldoende groepen
         - Voldoende assistenten voor aantal studenten
     - Coordinatoren loggen in op website en krijgen rechten
-    - Assistenten kiezen dag/tijd werkgroep
+    - Groepen
+        - Assistenten kiezen dag/tijd werkgroep
+        - Roosterverzoek indienen voor X groepen, dag/tijd erbij
+        - Naderhand assistenten koppelen
     - Laatste keer een mail over start sturen met link naar <https://welkom.mprog.nl>
-        - Concrete manier van starten (college kijken, scratch doen)
         - Inschrijfformulier werkgroepen meesturen, deadline donderdag 2 augustus
+        - Indicatie introductie/start
 
 1. Trainingsweek 30 augustus:
 
@@ -74,12 +89,13 @@ layout: default
         - Afspraak maken over gezamenlijk nakijken
     - Assistentierooster (samen met fulltime)
     - Werkgroepen roosteren
-        - Roosterverzoek indienen voor X groepen, dag/tijd erbij
-        - Naderhand assistenten koppelen en studenten in groep indelen
-        - Todo maken voor studenten die niet in Datanose te vinden zijn (deze krijgen mail via Helpscout om inschrijving te corrigeren)
+        - Studenten in groep indelen op basis van resultaten formulier
+        - Todo maken voor studenten die niet in Datanose te vinden zijn maar wel groep gekozen
+          (deze krijgen mail via Helpscout om inschrijving te corrigeren)
     - Slack, zodra werkgroepen zoveel mogelijk zijn ingedeeld
         - Instructie assistenten: Slack aanmaken, mailadressen erbij geven voor invites
-    - Donderdag: mail rondsturen studenten met link naar de cursuswebsite
+    - Donderdag: Laatste keer een mail over start sturen met link naar <https://prog1.mprog.nl>
+        - Concrete manier van starten (college kijken, scratch doen)
 
 2. Startweek 6 september:
 
@@ -92,13 +108,15 @@ layout: default
         - Welke studenten ontbreken uit inschrijvingenlijst?
             - check Helpscout of er contact is,
             - anders mail sturen via HS, urgentie benadrukken, of afmelden
-
+    - Donderdag/vrijdag:
+        - Wie heeft nog niks gedaan? Wie was niet bij groep? Acties?
 
 
 # Coordinatie IK
 
 0. Week 23 augustus:
 
+    - Check of zalen van cursus voldoende stoelen/tafels bevatten! Anders meteen melden bij FS.
     - Dubbelchecks of basisrooster geen fouten bevat, dus activiteiten die verwarrend kunnen zijn (Robin)
     - Check of studentengroepen al zijn ingedeeld op Datanose door Mirjam of Lotte? (Robin)
         - Zo niet, dan afstemmen wanneer de PAV-indeling gekopieerd moet worden en dit doen (Robin)
