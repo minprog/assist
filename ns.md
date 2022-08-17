@@ -29,9 +29,9 @@
 
 # Assistentenhandboek Programmeren NS
 
-## Martijn Stegeman<br>versie Herfst 2021
+## Herfst 2021
 
-<small>Gebaseerd op versie 2016 door Hella Haanstra en de instructies uit 2018 van Wouter Vrielink.</small>
+<small>Gemaakt door Martijn Stegeman. Gebaseerd op versie 2016 door Hella Haanstra en de instructies uit 2018 van Wouter Vrielink.</small>
 
 
 # Voordat je begint
@@ -105,7 +105,7 @@ En natuurlijk zijn er veel situaties waarin er een echte **bug** in het programm
 
 ## 1.3 Assistentie
 
-Studenten kunnen een hulpvraag indienen via de website. Deze "hands" verschijnen voor de assistenten in een lijst op de website. Je kiest de bovenste student om deze te "claimen", waarna de student een popup ontvangt. **Op dat moment "roep" je de naam van de student zodat deze bij jou kan komen.** Zodra je bij een student geweest bent en de vraag beantwoord hebt, teken je het verzoek af. Je komt dan weer in de lijst en kunt een nieuwe student uitkiezen om te helpen.
+Studenten kunnen een hulpvraag indienen via de website. Deze "hands" verschijnen voor de assistenten in een lijst op de website. Je kiest de bovenste student (uit jouw groep) om deze te "claimen", waarna de student een popup ontvangt. **Op dat moment "roep" je de naam van de student zodat deze bij jou kan komen.** Zodra je bij een student geweest bent en de vraag beantwoord hebt, teken je het verzoek af. Je komt dan weer in de lijst en kunt een nieuwe student uitkiezen om te helpen.
 
 ![](images/hands.png)
 
@@ -115,7 +115,7 @@ Ziet de code er **slecht** uit? Is de indentatie totaal niet op orde? Vraag de s
 
 Het is mogelijk om een student **terug in de lijst** te plaatsen. Het kan namelijk zijn dat je deze student zelf korte tijd later nog even wil spreken. Vertel dit duidelijk tegen de student. Deze kan namelijk in de tussentijd ook geen andere vraag indienen! Vergeet het zelf ook niet.
 
-Probeer gemiddeld 5--10 minuten per student aan te houden. Een absoluut maximum is 15 minuten. Duurt het langer, neem dan contact op met de coördinator om te kijken wat de beste aanpak is.
+Probeer gemiddeld 5--10 minuten per student aan te houden. Een absoluut maximum is 15 minuten. Duurt het langer, post dan een bericht op Basecamp of neem contact op met de docenten om te kijken wat de beste aanpak is in het algemeen, of dat het probleem meer bij de student ligt.
 
 ## 1.4 Laptophelpdesk
 
@@ -147,9 +147,16 @@ Als het niet lukt een student goed te helpen en je hebt het idee dat deze studen
 Het cijfer voor elke module is het gemiddelde van de **correctheid** en de **kwaliteit** van de ingeleverde oplossingen. De correctheid wordt automatisch beoordeeld, en de kwaliteit wordt bepaald door de assistenten.
 
 
-## 2.1 Becijfering
+## 2.1 Becijfering kwaliteit
 
-Alle modules kunnen 1--6 punten opleveren. Voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De aspecten gaan over codekwaliteit, en specifiek over **leesbaarheid** en **begrijpelijkheid**. De schaal is als volgt:
+Voor kwaliteit kun je 1--6 punten toekennen, op basis van de leesbaarheid en begrijpelijkheid van de code. De specifieke "aspecten" waarmee we beoordelen staan in de Stijlgids op de cursuswebsite:
+
+- Commentaar
+- Indentatie
+- Naamgeving
+- Witregels en spaties
+
+De beoordelingschaal is als volgt en moet zo precies mogelijk aangehouden worden:
 
 6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
 5. zeer goede kwaliteit, beperkt ruimte voor verbetering
@@ -161,19 +168,19 @@ Alle modules kunnen 1--6 punten opleveren. Voor elke module zijn diverse aspecte
 
 In deze schaal zitten een aantal patronen verborgen die het---met enige ervaring---makkelijker moeten maken om een inzending te beoordelen.
 
-- 1--4 punten gaat specifiek over de *genoemde* aspecten, dus de aspecten die deze week expliciet aan de opdracht gekoppeld zijn. Bij 4 punten is de student redelijkerwijs waar we iedereen willen hebben. Onze aandacht bij het nakijken gaat dus vooral naar deze studenten uit! Zij moeten snel beter worden.
+- 1--4 punten gaat specifiek over de *genoemde* aspecten uit de stijlgids. Bij 4 punten is de student redelijkerwijs waar we iedereen willen hebben. Onze aandacht bij het nakijken gaat dus vooral naar de studenten die hier nog niet zijn! Zij moeten snel beter worden en moeten de duidelijkste aanwijzingen krijgen.
 
-- Bij 3 punten zie je dat iemand wel de aspecten heeft "afgewerkt" maar niet heel consequent. Er is dus wel bewijs dat de student het kán, maar deze doet het niet overal. Bij 4 punten gaat het om een consequente ("degelijke") toepassing.
+- Bij 3 punten zie je dat iemand wel de aspecten heeft "afgewerkt" maar niet heel consequent. Er is dus wel bewijs dat de student het kán, maar deze doet het niet overal. Bij 4 punten gaat het om een consequente ("degelijke") toepassing. Dus in alle ingeleverde bestanden, overal.
 
-- Bij 3--4 punten (en hoger) wordt gevraagd dat naar álle aspecten is gekeken. Het is dus niet zo dat studenten de aspecten onderling kunnen compenseren! Zijn er hele goede namen maar staat er geen commentaar, dan is het meteen 2 punten.
+- Bij 3--4 punten (en hoger) wordt gevraagd dat naar álle aspecten is gekeken. Het is dus niet zo dat studenten de aspecten onderling kunnen compenseren! Zijn er hele goede namen maar staat er geen commentaar, <u>dan is het meteen 2 punten</u>.
 
-- 5--6 punten gaat over goede kwaliteit, zonder de aspecten te noemen. Studenten die hoog willen scoren moeten dus namelijk zelf aan de bak met uitzoeken hoe je goede code schrijft---alleen de regels volgen voldoet dan niet meer. Dit is om te voorkomen dat eigenwijze studenten hacker-achtige code schrijven en hoge cijfers opeisen omdat het formeel aan de aspecten voldoet.
+- 5--6 punten gaat over goede kwaliteit, zonder de aspecten te noemen. Studenten die hoog willen scoren moeten dus zelf aan de bak met uitzoeken hoe je goede code schrijft---alleen de regels volgen voldoet dan niet meer. Dit is om te voorkomen dat eigenwijze studenten hacker-achtige code schrijven en hoge cijfers opeisen omdat het formeel aan de aspecten voldoet.
 
 - 6 punten heeft het ook over *ontwerp*, waarvoor duidelijk moet blijken dat een student een heel eigen idee voor de code heeft bedacht en dit mooi leesbaar heeft uitgewerkt; maar pas op, iets als "extra functies gebruiken" kan heel mooi worden, maar dan moeten ze goed gekozen zijn en de namen ook goed zijn, dus veel ideeën zijn niet zomaar goed!
 
-Het is absoluut niet de bedoeling dat studenten **meerdere keren** minder dan 3 punten halen. Daarom heeft tijdige feedback de absolute prioriteit, en specifiek feedback die de student helpt volgende keer direct 3 of 4 punten te halen.
+⚠️ Het is absoluut niet de bedoeling dat studenten **meerdere keren** minder dan 3 punten halen. Daarom heeft tijdige feedback de absolute prioriteit, en specifiek feedback die de student helpt volgende keer direct 3 of 4 punten te halen.
 
-Er wordt een extra punt toegekend als een student de **extra opdracht** van de module werkend heeft ingeleverd.
+ⓘ Er wordt een <u>extra punt</u> toegekend als een student de **extra opdracht** van de module werkend heeft ingeleverd. Je vult deze in een apart vakje in, dus de website verzorgt de berekening van het totaal aantal punten en cijfer voor de module.
 
 ## 2.2 Plagiaat
 
