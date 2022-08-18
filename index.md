@@ -187,17 +187,14 @@ Je ontvangt een uitnodiging kort voordat de cursus start. Je krijgt dan toegang 
 
 - Heb je een vraag, wil je iets ter discussie stellen, heb je een mooi voorstel: schrijf een **Message** in één van de Basecamp-projecten. En liever een vraag te veel gesteld dan te weinig.
 
-- Heeft een student een probleem dat niet over het programmeren zelf gaat, of heb je een concreet verzoek om iets gedaan te krijgen, dan moet iemand anders iets voor jou doen. Schroom dan niet en maak direct een **Todo** aan. Stel een deadline in en geef aan voor wie deze Todo is.
+- Heeft een student een probleem dat niet over het programmeren zelf gaat, of heb je een concreet verzoek om iets gedaan te krijgen, dan moet iemand anders iets voor jou doen. Schroom dan niet en maak direct een **Todo** aan. Stel een deadline in en geef aan voor wie deze Todo is. Het aanmaken van Todo's voor iemand anders is misschien even wennen. Maar het is helemaal OK! We hebben nu eenmaal elk onze eigen verantwoordelijkheden. Maak dus geen Todo aan zonder deze te assignen, meestal aan je coördinator. Het is juist de manier om te zorgen dat studenten niet vergeten worden maar tegelijk iedereen de dingen op een zelfgekozen moment kan afhandelen. En zit er een deadline aan, stel deze dan ook gerust in!
 
-- Heb je wat achtergrond-informatie over een student of heeft de vakcoördinator een afspraak gemaakt of uitzondering gegeven? Dan vind je dit per student in een documentje in de sectie **Studenten**. Je mag hier altijd zelf posten. Documenten worden niet actief met iedereen dus je kunt een @mention doen voor de coördinator of een andere collega.
+- Heb je wat achtergrond-informatie over een student of heeft de vakcoördinator een afspraak gemaakt of uitzondering gegeven? Dan vind je dit per student in een documentje in de sectie **Studenten**. Je mag hier altijd zelf posten. Documenten worden niet actief met iedereen gedeeld, dus je kunt een @mention doen voor de coördinator of een andere collega.
 
-- Wil je even snel afstemmen met collega's die ook nu aan het werk zijn? Gebruik dan de **Campfire** tijdens het assisteren of nakijken. Dit is alleen voor berichten die nooit teruggezocht hoeven worden. Alle vragen en antwoorden stuur je via een Message en niet via Campfire.
+- Wil je even snel afstemmen met collega's die ook nu aan het werk zijn? Gebruik dan de **Campfire** tijdens het assisteren of nakijken. Dit is alleen voor berichten die nooit teruggezocht hoeven worden. Alle inhoudelijke vragen en antwoorden stuur je via een Message en niet via Campfire.
 
-- Heb je zelf persoonlijke problemen die je liever niet aan de grote klok hangt? Alleen dan **Ping** je de coördinator of Martijn en spreek even af. Gebruik de Pings niet voor iets anders.
+- Heb je zelf persoonlijke problemen die je liever niet aan de grote klok hangt? Dan **Ping** je de coördinator of Martijn en spreek even af. Maar gebruik het niet alsof het Whatsapp is: Ping-berichten zijn lastig terug te vinden dus alleen handig als je echt even real-time met iemand spreekt. Bovendien zal bijna elke vraag of opmerking relevant of leerzaam zijn voor je mede-assistenten, dus wordt van jou verwacht dat je je berichten **zoveel mogelijk met het hele team deelt** via een Message. Ook vragen we jou om te reageren op berichten van anderen als je het antwoord weet.
 
-Met name het aanmaken van **Todo**'s voor iemand anders is misschien even wennen. Maar het is helemaal OK! We hebben nu eenmaal elk onze eigen verantwoordelijkheden. Maak dus geen Todo aan zonder deze te assignen, meestal aan je coördinator. Het is juist de manier om te zorgen dat studenten niet vergeten worden maar tegelijk iedereen de dingen op een zelfgekozen moment kan afhandelen. En zit er een deadline aan, stel deze dan ook gerust in!
-
-Belangrijkste is dat je Basecamp niet gebruikt alsof het Whatsapp is: je kunt zogenaamde "Pings" sturen naar collega's, maar dit is geen handige manier van werken omdat dan niks is terug te vinden. Bovendien zal bijna elke vraag of opmerking relevant of leerzaam zijn voor je mede-assistenten, dus wordt van jou verwacht dat je je berichten **zoveel mogelijk met het hele team deelt** (via een Message). Ook vragen we jou om te reageren op berichten van anderen als je het antwoord weet.
 
 ## 4.3 Privacy
 
@@ -322,11 +319,11 @@ Andere dingen doen we juist niet:
 
 Dat betekent dus in het algemeen dat je <u>niet continu bereikbaar bent via mail</u>. Het is echt alleen bedoeld voor kort afstemmen en studenten mogen niet verwachten dat je hun mail dagelijks bekijkt, maar bijvoorbeeld alleen op de dag van de werkgroep. Het meeste contact moet gewoon mondeling gebeuren, tijdens de werkgroep.
 
-Het is ook absoluut niet de bedoeling om zelf een Slack aan te maken of een Whatsapp-groep te starten met je studenten. Dit is niet jouw verantwoordelijkheid: jij bent er voor hen tijdens de college-uren en niet daarbuiten. Hebben ze een vraag dan kunnen ze altijd naar de vakcoördinator mailen.
+Het is ook absoluut niet de bedoeling om zelf een Slack aan te maken of een Whatsapp-groep te starten met je studenten. Zo'n systeem suggereert dat je doorlopend beschikbaar bent, maar jij bent er voor hen tijdens de college-uren en niet daarbuiten. Ook is het de bedoeling dat je poogt om werk en privé gescheiden te houden. 
 
 Je kunt zelf een mededeling sturen naar je werkgroep via Datanose. Vóórdat je dat doet kun je in Datanose kiezen of je afzender-adres je studentenmail of je werkmail is. Dat kun je door door in te loggen en dan rechtsboven in het beeld op je eigen naam te klikken. Dan krijg je de keuze voor mailadres.
 
-⚠️ Let op dat als je per se je studentenmail wil gebruiken hiervoor, jij alle mails van en met studenten moet weggooien na afloop van de cursus. Jij bent dan verantwoordelijk voor de privacyregels. Daarom is het handiger je medewerkersmail te gebruiken (en niet door te sturen).
+⚠️ Let op dat als je per se je studentenmail wil gebruiken hiervoor, jij alle mails van en met studenten moet weggooien na afloop van de cursus. Jij bent dan verantwoordelijk voor de privacyregels. Daarom is het handiger je medewerkersmail te gebruiken (en niets door te sturen naar andere adressen).
 
 <!-- ## 6.6 Communicatietools
 
@@ -457,18 +454,18 @@ Zodra je je student hebt gevonden stel je jezelf kort voor. Zorg dat de student 
 
 > "Hallo, ik ben Martijn en ik kom assisteren. Waar ben je mee bezig?"
 
-### Opstartproblemen
+### Opstartproblemen bij een gesprek
 {:.break}
 
-**Situatie: geen concrete vraag.** Juist bij de balie is er een kans dat een student nog geen concrete vraag heeft. Help de student in dat geval de vraag formuleren zoals hierboven uitgelegd (6.3). Sommige studenten kunnen ook nog wat meer tijd gebruiken om zelf wat langer naar hun programma te kijken voordat je ze echt gaat helpen; probeer zelf een juiste inschatting van de situatie te maken om vervolgens te besluiten de student direct te helpen, of een duwtje in de goede richting te geven en later nog even terug te laten komen.
+**Situatie: geen concrete vraag.** Er is best een kans dat een student nog geen concrete vraag heeft. Help de student in dat geval de vraag formuleren zoals hierboven uitgelegd (6.3). Sommige studenten kunnen ook nog wat meer tijd gebruiken om zelf wat langer naar hun programma te kijken voordat je ze echt gaat helpen; probeer zelf een juiste inschatting van de situatie te maken om vervolgens te besluiten de student direct te helpen, of een duwtje in de goede richting te geven en later nog even terug te laten komen.
 
-**Situatie: code is onleesbaar.** Is de indentatie totaal niet op orde? Vraag de student dan altijd eerst om deze netjes te maken. Niet alleen omdat het "hoort" maar omdat verkeerde indentatie het probleem heel moeilijk vindbaar kan maken. Met een beetje mazzel is het daarna zo gevonden (studenten in deze fase hebben overigens vaak ook nog een probleem met de analyse van hun probleem, dus kijk daar ook naar). In principe blijft de student bij jou zodat je eventueel kan inspringen 🙃, maar als het echt lang duurt laat je de student straks terugkomen.
+**Situatie: code is onleesbaar of werkt nu net even niet.** Is de indentatie totaal niet op orde? Vraag de student dan altijd eerst om deze netjes te maken. Niet alleen omdat het "hoort" maar omdat verkeerde indentatie het probleem heel moeilijk vindbaar kan maken. Met een beetje mazzel is het daarna zo gevonden (studenten in deze fase hebben overigens vaak ook nog een probleem met de analyse van hun probleem, dus kijk daar ook naar). Als het langer dan een minuutje duurt help dan even iemand tussendoor.
 
 ### Tijdsbesteding
 
 - Probeer zo'n 10 minuten per student aan te houden. Een absoluut maximum is 20 minuten, alleen in noodgevallen. Duurt het langer, check dan echt de rij en haal er tijdig een expert bij om te zorgen dat iedereen nog geholpen kan worden.
 
-- Als je een student later wil terugzien, vertel dan duidelijk wat je verwachting is en hoe de student zich weer kan melden.
+- Als je een student later wil terugzien, vertel dan duidelijk wat je verwachting is en hoe de student zich weer kan melden. Je tekent deze student nog niet af, maar wel belangrijk dat je zorgt dat je die student dan ook nog even opzoekt.
 
 - Kom je er zelf niet uit? Dan kun je natuurlijk altijd even vragen of één van je mede-assistenten mee kan kijken. Het is expliciet de bedoeling dat onervaren assistenten zonodig hulp inschakelen en zich zo verder ontwikkelen.
 
@@ -666,7 +663,7 @@ Scoort iemand hoog wat betreft plagiaat dan neemt de coördinator contact op met
 
 Je moet diverse accounts aanmaken om goed te kunnen assisteren. Volg de stappen hieronder en zorg vooral dat je alle diensten goed **uittest**, om latere stress te voorkomen!
 
-- Voor **Basecamp** krijg je een uitnodiging via het bekende e-mailadres (je kunt dit dus niet zelf starten). Maak direct dit account aan.
+- Voor **Basecamp** krijg je een uitnodiging via het bekende e-mailadres (je kunt dit dus niet zelf starten). Maak direct dit account aan als je de uitnodiging krijgt.
 
 <!-- - Ook voor **Ed** wordt je uitgenodigd. Heb je geen uitnodiging terwijl de cursus gestart is? Post dan een to-do op Basecamp voor je coördinator met een verzoek om een nieuwe uitnodiging. -->
 
