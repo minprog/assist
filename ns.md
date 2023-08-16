@@ -29,42 +29,14 @@
 
 # Assistentenhandboek Programmeren NS
 
-## Martijn Stegeman<br>versie Herfst 2021
+### Martijn Stegeman & Ivo van Vulpen<br>versie Herfst 2022
 
 <small>Gebaseerd op versie 2016 door Hella Haanstra en de instructies uit 2018 van Wouter Vrielink.</small>
 
 
 # Voordat je begint
 
-Lees allereerst even goed de [Studiewijzer](https://progns.mprog.nl/syllabus) die een groot deel van de regels van het vak vastlegt.
-
-
-# Uitgangspunten Corona
-
-Zaalgebruik:
-
-- Studenten gaan alleen naar hun *eigen* laptopcolleges, en jij als assistent bent zoveel mogelijk steeds bij dezelfde groep. Studenten haken dus niet aan bij andere groepen. Zo houden we enigszins vast aan het idee van "bubbles".
-
-- Alle zalen worden, indien mogelijk, opgedeeld in 2 delen met behulp van de schuifwanden. Zo zijn er twee kleinere groepen in plaats van één grote. In zaal G4.15 is dit niet mogelijk. De groepen gaan ook daar <u>niet</u> door elkaar zitten.
-
-- Assistenten kiezen een vaste plek en studenten komen naar hen toe. De volgorde van helpen wordt bijgehouden via de website. Studenten gaan niet in de rij staan bij jouw bureau.
-
-- Studenten mogen na de laptopcolleges niet in de zaal blijven. Assistenten moeten de zalen afsluiten als er geen andere docent komt.
-
-- Assistenten mogen geen groepjes studenten helpen "op de gang" of op andere locaties. Als je de behoefte hebt een individuele student nog even bij te praten dan kan dat, maar zorg dat andere studenten er niet bij blijven hangen.
-
-Andere regels:
-
-- Er is een mondkapjesplicht in alle UvA-gebouwen. Tijdens het laptopcollege mogen studenten ze af doen als ze blijven <u>zitten</u> of als ze naar de assistent toelopen. Assistenten mogen ze ook af doen tijdens het helpen.
-
-- Er is een aanwezigheidsplicht in die zin dat wij voor het overgrote deel alleen kunnen helpen als studenten op locatie zijn. Alleen als studenten langer afwezig zijn en dit goed afstemmen kunnen we hulp-op-afstand geven.
-
-- Het tentamen kan zoals normaal doorgaan in de (kleine) lokalen die hiervoor gereserveerd zijn. Tenzij rond die tijd weer nieuwe regels gelden.
-
-En tot slot:
-
-- Als het voor jou te oncomfortabel wordt om op locatie te assisteren dan moet je dit direct aangeven. We kunnen naar een oplossing voor jou kijken maar we kunnen ook overleggen of we de manier van assisteren moeten aanpassen voor de hele groep.
-
+Lees allereerst even goed de [Studiewijzer](https://progns.proglab.nl/syllabus) die een groot deel van de regels van het vak vastlegt.
 
 
 # 1 Assisteren
@@ -232,7 +204,7 @@ Dat gezegd hebbende, als je merkt dat een student de feedback negeert, spreek he
 
 # 3 Interne communicatie
 
-Voor bijna al het onderling contact is er [Basecamp](https://www.basecamp.com/). Je ontvangt een uitnodiging zodra je bij een vak aan de slag gaat. Je krijgt dan toegang tot het kanaal **ProgNS 2021**.
+Voor bijna al het onderling contact is er [Basecamp](https://www.basecamp.com/). Je ontvangt een uitnodiging zodra je bij een vak aan de slag gaat. Je krijgt dan toegang tot het kanaal **ProgNS 2022**.
 
 Lees het volgende even goed door zodra je de uitnodiging hebt gekregen, zodat je weet wat waar staat en moet staan.
 
@@ -265,7 +237,7 @@ Je moet diverse accounts aanmaken om goed te kunnen assisteren. Volg de stappen 
 
 - Voor **Basecamp** krijg je een uitnodiging via het bekende e-mailadres (je kunt dit dus niet zelf starten). Maak direct dit account aan.
 
-- Maak een account voor **Programmeren NS** via <https://progns.mprog.nl/>. Na enige tijd krijg je extra rechten, zodat je de gegevens van je studenten kunt inzien en hun werk kunt nakijken.
+- Maak een account voor **Programmeren NS** via <https://progns.proglab.nl/>. Na enige tijd krijg je extra rechten, zodat je de gegevens van je studenten kunt inzien en hun werk kunt nakijken.
 
 - Lees de **studiewijzer** van je vak heel nauwkeurig door zodat je deze niet tegenspreekt. Mis je iets in de studiewijzer of heb je een vraag? Post dan meteen een vraag in Basecamp.
 

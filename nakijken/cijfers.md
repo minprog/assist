@@ -1,4 +1,4 @@
-1. {{ include.opdracht }} (kan na de werkgroep, zodra verbeterde versie is ingeleverd).
+1. {{ include.opdracht }} (nakijken kan na de werkgroep, zodra verbeterde versie is ingeleverd).
 
     - De beoordeling gaat op de bekende schaal van 6:
         6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
