@@ -6,9 +6,9 @@ layout: default
 
 # Assistentenhandboek Minor Programmeren
 
-## <small>Deel B: Werkgroepen en nakijken  <br>Herfst 2022</small>
+## <small>Deel B: Werkgroepen en nakijken  <br>Herfst 2023</small>
 
-<small>Deze versie is gemaakt in 2020--2022 door Martijn Stegeman.</small>
+<small>Deze versie is gemaakt in 2020--2023 door Martijn Stegeman.</small>
 
 </header>
 
@@ -21,11 +21,11 @@ layout: default
 
 - Deze week gaan studenten aan de slag met Scratch, en ze starten ook met het basisboek (zonder dat ze al C gehad hebben!). Richting het einde van de week gaan ze het installatiescript draaien op hun computer zodat ze een C-compiler en werkende terminal hebben.
 
-- Fulltime-studenten gaan ook leren over computerhardware en binair tellen. Dat is een voorbereiding op bijvoorbeeld de Filter-opdracht in een latere week, maar ook op het PIDAC-practicum dat volgende week start.
+- Fulltime-studenten gaan ook leren over computerhardware en binair tellen. Dat is een voorbereiding op bijvoorbeeld de Filter-opdracht in een latere week, maar ook op het PIDAC-practicum dat volgende week start. Dan nog een deel Software Carpentry.
 
-- Een belangrijk punt om voor iedereen in de gaten te houden is of de installatie goed lukt! Dit moet echt klaar tijd vóór het weekend.
+- Een belangrijk punt om voor iedereen in de gaten te houden is of de installatie goed lukt! Dit moet echt klaar tijd vóór het weekend. Bemoei je ermee en schakel extra hulp in waar nodig.
 
-- Er is deze week géén werkgroep. De groepen worden pas in de loop van de week ingedeeld.
+- Er is deze week géén centraal werkcollege.
 
 - Het basisboek en de reader worden uitgedeeld op maandagmiddag na het introductiecollege.
 
@@ -48,33 +48,13 @@ Deze week ga je alleen nog aftekenen en geen feedback schrijven. Na indeling van
 
 - Deze week een aantal kleinere opdrachten in C. Studenten starten met "Hello, you!", een uitbreiding op de `hello.c` die ze vorige week gemaakt hebben. Daarna een paar opdrachten om met loops en if's te oefenen.
 
-- Fulltime-studenten gaan daarnaast leren over beveiliging, en over besturingssystemen. Later in de week doen ze een flinke tutorial over UNIX-gebruik.
+- Fulltime-studenten gaan daarnaast leren over beveiliging, en over besturingssystemen. Dan een deel Software Carpentry UNIX over het maken van one-liners en dataverwerking.
 
-- Bij de werkgroep ga je vooral kennismaken met je studenten. Neem er rustig de tijd voor.
-
-- Zorg dat je vooraf alle onderstaande punten goed doorneemt, want de uitleg is te lang om ter plekke al improviserend te lezen.
+- Er is een centraal werkcollege waarin ruimte is voor Q&A, we delen alvast tentamenoefeningen uit voor de volgende keer. Mogelijk ook een debugging-sessie en/of Scratch-demo's.
 
 - Er is deze week niks om af te tekenen!
 
-## Werkgroep week 2 (40 min)
-
-De werkgroep staat in het teken van kennismaking!
-
-{% include_relative werkgroep/kennismaking.md %}
-
-{% include_relative werkgroep/scratch-demo.md %}
-
-{% include_relative werkgroep/mentor.md %}
-
-{% include_relative werkgroep/terugblik.md %}
-
-{% include_relative werkgroep/grote-vragen-1.md %}
-
-0. Wijs tot slot even op de extra opdracht die eind van de week in het schema staat. De deadline is, net als voor alle opdrachten, op vrijdag. De opdracht is dus echt voor mensen die snel gaan en tijd over hebben. Maar wel superleuk uitdagend!
-
-## Administratie
-
-{% include_relative werkgroep/naderhand.md %}
+- Er is ook een extra opdracht vanaf deze week. Deze is voor studenten die het echt makkelijk hebben. Als studenten vragen of ze deze moeten doen, kun je ze altijd suggereren om het te proberen. Maar ga niet stimuleren of zelfs pushen. Laat ze zelf kiezen.
 
 
 
@@ -88,28 +68,12 @@ De werkgroep staat in het teken van kennismaking!
 
 - Tot slot ga je zelf voor het eerst nakijken, zodra studenten hun definitieve versie van Caffeine hebben ingeleverd. Instructies vind je hieronder.
 
-## Werkgroep week 3 (80 minuten)
-
-0. Wijs even op de extra opdracht die eind van de week in het schema staat. De deadline is, net als voor alle opdrachten, op vrijdag. De opdracht is dus echt voor mensen die snel gaan en tijd over hebben. Maar wel superleuk uitdagend!
-
-{% include_relative werkgroep/terugblik.md %}
-
-{% include_relative werkgroep/code-review-eerste.md %}
-
-3. Code review Caffeine (40 minuten)
-
-    Aspecten:
-
-    - Formatting
-
-{% include_relative werkgroep/code-review.md %}
-
-{% include_relative werkgroep/grote-vragen-2.md %}
+- Tijdens het centrale werkcollege is de eerste code review van de periode.
 
 ## Aftekenen en nakijken week 3
 {:.break}
 
-Deze opdrachten kun je gedurende de week al aftekenen (en problemen signaleren). In het weekend moet alles sowieso ingeleverd zijn, dus als je het in bulk doet: graag uiterlijk zondagmiddag.
+Deze opdrachten kun je gedurende de week al aftekenen (en problemen signaleren). In het weekend moet alles sowieso ingeleverd zijn, dus als je het in bulk doet: graag uiterlijk zondagmiddag het nakijkwerk af.
 
 {% include_relative nakijken/boek.md opdracht="Strings & Arrays" %}
 
@@ -123,25 +87,13 @@ Deze opdrachten kun je gedurende de week al aftekenen (en problemen signaleren).
 
 - Deze week gaan studenten aan de slag met Functies. Hierover is geen apart CS50-college maar het verdient wel extra aandacht. De Calendar-opdracht trekt dit redelijk ver door met een flink aantal functies die geïmplementeerd moeten worden.
 
-- De Fulltime-studenten gaan ook wat leren over reguliere expressies en een klein stukje automatentheorie. Het is allemaal niet te serieus bedoeld, uiteindelijk gaat het om de praktische vaardigheid en het basisbegrip.
+- Bij DR gaat men ook wat leren over reguliere expressies en een klein stukje automatentheorie. Het is allemaal niet te serieus bedoeld, uiteindelijk gaat het om de praktische vaardigheid en het basisbegrip.
 
-- Je hebt vorige week feedback gegeven, daarover zul je wel wat vragen krijgen. Als studenten hun eigen specifieke feedback willen bespreken kan dit het best even buiten de groep om! ("Kunnen we dat na de werkgroep even bespreken?").
+- Je hebt vorige week feedback gegeven, en misschien willen studenten daar iets over vragen. Dit mag tijdens het assisteren! Let op: ga **nooit** feedback van een andere assistent interpreteren of zelfs tegenspreken. Verwijs naar de eigen assistent of als het contact niet lukt dan stuurt de student een mail naar <mailto:help@mprog.nl>.
 
-## Werkgroep week 4 (80 minuten)
+- Mogelijk krijg je al vragen over het tentamen. Deze week zal er een mail rondgaan met meer informatie. Loop daar niet op vooruit.
 
-{% include_relative werkgroep/terugblik.md %}
-
-0. Code review Cypher (30 minuten)
-
-    Aspecten:
-
-    - Formatting
-    - Comments 🆕
-    - Naming 🆕
-
-{% include_relative werkgroep/code-review.md %}
-
-{% include_relative werkgroep/grote-vragen-2.md %}
+- Tijdens het centrale werkcollege is er een oefententamen.
 
 ## Aftekenen en nakijken week 4
 
@@ -159,24 +111,9 @@ Zorg dat alles uiterlijk in het weekend afgetekend is.
 
 - Deze week duiken studenten in de algoritmen. Eerst een aantal analytische opdrachten en dan echt uitprogrammeren van een sorteertalgoritme. Dit is niet hetzelfde algoritme als vorige jaren! Let op dat je de studenten niet verkeerd voorlicht.
 
-- Fulltime-studenten gaan een heleboel UNIX-commando's leren kennen en manieren (pipes) om die met elkaar te combineren. Ze leren ook de CSV- en JSON-formaten kennen die ze waarschijnlijk nog wel tegen gaan komen in latere programmeerprojecten.
+- DR-studenten gaan een heleboel UNIX-commando's leren kennen en manieren (pipes) om die met elkaar te combineren. Ze leren ook de CSV- en JSON-formaten kennen die ze waarschijnlijk nog wel tegen gaan komen in latere programmeerprojecten.
 
-## Werkgroep week 5
-
-{% include_relative werkgroep/terugblik.md %}
-
-0. Code review Calendar
-
-    Nieuwe aspecten:
-
-    - Formatting
-    - Comments
-    - Naming
-    - Nesting 🆕
-
-{% include_relative werkgroep/code-review.md %}
-
-{% include_relative werkgroep/grote-vragen-2.md %}
+- Tijdens het centrale werkcollege is de 2e code review.
 
 ## Aftekenen en nakijken week 5
 
@@ -188,30 +125,13 @@ Zorg dat alles uiterlijk in het weekend afgetekend is.
 
 # Week 6
 
-- Deze week gaan studenten aan de slag met structs, binaire opslag en het bitmap-formaat. De Filter-opdracht sluit daar op aan en werkt ook, net als vorige week met 2D-arrays. De bedoeling is dat studenten daar niet zoveel moeite meer mee hebben, maar het is wel veel informatie tegelijk.
+-   Deze week is het **tentamen** al! Studenten vinden de datum en locatie in het rooster op datanose. Zorg dat je niet toch nog de verkeerde gegevens vooraf gaat verspreiden, maar help studenten juist zelf de up-to-date gegevens in het rooster te vinden!
 
-- Fulltime-studenten duiken de webtechnieken in en leren over HTML en CSS. Ze maken een eigen homepage en leren hoe ze CSS-selectors kunnen gebruiken voor het bedienen van een scraping-tool.
+    Het tentamen zal bestaan uit een mix van programmeeropdrachten die live worden gedaan en meer theoretische vragen. Verdere informatie wordt via de website verspreid onder de studenten.
 
-- Mogelijk krijg je al vragen over het tentamen. Deze week zal eer een mail rondgaan met meer informatie. Loop daar niet op vooruit.
+-   Deze week gaan studenten aan de slag met structs, binaire opslag en het bitmap-formaat. De Filter-opdracht sluit daar op aan en werkt ook, net als vorige week met 2D-arrays. De bedoeling is dat studenten daar niet zoveel moeite meer mee hebben, maar het is wel veel informatie tegelijk.
 
-## Werkgroep week 6
-
-{% include_relative werkgroep/terugblik.md %}
-
-0. Code review Sort
-
-    Nieuwe aspecten:
-
-    - Formatting
-    - Comments
-    - Naming
-    - Nesting
-    - Cleanup 🆕
-
-{% include_relative werkgroep/code-review.md %}
-
-{% include_relative werkgroep/grote-vragen-2.md %}
-
+-   DR-studenten duiken de webtechnieken in en leren over HTML en CSS. Ze maken een eigen homepage en leren hoe ze CSS-selectors kunnen gebruiken voor het bedienen van een scraping-tool.
 
 ## Aftekenen en nakijken week 6
 
@@ -225,37 +145,9 @@ Zorg dat alles uiterlijk in het weekend afgetekend is.
 
 - Deze week gaat over datastructuren en daarbij krijgen studenten de bekende opdracht Speller. Dit is natuurlijk een pittige opdracht en het duurt even voordat iedereen begrijpt hoe pointers werken. De bedoeling is dat het een voorbereiding is op het gebruik van objecten en classes bij Programmeren 2.
 
-- Fulltime-studenten leren ook nog over databases. Ze gaan daarbij vooral veel SQL-queries schrijven om een goed gevoel te krijgen over hoe dat allemaal werkt.
+- DR-studenten leren ook nog over databases. Ze gaan daarbij vooral veel SQL-queries schrijven om een goed gevoel te krijgen over hoe dat allemaal werkt.
 
-## Werkgroep week 7 (60 min)
-
-{% include_relative werkgroep/terugblik.md %}
-
-1. Wie stopt? (5 minuten)
-
-    Neem even door wie er stopt na afloop van Programmeren 1. Noteer de namen hier:
-
-    <table>
-        <tbody>
-            <tr><td></td><td></td><td></td></tr>
-        </tbody>
-    </table>
-
-1. Code review Filter (30 minuten)
-
-    Nieuw aspect:
-
-    - Formatting
-    - Comments
-    - Naming
-    - Nesting
-    - Cleanup
-    - Loops 🆕
-    - Scope 🆕
-
-{% include_relative werkgroep/code-review.md %}
-
-{% include_relative werkgroep/grote-vragen-2.md %}
+- Tijdens het centrale werkcollege is de laatste code review van de periode.
 
 ## Aftekenen en nakijken week 7
 
@@ -264,16 +156,9 @@ Check of je <u>alles tot nu toe</u> hebt afgetekend dat afgetekend moet worden! 
 {% include_relative nakijken/cijfers.md opdracht="Filter" %}
 
 
+
 # Week 8
 
-Deze week is het tentamen. Studenten vinden de datum en locatie in het rooster op datanose. Zorg dat je niet toch nog de verkeerde gegevens vooraf gaat verspreiden, maar help studenten juist zelf de up-to-date gegevens in het rooster te vinden!
+Deze week is het tentamen van DR. Er is verder geen college en we nemen tijd om het tentamen na te kijken en eindcijfers te maken.
 
-Het tentamen zal bestaan uit een mix van programmeeropdrachten die live worden gedaan en meer theoretische vragen. Verdere informatie wordt via de website verspreid onder de studenten.
-
-## Werkgroep week 8
-
-Er is geen werkgroep. Vergeet niet om even gedag te zeggen tegen studenten die stoppen na Programmeren 1!
-
-## Nakijken week 8
-
-{% include_relative nakijken/cijfers.md opdracht="Speller" %}
+Volgende week is ook het hertentamen van Programmeren 1. Dit is dus ook het moment dat studenten daar nog extra voor oefenen.
