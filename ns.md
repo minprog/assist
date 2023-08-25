@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
@@ -29,7 +30,7 @@
 
 # Assistentenhandboek Programmeren NS
 
-### Martijn Stegeman & Ivo van Vulpen<br>versie Herfst 2022
+### Martijn Stegeman & Ivo van Vulpen<br>versie Herfst 2023
 
 <small>Gebaseerd op versie 2016 door Hella Haanstra en de instructies uit 2018 van Wouter Vrielink.</small>
 
@@ -49,7 +50,7 @@ Het doel van assisteren is om studenten **verder te helpen** tijdens het leren. 
 
 Maar de belangrijkste regel is: **we geven het antwoord niet weg**. Dat antwoord kan verschillen: het kan een ontbrekende stap in het stappenplan zijn, het kan een regel code zijn of iets dat verkeerd staat. In plaats van studenten rechtstreeks vertellen wat ze moeten doen, moeten we ze helpen nadenken over wat hun volgende stap is.
 
-> Maar het varieert wel! Blijkt de vraag in feite over het ontwerp van de oplossing te gaan, dan moet je iemand misschien helpen om een paar stappen terug te doen in het stappenplan. Maar gaat de vraag over een technische issue, dan kun je ze misschien wat directer wijzen hoe ze hun probleem kunnen oplossen, bijvoorbeeld door een foutmelding in Google te plakken. Tot slot kan het zijn dat je ziet dat een heel klein deeltje van de oplossing verkeerd is gekozen. Als dat moeilijk te vinden gaat zijn, dan moet je er misschien toch op wijzen.
+> Maar het varieert wel! Blijkt de vraag in feite over het ontwerp van de oplossing te gaan, dan moet je iemand misschien helpen om een paar stappen terug te doen en helpen met het opdelen van het probleem in stappen. Maar gaat de vraag over een technische issue, dan kun je ze misschien wat directer wijzen hoe ze hun probleem kunnen oplossen, bijvoorbeeld door een foutmelding in Google te plakken. Tot slot kan het zijn dat je ziet dat een heel klein deeltje van de oplossing verkeerd is gekozen. Als dat moeilijk te vinden gaat zijn, dan moet je er misschien toch op wijzen.
 
 Hou deze regel altijd in gedachten en maak een **bewuste keuze**. Je mag het ook best zeggen tegen studenten: "ik moet even nadenken hoe ik je het beste kan helpen zonder het antwoord weg te geven". Maar wel vriendelijk!
 
@@ -57,27 +58,25 @@ Hou deze regel altijd in gedachten en maak een **bewuste keuze**. Je mag het ook
 
 Tijdens het assisteren helpen we studenten op vijf gebieden:
 
-1. probleemdecompositie (fase 1 van het stappenplan)
-2. implementatie (fase 2 van het stappenplan)
-3. procesondersteuning (het stappenplan zelf)
+1. probleemdecompositie
+2. implementatie
+3. procesondersteuning
 4. vragen formuleren
 5. debugging
 
 Waarschijnlijk zijn er, zeker in het begin van de cursus, veel vragen die eigenlijk gaan over wat er in de **opdracht** bedoeld wordt. Het is niet altijd makkelijk om een goed overzicht te krijgen van de opdracht. In de walkthrough-filmpjes geeft Zamyla meestal een mooie decompositie voor het programma. Tijdens het helpen is het nuttig om te vragen of de student dat even wil opzoeken en dit samen nog even door te lopen. Meestal is het handig om de student naar het algoritmische deel van de opdracht te sturen, en later pas invoer/uitvoer goed te maken.
 
-> Hoe kun je de invoer overslaan? Bij Greedy moet de gebruikersinvoer een float zijn, die vervolgens wordt omgezet naar een `int` vóórdat het algoritme ermee aan de slag gaat. Dus dat hele deel kun je vervangen door een `int input = 42;` waarin je het getal kunt aanpassen om te testen. Het geeft beginners vaak veel lucht als ze zo simpel kunnen beginnen met het moeilijkste deel.
-
 In veel gevallen is het probleem van een student terug te leiden naar de eerste fase van het stappenplan. Hier wordt een ontwerp gemaakt van het algoritme waar we naar op zoek zijn. Dit wordt gedaan met zelfverzonnen voorbeelden en een nauwkeurige studie van hoe uit een invoer de uitvoer wordt "berekend". Is er een verkeerde **aanname** gedaan, of is een formule toch niet helemaal **correct**, dan is het vaak nodig om extra voorbeelden te bedenken en uit te vogelen waar het verkeerd zit. Zorg dat je in dit geval de student vraagt om dat te doen en later nog eens af te spreken.
 
-Soms is het vooral **integratie** waar een student hulp bij nodig heeft. Er is een aardig uitgewerkt algoritme, maar het overzicht ontbreekt nog. Hoe koppel je de invoer aan het algoritme en hoe zorg je dat het programma het juiste resultaat uitvoert? Dat kan nog best lastig zijn. Dit is onderdeel van de implementatie. Ook hier is het nuttig om de decompositie uit het walkthrough-filmpje even terug te halen (laat de student dit zelf opzoeken) en uit te vogelen waar het probleem zit.
+Soms is het vooral **integratie** waar een student hulp bij nodig heeft. Er is een aardig uitgewerkt algoritme, maar het overzicht ontbreekt nog. Hoe koppel je de invoer aan het algoritme en hoe zorg je dat het programma het juiste resultaat uitvoert? Dat kan nog best lastig zijn. Dit is onderdeel van de implementatie.
 
-En natuurlijk zijn er veel situaties waarin er een echte **bug** in het programma zit. Het programma zelf heeft al min of meer de juiste vorm, maar er worden bijvoorbeeld variabelen hergebruikt waardoor het niet goed loopt. Dat is het moment dat je hardop gaat meedenken over debuggingtechnieken. Het is aan assistenten om de student deze vaardigheden aan te leren. Natuurlijk kijk je eerst of de student eigenlijk wel weet hoe het debuggen moet (misschien eerst maar eens checken of alle variabelen de juiste waarde hebben met behulp van `printf`?).
+En natuurlijk zijn er veel situaties waarin er een echte **bug** in het programma zit. Het programma zelf heeft al min of meer de juiste vorm, maar er worden bijvoorbeeld variabelen hergebruikt waardoor het niet goed loopt. Dat is het moment dat je hardop gaat meedenken over debuggingtechnieken. Het is aan assistenten om de student deze vaardigheden aan te leren. Natuurlijk kijk je eerst of de student eigenlijk wel weet hoe het debuggen moet (misschien eerst maar eens checken of alle variabelen de juiste waarde hebben met behulp van `print`?).
 
 > - Kijk voor een opfrisser in *Think Python*[^3], hoofdstuk 20: Debugging.
 
 ## 1.3 Assistentie
 
-Studenten kunnen een hulpvraag indienen via de website. Deze "hands" verschijnen voor de assistenten in een lijst op de website. Je kiest de bovenste student om deze te "claimen", waarna de student een popup ontvangt. **Op dat moment "roep" je de naam van de student zodat deze bij jou kan komen.** Zodra je bij een student geweest bent en de vraag beantwoord hebt, teken je het verzoek af. Je komt dan weer in de lijst en kunt een nieuwe student uitkiezen om te helpen.
+Studenten kunnen een hulpvraag indienen via de website. Deze "hands" verschijnen voor de assistenten in een lijst op de website. Je kiest de bovenste student om deze te "claimen", waarna de student een popup ontvangt. Dan ga je er opaf! Zodra je bij een student geweest bent en de vraag beantwoord hebt, teken je het verzoek af. Je komt dan weer in de lijst en kunt een nieuwe student uitkiezen om te helpen.
 
 ![](images/hands.png)
 
@@ -93,11 +92,13 @@ Probeer gemiddeld 5--10 minuten per student aan te houden. Een absoluut maximum 
 
 Studenten die vastzitten met hun computer, misschien zelfs hardwareproblemen hebben, kunnen contact opnemen met de laptophelpdesk. Er zijn enkele momenten per week beschikbaar. De assistenten die gewend zijn om voor dit soort problemen een snelle diagnose te stellen kunnen hierbij helpen. Het doel is om studenten zo snel mogelijk weer op weg te krijgen en niet te lang te laten hangen bij problemen waar ze weinig van kunnen leren.
 
-Locatie laptophelpdesk: B1.19A (op eerste verdieping, dicht bij de centrale hal). Beschikbaar in de eerste weken tussen 10 en 16 uur.
+Locatie laptophelpdesk: B1.19A (op eerste verdieping, dicht bij de centrale hal). Beschikbaar in de eerste drie weken tussen 10 en 16 uur.
+
+<https://student.uva.nl/onderwerpen/laptopondersteuning>
 
 ## 1.5 Nazorg
 
-Als het niet lukt een student goed te helpen en je hebt het idee dat deze student in de problemen gaat komen of blijven, dan meld je dit door het aanmaken van een Todo in Basecamp. De coördinator kan dan kijken of er extra hulp geboden moet worden, of bijvoorbeeld een verwijzing naar de studieadviseur. Geef voldoende informatie om het probleem te begrijpen.
+Als het niet lukt een student goed te helpen en je hebt het idee dat deze student in de problemen gaat komen of blijven, dan meld je dit door het aanmaken van een Todo in Basecamp. De docent kan dan kijken of er extra hulp geboden moet worden, of bijvoorbeeld een verwijzing naar de studieadviseur. Geef voldoende informatie om het probleem te begrijpen.
 
 ![](images/nazorg.png){:width="50%"}
 
@@ -105,7 +106,7 @@ Als het niet lukt een student goed te helpen en je hebt het idee dat deze studen
 
 - Complimenteer de student op een duidelijke manier. Kies voor 'heel goed antwoord!', 'zeker weten' of 'precies', etc. Probeer een droog 'ok', 'hmm', 'uhu' te vermijden. Ook als de student een langdradig antwoord geeft, probeer iets te vinden waar je positieve feedback op kunt geven.
 
-- Laat je feedback betrekken op het specifieke antwoord van de student. Als de student bijvoorbeeld een for-loop voorstelt bij `mario.c`, antwoord iets in de trant van: 'inderdaad, er is een vorm van herhaling nodig'.
+- Laat je feedback betrekken op het specifieke antwoord van de student. Als de student bijvoorbeeld een for-loop voorstelt bij `goldbach.py`, antwoord iets in de trant van: 'inderdaad, er is een vorm van herhaling nodig'.
 
 - Probeer voort te bouwen op het antwoord van de student. Als het antwoord dat de student geeft niet helemaal naar wens is, probeer het dan mee te nemen in je volgende vraag. Iets als 'je hebt goed gezien dat je de String moet opdelen, wat is de volgende stap?' werkt motiverend.
 
@@ -121,7 +122,7 @@ Het cijfer voor elke module is het gemiddelde van de **correctheid** en de **kwa
 
 ## 2.1 Becijfering
 
-Alle modules kunnen 1--6 punten opleveren. Voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De aspecten gaan over codekwaliteit, en specifiek over **leesbaarheid** en **begrijpelijkheid**. De schaal is als volgt:
+Alle modules kunnen 1--6 punten opleveren. Tijdens de cursus krijgen studenten toegang tot de Stijlgids waarin diverse aspecten aangegeven staan, op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De aspecten gaan over codekwaliteit, en specifiek over **leesbaarheid** en **begrijpelijkheid** van het eindproduct. De schaal is als volgt:
 
 6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
 5. zeer goede kwaliteit, beperkt ruimte voor verbetering
@@ -133,11 +134,11 @@ Alle modules kunnen 1--6 punten opleveren. Voor elke module zijn diverse aspecte
 
 In deze schaal zitten een aantal patronen verborgen die het---met enige ervaring---makkelijker moeten maken om een inzending te beoordelen.
 
-- 1--4 punten gaat specifiek over de *genoemde* aspecten, dus de aspecten die deze week expliciet aan de opdracht gekoppeld zijn. Bij 4 punten is de student redelijkerwijs waar we iedereen willen hebben. Onze aandacht bij het nakijken gaat dus vooral naar deze studenten uit! Zij moeten snel beter worden.
+- 1--4 punten gaat specifiek over de *genoemde* aspecten, dus de aspecten die expliciet in de Stijlgids staan. Bij 4 punten is de student redelijkerwijs waar we iedereen willen hebben. Onze aandacht bij het nakijken gaat dus vooral naar deze studenten uit! Zij moeten snel beter worden.
 
 - Bij 3 punten zie je dat iemand wel de aspecten heeft "afgewerkt" maar niet heel consequent. Er is dus wel bewijs dat de student het kán, maar deze doet het niet overal. Bij 4 punten gaat het om een consequente ("degelijke") toepassing.
 
-- Bij 3--4 punten (en hoger) wordt gevraagd dat naar álle aspecten is gekeken. Het is dus niet zo dat studenten de aspecten onderling kunnen compenseren! Zijn er hele goede namen maar staat er geen commentaar, dan is het meteen 2 punten.
+- Bij 3--4 punten (en hoger) wordt gevraagd dat naar álle aspecten is gekeken. Het is dus niet zo dat studenten de aspecten onderling kunnen compenseren! Zijn er hele goede namen maar staat er *vrijwel helemaal* geen commentaar, dan is het meteen 2 punten.
 
 - 5--6 punten gaat over goede kwaliteit, zonder de aspecten te noemen. Studenten die hoog willen scoren moeten dus namelijk zelf aan de bak met uitzoeken hoe je goede code schrijft---alleen de regels volgen voldoet dan niet meer. Dit is om te voorkomen dat eigenwijze studenten hacker-achtige code schrijven en hoge cijfers opeisen omdat het formeel aan de aspecten voldoet.
 
@@ -147,7 +148,7 @@ Het is absoluut niet de bedoeling dat studenten **meerdere keren** minder dan 3 
 
 Er wordt een extra punt toegekend als een student de **extra opdracht** van de module werkend heeft ingeleverd.
 
-## 2.2 Plagiaat
+## 2.2 Plagiaat/samenwerken
 
 Het is helemaal prima als studenten elkaar helpen. Het allerbelangrijkste is dat de student die geholpen wordt nooit voorbeeldcode te zien krijgt of zodanig wordt geïnstrueerd dat de code gedeeltelijk door een ander bedacht is.
 
@@ -163,7 +164,7 @@ Voor elke student schrijf je feedback naar aanleiding van het ingeleverde werk. 
 
 ### Toon
 
-Vergeet niet ook positieve feedback te geven! Feedback wordt veel prettiger verwerkt als ook de positieve punten worden aangestipt. De makkelijkste manier om dit te doen is om te beginnen met de aspecten van de week en daar niet alleen de negatieve maar ook de positieve voorbeelden uit te halen. Daarnaast moet je een scherp oog ontwikkelen voor de goede intenties van studenten.
+Vergeet niet ook positieve feedback te geven! Feedback wordt veel prettiger verwerkt als ook de positieve punten worden aangestipt. De makkelijkste manier om dit te doen is om te beginnen met de aspecten en daar niet alleen de negatieve maar ook de positieve voorbeelden uit te halen. Daarnaast moet je een scherp oog ontwikkelen voor de goede intenties van studenten.
 
 ### Inhoud
 
@@ -196,7 +197,7 @@ Bovenstaande zal omgezet worden naar HTML en netjes leesbaar zijn voor studenten
 
 ## 2.4 Algemeen
 
-Het is handig om na het nakijken nog even terug te gaan naar de eerste paar inzendingen die je hebt nagekeken, omdat je dan misschien weer nieuwe dingen gezien hebt. Het is daarnaast handig om steeds dezelfde opdracht in een rijtje na te kijken (bijvoorbeeld eerst alle `recover.c`). Kijk ook steeds in een andere volgorde na, omdat je meestal de laatste iets strenger beoordeelt.
+Het is handig om na het nakijken nog even terug te gaan naar de eerste paar inzendingen die je hebt nagekeken, omdat je dan misschien weer nieuwe dingen gezien hebt. Kijk ook steeds in een andere volgorde na, omdat je meestal de laatste iets strenger beoordeelt.
 
 In het begin zal het nakijken wat moeizaam gaan, maar probeer maximaal 10--15 minuten per student te spenderen.  Nadat je wat ervaring hebt opgebouwd zul je zien dat het nakijken sneller gaat. Probeer in je geschreven feedback niet in herhaling te vallen, maar verwijs kort naar je eerdere feedback. Daarbij telt ook mee dat sommige van de studenten de feedback nauwelijks lezen terwijl andere studenten juist veel uit je commentaar halen. Kies op basis daarvan dus ook je prioriteiten en verspil niet al te veel tijd aan ongelezen feedback.
 
@@ -204,7 +205,7 @@ Dat gezegd hebbende, als je merkt dat een student de feedback negeert, spreek he
 
 # 3 Interne communicatie
 
-Voor bijna al het onderling contact is er [Basecamp](https://www.basecamp.com/). Je ontvangt een uitnodiging zodra je bij een vak aan de slag gaat. Je krijgt dan toegang tot het kanaal **ProgNS 2022**.
+Voor bijna al het onderling contact is er [Basecamp](https://www.basecamp.com/). Je ontvangt een uitnodiging zodra je bij een vak aan de slag gaat. Je krijgt dan toegang tot het kanaal **ProgNS 2023**.
 
 Lees het volgende even goed door zodra je de uitnodiging hebt gekregen, zodat je weet wat waar staat en moet staan.
 
@@ -218,14 +219,12 @@ De gedachte achter Basecamp is om zoveel mogelijk **asynchrone** communicatie te
 
 Hoe gebruik je de verschillende tools?
 
-- Heb je een Grote Vraag of een kleine vraag, wil je iets ter discussie stellen, heb je een mooi voorstel: schrijf dan een **Message** in één van de Basecamp-projecten.
-- Heb je informatie over een student, maak dan direct een **Todo** aan of vul een bestaande Todo aan met nieuwe informatie.
+- Heb je een Grote Vraag of een kleine vraag, wil je iets ter discussie stellen, heb je een mooi voorstel: schrijf dan een **Message**. Als het over een specifieke opdracht gaat, graag een topic aanmaken in "Alles over Opdrachten".
+- Heb je informatie over een student, maak dan direct een **Todo** aan of vul een bestaande Todo aan met nieuwe informatie, zoals eerder beschreven.
 - Heb je een urgent en concreet probleem, bijvoorbeeld tijdens het assisteren, dan kan iedereen je potentieel helpen en schrijf je dus een bericht in de **Campfire** van jouw cursus.
-- Heb je zelf persoonlijke problemen die je liever niet aan de grote klok hangt? **Mail** dan naar Ivo en Martijn.
+- Heb je zelf persoonlijke problemen die je liever niet aan de grote klok hangt? **Mail** dan naar Ivo en Martijn. *Stuur geen pings voor dit soort dingen!*
 
 Berichten over **specifieke studenten** plaats je dus als Todo in het project van jouw vak. Het is belangrijk dat we deze informatie delen met het team. Andere assistenten en docenten gaan hier natuurlijk discreet mee om, en kunnen bovendien aanvullen met hun eigen kennis over de student. Eventuele details over ziektes en omstandigheden e.d. kun je weglaten.
-
-![](images/studenten.png){: width="50%"}
 
 ## Afsluiting
 
@@ -235,7 +234,7 @@ Let op dat je account weer verwijderd wordt zodra je een paar weken niet meer as
 
 Je moet diverse accounts aanmaken om goed te kunnen assisteren. Volg de stappen hieronder en zorg vooral dat je alle diensten goed **uittest**, om latere stress te voorkomen! (Bijvoorbeeld als het delen van een Zoom-linkje niet blijkt te werken.)
 
-- Voor **Basecamp** krijg je een uitnodiging via het bekende e-mailadres (je kunt dit dus niet zelf starten). Maak direct dit account aan.
+- Voor **Basecamp** krijg je een uitnodiging via het bekende e-mailadres (je kunt dit dus niet zelf starten). Maak direct dit account aan zodra je de uitnodiging binnen hebt.
 
 - Maak een account voor **Programmeren NS** via <https://progns.proglab.nl/>. Na enige tijd krijg je extra rechten, zodat je de gegevens van je studenten kunt inzien en hun werk kunt nakijken.
 
